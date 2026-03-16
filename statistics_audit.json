@@ -104,7 +104,116 @@
         "1e-20": 84.1,
         "1e-50": 90.4
       }
+    },
+    "abstract_gc_cv": {
+      "cited": "6.1%",
+      "source": "Pipeline Module 6, P. salinus GC coefficient of variation"
+    },
+    "abstract_gc_gap": {
+      "cited": "10.7 pp",
+      "source": "Pipeline Module 2, coding-intergenic GC gap"
+    },
+    "abstract_singletons": {
+      "cited": "96.8%",
+      "source": "Pipeline Module 7, compositional singletons"
+    },
+    "abstract_esm2_cohens_d": {
+      "cited": "Cohen's d = 1.45",
+      "source": "Pipeline Module 8b, structural family null calibration"
+    },
+    "abstract_structural_p": {
+      "cited": "p = 0.90",
+      "source": "Pipeline Module 8, proto-gene NN similarity test"
     }
+  },
+
+  "results_section_0_compositional_landscape": {
+    "coding_density": {
+      "cited": "67.5%",
+      "source": "Pipeline Module 2, genome architecture comparison"
+    },
+    "intergenic_fraction": {
+      "cited": "32.5%",
+      "source": "Pipeline Module 2, genome architecture comparison"
+    },
+    "coding_gc": {
+      "cited": "64.6%",
+      "source": "Pipeline Module 2, mean coding region GC"
+    },
+    "intergenic_gc": {
+      "cited": "53.9%",
+      "source": "Pipeline Module 2, mean intergenic region GC"
+    },
+    "gc_gap_pp": {
+      "cited": "10.7 pp",
+      "computation": "64.6% - 53.9% = 10.7pp",
+      "source": "Pipeline Module 2"
+    },
+    "lambda_gc_gap": {"cited": "7.0 pp", "source": "Pipeline Module 2"},
+    "mimivirus_gc_gap": {"cited": "4.1 pp", "source": "Pipeline Module 2"},
+    "poly_at_enrichment_fold": {
+      "cited": "15-fold enriched",
+      "source": "Pipeline Module 3, AAAAAA/TTTTTT vs Markov-1 null"
+    },
+    "poly_at_z": {
+      "cited": "z > +100",
+      "source": "Pipeline Module 3"
+    },
+    "agct_depletion_fold": {
+      "cited": "1,500-fold",
+      "source": "Pipeline Module 3, AGCT observed/expected ratio"
+    },
+    "agct_z": {
+      "cited": "z = -82",
+      "source": "Pipeline Module 3"
+    },
+    "effect_size_pct_significant": {
+      "cited": "92.6% of 4-mers pass z > 3",
+      "source": "Pipeline Module 3"
+    },
+    "effect_size_after_filter": {
+      "cited": "10.5% after effect-size filter",
+      "source": "Pipeline Module 3"
+    },
+    "effect_size_noise_pct": {
+      "cited": "88.6% lack meaningful effect sizes",
+      "source": "Pipeline Module 3"
+    },
+    "cai_pandoravirus": {"cited": "0.787", "source": "Pipeline Module 4"},
+    "cai_mimivirus": {"cited": "0.657", "source": "Pipeline Module 4"},
+    "neutrality_r2": {"cited": "R^2 < 0.05", "source": "Pipeline Module 4, neutrality plot regression"},
+    "orfan_gc3_diff": {"cited": "+0.015", "source": "Pipeline Module 4"},
+    "orfan_enc_diff": {"cited": "-1.03", "source": "Pipeline Module 4"},
+    "orfan_cai_diff": {"cited": "+0.008", "source": "Pipeline Module 4"},
+    "orfan_upstream_cosine": {"cited": "0.9824", "source": "Pipeline Module 9"},
+    "prodigal_cds": {"cited": "1,685", "source": "Pipeline Module 5"},
+    "prodigal_confirmation_rate": {"cited": "93.4%", "source": "Pipeline Module 5"},
+    "prodigal_novel_genes": {"cited": "347", "source": "Pipeline Module 5"},
+    "prodigal_novel_mean_length": {"cited": "380 bp", "source": "Pipeline Module 5"},
+    "prodigal_novel_mean_gc": {"cited": "57.0%", "source": "Pipeline Module 5"},
+    "true_intergenic_after_prodigal": {"cited": "~23.8%", "source": "Pipeline Module 5"},
+    "native_zone_confirmation_rate": {"cited": "96.0% vs 92.4%", "source": "Pipeline Module 5"},
+    "native_zone_hypothetical_fraction": {"cited": "55.2% vs 66.2%", "source": "Pipeline Module 5"},
+    "gmm_cluster_native_n": {"cited": "53.8%", "source": "Pipeline Module 6"},
+    "gmm_cluster_highgc_n": {"cited": "29.4%", "source": "Pipeline Module 6"},
+    "gmm_cluster_variant_n": {"cited": "16.8%", "source": "Pipeline Module 6"},
+    "low_confidence_assignments": {"cited": "10 (0.7%)", "source": "Pipeline Module 6"},
+    "extreme_low_gc_outliers": {"cited": "51", "source": "Pipeline Module 6"},
+    "native_zone_chi_squared": {"cited": "19.26", "source": "Pipeline Module 6"},
+    "native_zone_chi_p": {"cited": "p = 6.6 x 10^-5", "source": "Pipeline Module 6"},
+    "gc_cv_pandoravirus": {"cited": "6.1%", "source": "Pipeline Module 6"},
+    "gc_cv_lambda": {"cited": "14.2%", "source": "Pipeline Module 6"},
+    "gc_cv_mimivirus": {"cited": "15.1%", "source": "Pipeline Module 6"},
+    "gc3_cv_pandoravirus": {"cited": "9.6%", "source": "Pipeline Module 6"},
+    "cai_cv_pandoravirus": {"cited": "4.0%", "source": "Pipeline Module 6"},
+    "esm2_structural_families": {"cited": "9", "source": "Pipeline Module 8"},
+    "esm2_within_family_sim": {"cited": "0.533", "source": "Pipeline Module 8b null calibration"},
+    "esm2_null_sim": {"cited": "0.368", "source": "Pipeline Module 8b null calibration"},
+    "esm2_cohens_d": {"cited": "1.45", "source": "Pipeline Module 8b null calibration"},
+    "esm2_gc_confound_pct": {"cited": "41%", "source": "Pipeline Module 8, PC1 GC correlation"},
+    "esm2_phase7_validated": {"cited": "10 of 14", "source": "Pipeline Module 8"},
+    "esm2_orfan_structural_matches": {"cited": "23", "source": "Pipeline Module 8"},
+    "esm2_cross_tier_families": {"cited": "8 of 9", "source": "Pipeline Module 8"}
   },
 
   "results_section_1_continuum": {
@@ -446,9 +555,37 @@
       "cited": "z = -82",
       "source": "Pipeline Module 3, AGCT 4-mer z-score"
     },
+    "palindromic_4mer_survey": {
+      "cited": "8 depleted, 7 enriched, 1 neutral",
+      "source": "Pipeline Module 3, peer review follow-up palindromic 4-mer survey"
+    },
     "structural_similarity_p": {
       "cited": "p = 0.90",
       "source": "Pipeline Module 8, nearest-neighbor similarity test (non-significant = non-separable)"
+    },
+    "singleton_rate": {
+      "cited": "96.8%",
+      "source": "Pipeline Module 7, gene family detection"
+    },
+    "gene_families_detected": {
+      "cited": "14",
+      "source": "Pipeline Module 7, compositional gene families at 0.50 threshold"
+    },
+    "null_similarity_cohens_d": {
+      "cited": "Cohen's d = 0.06",
+      "source": "Pipeline Module 7b, null similarity calibration"
+    },
+    "proto_gene_nn_similarity": {
+      "cited": "0.795",
+      "source": "Pipeline Module 8, proto-gene nearest-neighbor ESM-2 similarity"
+    },
+    "established_gene_nn_similarity": {
+      "cited": "0.751",
+      "source": "Pipeline Module 8, established gene nearest-neighbor ESM-2 similarity"
+    },
+    "centroid_distance_spread_ratio": {
+      "cited": "0.81",
+      "source": "Pipeline Module 8, proto-gene vs established gene centroid distance in PCA space"
     }
   },
 
