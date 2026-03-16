@@ -212,7 +212,7 @@ E.B. conceived the study, designed and implemented the analytical pipeline, perf
 
 ## Data Availability
 
-All analysis scripts, the PostgreSQL database schema, intermediate results, and raw BLAST output are available at https://github.com/mathamagician/pandoravirus-denovo-genebirth and archived with a permanent DOI at [Zenodo DOI — TO BE FILLED BEFORE SUBMISSION]. The *P. salinus* genome sequence is available under GenBank accession NC_022098.1. RNA-seq-informed GFF annotations were obtained from Legendre et al. (2018) via the IGS GBrowse server (http://www.igs.cnrs-mrs.fr/pandoraviruses/). A statistics audit file mapping every manuscript-cited number to its source computation is included in the repository.
+All analysis scripts, the PostgreSQL database schema, intermediate results, and raw BLAST output are available at https://github.com/mathamagician/pandoravirus-denovo-genebirth and archived with a permanent DOI at https://doi.org/10.5281/zenodo.19046142. The *P. salinus* genome sequence is available under GenBank accession NC_022098.1. RNA-seq-informed GFF annotations were obtained from Legendre et al. (2018) via the IGS GBrowse server (http://www.igs.cnrs-mrs.fr/pandoraviruses/). A statistics audit file mapping every manuscript-cited number to its source computation is included in the repository.
 
 ---
 
