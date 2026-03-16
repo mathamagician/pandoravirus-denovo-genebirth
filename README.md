@@ -1,6 +1,6 @@
 # Computational Evidence for De Novo Gene Birth in *Pandoravirus salinus*
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19046142.svg)](https://doi.org/10.5281/zenodo.19046142)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This repository contains the complete analytical pipeline and data for:
