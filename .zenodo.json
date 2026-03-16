@@ -1,0 +1,29 @@
+{
+  "title": "Computational evidence for a distributed AT-based regulatory mechanism enabling de novo gene birth in Pandoravirus salinus",
+  "description": "Analysis scripts, data, results, and manuscript for a computational study of de novo gene birth mechanisms in Pandoravirus salinus. Includes a 12-module analytical pipeline covering compositional analysis, structural prediction, transcriptomic validation, and genome-wide BLASTp homology analysis.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Bradford, Eddie",
+      "orcid": null
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Pandoravirus",
+    "de novo gene birth",
+    "ORFan genes",
+    "giant virus",
+    "gene regulation",
+    "computational genomics",
+    "Nucleocytoviricota"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mathamagician/pandoravirus-denovo-genebirth",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "This repository accompanies a manuscript submitted for peer review. All statistics cited in the manuscript are mapped to source computations in statistics_audit.json."
+}
