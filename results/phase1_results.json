@@ -1,0 +1,83 @@
+{
+  "hairpin_analysis": {
+    "total": 1430,
+    "hairpin_only": 619,
+    "polyT_only": 6,
+    "both": 804,
+    "neither": 1,
+    "total_hairpin": 1423,
+    "total_polyT": 810,
+    "overlap_pct": 99.25925925925925
+  },
+  "spatial_distribution": {
+    "annotated_bins": [
+      51.0,
+      39.0,
+      36.0,
+      55.0,
+      63.0,
+      72.0,
+      63.0,
+      59.0,
+      39.0,
+      51.0
+    ],
+    "orfan_bins": [
+      97.0,
+      88.0,
+      100.0,
+      86.0,
+      86.0,
+      76.0,
+      68.0,
+      89.0,
+      109.0,
+      103.0
+    ],
+    "orfan_fraction": [
+      0.6554054054054054,
+      0.6929133858267716,
+      0.7352941176470589,
+      0.6099290780141844,
+      0.5771812080536913,
+      0.5135135135135135,
+      0.5190839694656488,
+      0.6013513513513513,
+      0.7364864864864865,
+      0.6688311688311688
+    ],
+    "frac_5prime": 0.651925820256776,
+    "frac_3prime": 0.6104252400548696,
+    "chi2": 2.4675224418078767,
+    "p_value": 0.11622099144789762,
+    "zone_frac": 0.5947826086956521,
+    "non_zone_frac": 0.6549707602339181
+  },
+  "boundary_enrichment": {
+    "poly-A": {
+      "n": 6955,
+      "near_start_50": 631,
+      "near_end_50": 689,
+      "near_start_100": 1143,
+      "near_end_100": 1365,
+      "median_dist_start": 350.0,
+      "median_dist_end": 343.0
+    },
+    "poly-T": {
+      "n": 7010,
+      "near_start_50": 663,
+      "near_end_50": 674,
+      "near_start_100": 1229,
+      "near_end_100": 1379,
+      "median_dist_start": 354.0,
+      "median_dist_end": 349.0
+    }
+  },
+  "rho_independent": {
+    "total": 1430,
+    "rho_like": 332,
+    "hairpin_only": 1077,
+    "polyT_only": 17,
+    "neither": 4
+  }
+}

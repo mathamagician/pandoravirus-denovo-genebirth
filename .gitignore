@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal working notes (not for publication)
+Claude app suggestions notes.txt
+Peer review docs/
+paper_revision_guide.md
+
+# Environment
+.env
+*.env
