@@ -21,3 +21,4 @@ paper_revision_guide.md
 # Environment
 .env
 *.env
+Postgres pw.txt
