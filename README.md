@@ -25,7 +25,7 @@ transcriptional capability.
 
 ## Critical Literature Findings
 
-### Already Known (changes our framing)
+### Already Known 
 The Claverie group has ALREADY proposed de novo gene creation from intergenic space as the
 main diversifying force of Pandoraviridae (Legendre et al. 2018, Jeudy et al. 2019).
 Our contribution is NOT the de novo gene birth model itself, but:
