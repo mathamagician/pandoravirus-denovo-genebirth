@@ -1,0 +1,473 @@
+{
+  "_description": "Maps every statistic cited in the manuscript to its source computation. Each entry includes the manuscript location, the cited value, the source file, and the exact key or computation that produced it.",
+
+  "abstract": {
+    "genome_size_mb": {
+      "cited": "2.47 Mb",
+      "exact": 2473870,
+      "source": "GenBank NC_022098.1",
+      "note": "2,473,870 bp"
+    },
+    "orfan_fraction": {
+      "cited": "92.5%",
+      "source": "Philippe et al. 2013, confirmed by pipeline Module 4"
+    },
+    "T1_gc": {
+      "cited": "0.650",
+      "source": "Pipeline Module 7c proto-gene analysis, T1 tier mean"
+    },
+    "T1_length": {
+      "cited": "1,452 bp",
+      "source": "Pipeline Module 7c proto-gene analysis, T1 tier mean"
+    },
+    "T5_gc": {
+      "cited": "0.547",
+      "source": "Pipeline Module 7c proto-gene analysis, T5 tier mean"
+    },
+    "T5_length": {
+      "cited": "216 bp",
+      "source": "Pipeline Module 7c proto-gene analysis, T5 tier mean"
+    },
+    "T5_codon_p": {
+      "cited": "p = 0.0005",
+      "source": "Pipeline Module 7c, T5 vs random ORF codon usage test"
+    },
+    "proto_gene_regulatory_p": {
+      "cited": "p = 0.14",
+      "source": "Pipeline Module 9, T4 upstream AT content vs annotated genes"
+    },
+    "boundary_at_start_pp": {
+      "cited": "+10.3 pp",
+      "exact": 10.318,
+      "source": "results/phase1b_results.json",
+      "key": "metagene.start_spike_pp"
+    },
+    "boundary_at_end_pp": {
+      "cited": "+9.8 pp",
+      "exact": 9.759,
+      "source": "results/phase1b_results.json",
+      "key": "metagene.end_spike_pp"
+    },
+    "strand_aware_correct_pct": {
+      "cited": "74%",
+      "exact_numerator": 3559,
+      "exact_denominator": 4810,
+      "exact_pct": 73.99,
+      "source": "results/phase1b_results.json",
+      "key": "strand_aware.total_correct / strand_aware.total_all_boundary"
+    },
+    "strand_aware_binomial_p": {
+      "cited": "p < 10^-6",
+      "source": "results/phase1b_results.json, binomial test against 50% null"
+    },
+    "annotated_orphan_rate": {
+      "cited": "81.8%",
+      "exact": 81.77,
+      "computation": "426 / 521 = 0.8177",
+      "source": "results/phase2_results.json",
+      "keys": "basic.self_only / basic.successful_queries"
+    },
+    "hypothetical_orphan_rate": {
+      "cited": "97.0%",
+      "exact": 96.99,
+      "computation": "290 / 299 = 0.9699",
+      "source": "results/phase2_results.json",
+      "keys": "(comparison.hypothetical_n - comparison.hypothetical_hits) / comparison.hypothetical_n"
+    },
+    "annotated_vs_hyp_or": {
+      "cited": "OR = 7.19",
+      "exact": 7.1857,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_or"
+    },
+    "annotated_vs_hyp_ci": {
+      "cited": "95% CI: 3.5-13.6",
+      "exact_lower": 3.4576,
+      "exact_upper": 13.5594,
+      "source": "results/phase2_results.json",
+      "keys": "comparison.fisher_ci_lower, comparison.fisher_ci_upper",
+      "method": "Haldane-corrected Woolf method"
+    },
+    "annotated_vs_hyp_p": {
+      "cited": "p = 7.79 x 10^-12",
+      "exact": 7.7915e-12,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_p"
+    },
+    "evalue_orphan_range": {
+      "cited": "81.8%-90.4%",
+      "source": "results/phase2_results.json",
+      "key": "sensitivity",
+      "values": {
+        "1e-5": 81.8,
+        "1e-10": 83.1,
+        "1e-20": 84.1,
+        "1e-50": 90.4
+      }
+    }
+  },
+
+  "results_section_1_continuum": {
+    "total_orfs": {
+      "cited": "2,292",
+      "computation": "1,430 GenBank + 862 Prodigal-only",
+      "source": "Pipeline Modules 5 + 7c"
+    },
+    "T1_n": {"cited": 516, "source": "Pipeline Module 7c"},
+    "T2_n": {"cited": 784, "source": "Pipeline Module 7c"},
+    "T3_n": {"cited": 130, "source": "Pipeline Module 7c"},
+    "T4_n": {"cited": 335, "source": "Pipeline Module 7c"},
+    "T5_n": {"cited": 527, "source": "Pipeline Module 7c"},
+    "intergenic_gc_avg": {
+      "cited": "0.539",
+      "source": "Pipeline Module 2"
+    },
+    "T4_codon_p": {
+      "cited": "p = 0.020",
+      "source": "Pipeline Module 7c, T4 vs random ORF codon usage test"
+    },
+    "T5_codon_p": {
+      "cited": "p = 0.0005",
+      "source": "Pipeline Module 7c, T5 vs random ORF codon usage test"
+    },
+    "T4_spatial_p": {"cited": "p = 0.99", "source": "Pipeline Module 7c spatial clustering test"},
+    "T5_spatial_p": {"cited": "p = 1.0", "source": "Pipeline Module 7c spatial clustering test"},
+    "gc_cv": {
+      "cited": "6.1%",
+      "source": "Pipeline Module 2, P. salinus GC coefficient of variation"
+    },
+    "gc3_difference": {"cited": "+0.015", "source": "Pipeline Module 4, ORFan vs annotated GC3 difference"},
+    "cai_difference": {"cited": "+0.008", "source": "Pipeline Module 4, ORFan vs annotated CAI difference"},
+    "upstream_6mer_cosine": {"cited": "0.9824", "source": "Pipeline Module 9, upstream 6-mer cosine similarity"}
+  },
+
+  "results_section_2_regulatory": {
+    "boundary_at_start_unfiltered": {
+      "cited": "+7.0 pp",
+      "source": "Pipeline Module 9, unfiltered meta-gene profile"
+    },
+    "boundary_at_end_unfiltered": {
+      "cited": "+9.5 pp",
+      "source": "Pipeline Module 9, unfiltered meta-gene profile"
+    },
+    "poly_a_count": {"cited": 6955, "source": "Pipeline Module 9"},
+    "poly_t_count": {"cited": 7010, "source": "Pipeline Module 9"},
+    "intergenic_fraction": {"cited": "82.8-83.9%", "source": "Pipeline Module 9"},
+    "poly_a_upstream_start_pct": {"cited": "41.5%", "source": "Pipeline Module 9"},
+    "poly_t_downstream_end_pct": {"cited": "40.8%", "source": "Pipeline Module 9"},
+    "divergent_length": {"cited": "582 bp", "source": "Pipeline Module 9"},
+    "convergent_length": {"cited": "498 bp", "source": "Pipeline Module 9"},
+    "divergent_convergent_p": {"cited": "p < 0.0001", "source": "Pipeline Module 9"},
+    "divergent_density": {"cited": "6.67 runs/kb", "source": "Pipeline Module 9"},
+    "convergent_density": {"cited": "7.69 runs/kb", "source": "Pipeline Module 9"},
+    "T4_upstream_at": {"cited": "45.0%", "source": "Pipeline Module 9"},
+    "T4_upstream_p": {"cited": "p = 0.14", "source": "Pipeline Module 9"},
+    "T5_upstream_at": {"cited": "46.7%", "source": "Pipeline Module 9"},
+    "T5_upstream_p": {"cited": "p = 0.25", "source": "Pipeline Module 9"},
+    "annotated_upstream_at": {"cited": "45.9%", "source": "Pipeline Module 9"}
+  },
+
+  "results_section_3_validation": {
+    "intergenic_runs_after_filter": {
+      "cited": 11640,
+      "computation": "5759 + 5881 = 11640",
+      "source": "results/phase1b_results.json",
+      "keys": "intergenic_filter.ig_poly_A + intergenic_filter.ig_poly_T"
+    },
+    "coding_runs_removed": {
+      "cited": 2325,
+      "computation": "1196 + 1129 = 2325",
+      "source": "results/phase1b_results.json",
+      "keys": "intergenic_filter.coding_removed_A + intergenic_filter.coding_removed_T"
+    },
+    "coding_removal_pct": {
+      "cited": "16.6%",
+      "computation": "2325 / (11640 + 2325) = 0.1665",
+      "source": "results/phase1b_results.json"
+    },
+    "promoter_count": {
+      "cited": 2332,
+      "source": "results/phase1b_results.json",
+      "key": "strand_aware.promoter_signal"
+    },
+    "terminator_count": {
+      "cited": 1227,
+      "source": "results/phase1b_results.json",
+      "key": "strand_aware.terminator_signal"
+    },
+    "promoter_to_terminator_ratio": {
+      "cited": "1.9:1",
+      "computation": "2332 / 1227 = 1.90",
+      "source": "results/phase1b_results.json"
+    },
+    "metagene_start_spike": {
+      "cited": "+10.3 pp",
+      "exact": 10.318,
+      "source": "results/phase1b_results.json",
+      "key": "metagene.start_spike_pp"
+    },
+    "metagene_end_spike": {
+      "cited": "+9.8 pp",
+      "exact": 9.759,
+      "source": "results/phase1b_results.json",
+      "key": "metagene.end_spike_pp"
+    },
+    "hairpin_observed": {
+      "cited": "11.6%",
+      "exact": 0.1161,
+      "source": "results/phase1b_results.json",
+      "key": "hairpin_null.observed_rate"
+    },
+    "hairpin_null_expected": {
+      "cited": "9.7%",
+      "exact": 0.0965,
+      "source": "results/phase1b_results.json",
+      "key": "hairpin_null.null_mean"
+    },
+    "hairpin_excess": {
+      "cited": "2.0 pp",
+      "exact": 0.0195,
+      "source": "results/phase1b_results.json",
+      "key": "hairpin_null.excess"
+    },
+    "hairpin_z": {
+      "cited": "z = 3.6",
+      "exact": 3.598,
+      "source": "results/phase1b_results.json",
+      "key": "hairpin_null.z_score"
+    },
+    "boundary_proximal_n": {
+      "cited": 4331,
+      "computation": "2100 + 2231 = 4331",
+      "source": "results/phase1b_results.json",
+      "keys": "two_population.n_boundary_A + two_population.n_boundary_T"
+    },
+    "dispersed_n": {
+      "cited": 7309,
+      "computation": "3659 + 3650 = 7309",
+      "source": "results/phase1b_results.json",
+      "keys": "two_population.n_dispersed_A + two_population.n_dispersed_T"
+    },
+    "two_pop_at_ratio_p": {
+      "cited": "p = 0.105",
+      "exact": 0.1047,
+      "source": "results/phase1b_results.json",
+      "key": "two_population.AT_ratio_p"
+    },
+    "two_pop_length_p": {
+      "cited": "p = 0.093",
+      "exact": 0.0931,
+      "source": "results/phase1b_results.json",
+      "key": "two_population.length_p"
+    }
+  },
+
+  "results_section_4_homology": {
+    "total_attempted": {
+      "cited": 528,
+      "source": "results/phase2_results.json",
+      "key": "basic.total_attempted"
+    },
+    "successful_queries": {
+      "cited": 521,
+      "source": "results/phase2_results.json",
+      "key": "basic.successful_queries"
+    },
+    "connection_errors": {
+      "cited": 7,
+      "source": "results/phase2_results.json",
+      "key": "basic.connection_errors"
+    },
+    "self_only": {
+      "cited": 426,
+      "source": "results/phase2_results.json",
+      "key": "basic.self_only"
+    },
+    "self_only_pct": {
+      "cited": "81.8%",
+      "computation": "426 / 521 = 0.8177",
+      "source": "results/phase2_results.json"
+    },
+    "non_self_hits": {
+      "cited": 95,
+      "source": "results/phase2_results.json",
+      "key": "basic.has_non_self_hit"
+    },
+    "taxonomy_marine_algae": {
+      "cited": "28 (29.5%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Marine algae']"
+    },
+    "taxonomy_giant_virus": {
+      "cited": "24 (25.3%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Giant virus']"
+    },
+    "taxonomy_amoebozoa": {
+      "cited": "13 (13.7%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Amoebozoa']"
+    },
+    "taxonomy_bacteria": {
+      "cited": "11 (11.6%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Bacteria']"
+    },
+    "taxonomy_insect": {
+      "cited": "11 (11.6%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Insect']"
+    },
+    "taxonomy_other_euk": {
+      "cited": "7 (7.4%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Other eukaryote']"
+    },
+    "taxonomy_other_virus": {
+      "cited": "1 (1.1%)",
+      "source": "results/phase2_results.json",
+      "key": "taxonomy['Other virus']"
+    },
+    "identity_marine_algae_mean": {
+      "cited": "44.2%",
+      "exact": 44.225,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Marine algae'].mean"
+    },
+    "identity_giant_virus_mean": {
+      "cited": "47.5%",
+      "exact": 47.5,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Giant virus'].mean"
+    },
+    "identity_amoebozoa_mean": {
+      "cited": "50.1%",
+      "exact": 50.115,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Amoebozoa'].mean"
+    },
+    "identity_bacteria_mean": {
+      "cited": "38.1%",
+      "exact": 38.127,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Bacteria'].mean"
+    },
+    "identity_insect_mean": {
+      "cited": "41.1%",
+      "exact": 41.091,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Insect'].mean"
+    },
+    "identity_other_euk_mean": {
+      "cited": "42.9%",
+      "exact": 42.886,
+      "source": "results/phase2_results.json",
+      "key": "identity_by_taxonomy['Other eukaryote'].mean"
+    },
+    "native_zone_hits": {
+      "cited": "45 of 95",
+      "source": "results/phase2_results.json",
+      "key": "spatial.hit_in_native"
+    },
+    "native_zone_or": {
+      "cited": "OR = 1.94",
+      "exact": 1.9445,
+      "source": "results/phase2_results.json",
+      "key": "spatial.fisher_or"
+    },
+    "native_zone_p": {
+      "cited": "p = 0.004",
+      "exact": 0.00422,
+      "source": "results/phase2_results.json",
+      "key": "spatial.fisher_p"
+    },
+    "hypothetical_n": {
+      "cited": 299,
+      "source": "results/phase2_results.json",
+      "key": "comparison.hypothetical_n"
+    },
+    "hypothetical_hits": {
+      "cited": 9,
+      "source": "results/phase2_results.json",
+      "key": "comparison.hypothetical_hits"
+    },
+    "hypothetical_hit_rate": {
+      "cited": "3.0%",
+      "exact": 3.010,
+      "source": "results/phase2_results.json",
+      "key": "comparison.hypothetical_hit_rate"
+    },
+    "annotated_hit_rate": {
+      "cited": "18.2%",
+      "exact": 18.234,
+      "source": "results/phase2_results.json",
+      "key": "comparison.annotated_hit_rate"
+    },
+    "comparison_or": {
+      "cited": "OR = 7.19",
+      "exact": 7.1857,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_or"
+    },
+    "comparison_ci_lower": {
+      "cited": "3.5",
+      "exact": 3.4576,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_ci_lower"
+    },
+    "comparison_ci_upper": {
+      "cited": "13.6",
+      "exact": 13.5594,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_ci_upper"
+    },
+    "comparison_p": {
+      "cited": "p = 7.79 x 10^-12",
+      "exact": 7.7915e-12,
+      "source": "results/phase2_results.json",
+      "key": "comparison.fisher_p"
+    },
+    "evalue_sensitivity": {
+      "cited": "81.8% at 1e-5, 83.1% at 1e-10, 84.1% at 1e-20, 90.4% at 1e-50",
+      "source": "results/phase2_results.json",
+      "key": "sensitivity"
+    },
+    "hyp_taxonomy_giant_virus": {"cited": "6 (66.7%)", "source": "results/blastp_hypothetical.json analysis"},
+    "hyp_taxonomy_amoebozoa": {"cited": "2 (22.2%)", "source": "results/blastp_hypothetical.json analysis"},
+    "hyp_taxonomy_bacteria": {"cited": "1 (11.1%)", "source": "results/blastp_hypothetical.json analysis"}
+  },
+
+  "discussion": {
+    "agct_depletion_fold": {
+      "cited": "1,500-fold depletion",
+      "source": "Pipeline Module 3, AGCT 4-mer observed/expected ratio"
+    },
+    "agct_depletion_z": {
+      "cited": "z = -82",
+      "source": "Pipeline Module 3, AGCT 4-mer z-score"
+    },
+    "structural_similarity_p": {
+      "cited": "p = 0.90",
+      "source": "Pipeline Module 8, nearest-neighbor similarity test (non-significant = non-separable)"
+    }
+  },
+
+  "methods": {
+    "genome_accession": "NC_022098.1",
+    "genome_length": 2473870,
+    "annotated_cds": 1430,
+    "comparison_genomes": {
+      "PhiX174": "NC_001422.1 (5,386 bp)",
+      "Lambda": "NC_001416.1 (48,502 bp)",
+      "Mimivirus": "NC_014649.1 (1,181,549 bp)"
+    },
+    "database_tables": 22,
+    "blast_evalue_threshold": 1e-5,
+    "blast_max_hits": 10,
+    "hypothetical_sample_seeds": "42 (first 100), 43 (additional 200)",
+    "hypothetical_attempted": 300,
+    "hypothetical_successful": 299,
+    "taxonomy_organisms_in_lookup": 50,
+    "taxonomy_misclassification_corrected": "12 prasinophyte green algae initially misclassified as bacteria"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "intergenic_filter": {
+    "ig_poly_A": 5759,
+    "ig_poly_T": 5881,
+    "coding_removed_A": 1196,
+    "coding_removed_T": 1129
+  },
+  "strand_aware": {
+    "plus_genes": 721,
+    "minus_genes": 709,
+    "pA_upstream_plus_start": 1164,
+    "pT_downstream_plus_end": 1227,
+    "pT_upstream_minus_start": 1168,
+    "promoter_signal": 2332,
+    "terminator_signal": 1227,
+    "total_correct": 3559,
+    "total_all_boundary": 4810
+  },
+  "metagene": {
+    "start_spike_pp": 10.31798031345299,
+    "end_spike_pp": 9.758539754012435
+  },
+  "hairpin_null": {
+    "observed_rate": 0.11608391608391608,
+    "observed_count": 166,
+    "n_regions": 1430,
+    "null_mean": 0.09653846153846155,
+    "null_std": 0.005432423312177686,
+    "z_score": 3.597925533829465,
+    "p_value": 0.0,
+    "excess": 0.019545454545454533,
+    "min_stem": 6
+  },
+  "two_population": {
+    "n_boundary_A": 2100,
+    "n_boundary_T": 2231,
+    "n_dispersed_A": 3659,
+    "n_dispersed_T": 3650,
+    "boundary_A_frac": 0.4848764719464327,
+    "dispersed_A_frac": 0.5006156792994938,
+    "length_p": 0.09313827207001892,
+    "AT_ratio_p": 0.10469987790244557
+  }
+}

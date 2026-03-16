@@ -1,0 +1,4674 @@
+{
+  "basic": {
+    "total_attempted": 528,
+    "successful_queries": 521,
+    "connection_errors": 7,
+    "has_any_hit": 521,
+    "has_non_self_hit": 95,
+    "self_only": 426,
+    "genuine_no_hits": 0
+  },
+  "taxonomy": {
+    "Giant virus": 24,
+    "Marine algae": 28,
+    "Bacteria": 11,
+    "Amoebozoa": 13,
+    "Insect": 11,
+    "Other eukaryote": 7,
+    "Other virus": 1
+  },
+  "protein_taxonomy": {
+    "YP_008436418.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus kamchatka",
+      "pct_identity": 54.2,
+      "evalue": 3.25074e-112,
+      "query_coverage": 78.1
+    },
+    "YP_008436421.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436423.1": {
+      "category": "Marine algae",
+      "organism": "Micromonas pusilla CCMP1545",
+      "pct_identity": 48.6,
+      "evalue": 2.30199e-120,
+      "query_coverage": 83.3
+    },
+    "YP_008436425.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436426.1": {
+      "category": "Bacteria",
+      "organism": "Clostridia bacterium",
+      "pct_identity": 28.5,
+      "evalue": 8.10811e-09,
+      "query_coverage": 41.8
+    },
+    "YP_008436429.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436432.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436433.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436437.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436440.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436441.1": {
+      "category": "Marine algae",
+      "organism": "Scytosiphon promiscuus",
+      "pct_identity": 67.8,
+      "evalue": 1.24061e-31,
+      "query_coverage": 60.4
+    },
+    "YP_009429945.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436454.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436464.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436465.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436467.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436500.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429950.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429951.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436523.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436525.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436527.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436529.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436542.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436545.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436546.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436548.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429956.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436563.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436564.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436573.1": {
+      "category": "Giant virus",
+      "organism": "Acanthamoeba castellanii medusavirus J1",
+      "pct_identity": 51.8,
+      "evalue": 9.48079e-146,
+      "query_coverage": 95.8
+    },
+    "YP_008436581.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436582.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429957.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436590.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436616.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436618.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436620.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436627.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436630.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 29.9,
+      "evalue": 2.36373e-07,
+      "query_coverage": 63.7
+    },
+    "YP_008436637.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436639.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436649.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436653.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436654.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436656.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436661.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436667.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436670.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436672.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436674.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436697.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436705.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436713.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436716.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436718.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436724.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429966.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429967.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436735.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429970.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436750.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436757.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436760.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436766.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436775.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436777.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436785.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436790.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429974.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436796.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436797.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436799.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429975.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436808.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436813.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436821.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436828.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436830.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436832.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429980.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436847.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436849.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436862.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436869.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436887.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429985.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436909.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436915.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429988.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436937.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436942.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436944.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436949.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436953.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436959.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436966.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436977.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436983.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008436991.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009429997.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437001.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437017.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437032.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437035.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437038.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437048.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430000.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437064.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437076.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437083.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437090.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437095.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437104.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437107.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437119.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437126.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437133.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437137.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437153.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437160.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437170.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437177.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437180.2": {
+      "category": "Giant virus",
+      "organism": "Pacmanvirus S19",
+      "pct_identity": 49.6,
+      "evalue": 3.0446e-39,
+      "query_coverage": 100.0
+    },
+    "YP_008437181.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437193.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437195.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437204.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430011.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430012.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437219.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437221.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437231.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430014.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430017.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437257.1": {
+      "category": "Amoebozoa",
+      "organism": "Balamuthia mandrillaris",
+      "pct_identity": 83.5,
+      "evalue": 2.88371e-121,
+      "query_coverage": 25.6
+    },
+    "YP_008437260.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437271.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437272.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437276.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437279.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437283.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430019.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437291.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437304.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437307.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437317.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437323.1": {
+      "category": "Giant virus",
+      "organism": "Acanthamoeba castellanii medusavirus J1",
+      "pct_identity": 60.6,
+      "evalue": 2.61329e-76,
+      "query_coverage": 90.2
+    },
+    "YP_008437331.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437334.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430022.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430023.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437357.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430024.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437375.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437385.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430027.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437402.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437404.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437407.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437409.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437411.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus lausannensis",
+      "pct_identity": 55.6,
+      "evalue": 5.62424e-38,
+      "query_coverage": 59.4
+    },
+    "YP_008437421.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437426.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437428.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437430.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430028.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437434.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437435.1": {
+      "category": "Bacteria",
+      "organism": "Akkermansia sp.",
+      "pct_identity": 39.5,
+      "evalue": 1.1727e-12,
+      "query_coverage": 82.6
+    },
+    "YP_008437437.1": {
+      "category": "Giant virus",
+      "organism": "Bodo saltans virus",
+      "pct_identity": 49.1,
+      "evalue": 3.22358e-45,
+      "query_coverage": 60.5
+    },
+    "YP_009430029.1": {
+      "category": "Amoebozoa",
+      "organism": "Balamuthia mandrillaris",
+      "pct_identity": 53.5,
+      "evalue": 3.71921e-28,
+      "query_coverage": 45.6
+    },
+    "YP_008437443.1": {
+      "category": "Bacteria",
+      "organism": "Desulfobulbaceae bacterium",
+      "pct_identity": 38.9,
+      "evalue": 5.63183e-50,
+      "query_coverage": 66.5
+    },
+    "YP_008437445.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437447.1": {
+      "category": "Marine algae",
+      "organism": "Myriotrichia clavaeformis",
+      "pct_identity": 44.7,
+      "evalue": 1.04636e-90,
+      "query_coverage": 85.7
+    },
+    "YP_008437448.1": {
+      "category": "Marine algae",
+      "organism": "Micromonas pusilla CCMP1545",
+      "pct_identity": 54.7,
+      "evalue": 9.15562e-77,
+      "query_coverage": 70.5
+    },
+    "YP_009430030.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437456.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437458.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430031.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437461.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437465.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437470.1": {
+      "category": "Marine algae",
+      "organism": "Myriotrichia clavaeformis",
+      "pct_identity": 55.1,
+      "evalue": 1.32189e-75,
+      "query_coverage": 73.9
+    },
+    "YP_008437471.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437473.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437474.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437475.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437476.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437479.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437480.1": {
+      "category": "Giant virus",
+      "organism": "Bodo saltans virus",
+      "pct_identity": 39.1,
+      "evalue": 2.9661e-62,
+      "query_coverage": 67.1
+    },
+    "YP_008437482.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437483.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437486.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437487.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437488.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437489.1": {
+      "category": "Marine algae",
+      "organism": "Ectocarpus fasciculatus",
+      "pct_identity": 52.8,
+      "evalue": 5.62702e-111,
+      "query_coverage": 76.5
+    },
+    "YP_008437491.1": {
+      "category": "Marine algae",
+      "organism": "Dunaliella salina",
+      "pct_identity": 49.4,
+      "evalue": 7.80674e-74,
+      "query_coverage": 79.1
+    },
+    "YP_008437493.1": {
+      "category": "Giant virus",
+      "organism": "Bodo saltans virus",
+      "pct_identity": 50.9,
+      "evalue": 8.80187e-43,
+      "query_coverage": 54.3
+    },
+    "YP_008437494.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437497.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430034.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437501.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430036.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437508.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437514.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437518.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430038.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437521.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 59.6,
+      "evalue": 6.78131e-44,
+      "query_coverage": 57.1
+    },
+    "YP_008437529.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430041.1": {
+      "category": "Amoebozoa",
+      "organism": "Balamuthia mandrillaris",
+      "pct_identity": 37.6,
+      "evalue": 4.21763e-61,
+      "query_coverage": 93.1
+    },
+    "YP_008437532.1": {
+      "category": "Other eukaryote",
+      "organism": "Prymnesium parvum",
+      "pct_identity": 39.9,
+      "evalue": 3.13192e-76,
+      "query_coverage": 80.0
+    },
+    "YP_008437535.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437538.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437543.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 34.3,
+      "evalue": 1.28311e-35,
+      "query_coverage": 86.0
+    },
+    "YP_008437545.1": {
+      "category": "Marine algae",
+      "organism": "Dunaliella salina",
+      "pct_identity": 43.5,
+      "evalue": 4.10148e-71,
+      "query_coverage": 51.4
+    },
+    "YP_008437547.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437551.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437553.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437564.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437577.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437578.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437581.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437584.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430044.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430045.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437604.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437605.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437607.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437633.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437635.1": {
+      "category": "Giant virus",
+      "organism": "Mollivirus kamchatka",
+      "pct_identity": 72.8,
+      "evalue": 0.0,
+      "query_coverage": 97.6
+    },
+    "YP_008437637.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437642.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437644.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437659.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437660.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437663.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437667.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430049.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437681.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437686.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430051.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437707.2": {
+      "category": "Giant virus",
+      "organism": "Pithovirus sibericum",
+      "pct_identity": 47.1,
+      "evalue": 0.0,
+      "query_coverage": 98.1
+    },
+    "YP_009430054.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437716.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437719.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437732.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437739.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437740.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430059.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437752.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437756.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430060.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437767.2": {
+      "category": "Marine algae",
+      "organism": "Scytosiphon promiscuus",
+      "pct_identity": 42.5,
+      "evalue": 1.6084e-103,
+      "query_coverage": 92.8
+    },
+    "YP_008437769.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437772.1": {
+      "category": "Bacteria",
+      "organism": "Desulfobulbaceae bacterium",
+      "pct_identity": 40.6,
+      "evalue": 1.62864e-36,
+      "query_coverage": 43.7
+    },
+    "YP_008437774.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437778.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437781.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437782.2": {
+      "category": "Marine algae",
+      "organism": "Feldmannia mitchelliae",
+      "pct_identity": 47.2,
+      "evalue": 2.69207e-88,
+      "query_coverage": 69.4
+    },
+    "YP_008437786.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437787.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437789.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus kamchatka",
+      "pct_identity": 51.1,
+      "evalue": 3.15899e-105,
+      "query_coverage": 78.1
+    },
+    "YP_008437792.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437795.1": {
+      "category": "Marine algae",
+      "organism": "Scytosiphon promiscuus",
+      "pct_identity": 47.6,
+      "evalue": 2.22374e-79,
+      "query_coverage": 82.3
+    },
+    "YP_008437797.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437798.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437800.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus duvanny",
+      "pct_identity": 41.7,
+      "evalue": 1.109e-79,
+      "query_coverage": 70.2
+    },
+    "YP_008437801.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437802.1": {
+      "category": "Other eukaryote",
+      "organism": "Seminavis robusta",
+      "pct_identity": 41.7,
+      "evalue": 3.16987e-78,
+      "query_coverage": 84.4
+    },
+    "YP_009430062.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437813.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430063.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430064.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430065.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437820.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437836.1": {
+      "category": "Marine algae",
+      "organism": "Micromonas pusilla CCMP1545",
+      "pct_identity": 42.3,
+      "evalue": 6.69576e-17,
+      "query_coverage": 40.1
+    },
+    "YP_008437837.1": {
+      "category": "Marine algae",
+      "organism": "Choristocarpus tenellus",
+      "pct_identity": 44.1,
+      "evalue": 9.4386e-34,
+      "query_coverage": 88.6
+    },
+    "YP_008437840.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437842.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437847.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437849.2": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 48.9,
+      "evalue": 2.23601e-44,
+      "query_coverage": 76.2
+    },
+    "YP_008437850.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437856.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437861.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437862.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437864.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430069.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus lena",
+      "pct_identity": 42.7,
+      "evalue": 1.39342e-100,
+      "query_coverage": 86.0
+    },
+    "YP_009430070.1": {
+      "category": "Marine algae",
+      "organism": "Schizocladia ischiensis",
+      "pct_identity": 40.2,
+      "evalue": 5.54546e-32,
+      "query_coverage": 80.0
+    },
+    "YP_008437879.1": {
+      "category": "Marine algae",
+      "organism": "Micromonas pusilla CCMP1545",
+      "pct_identity": 45.5,
+      "evalue": 9.25984e-129,
+      "query_coverage": 92.0
+    },
+    "YP_008437889.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437892.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437894.1": {
+      "category": "Other virus",
+      "organism": "Choristoneura diversana nucleopolyhedrovirus",
+      "pct_identity": 49.5,
+      "evalue": 7.28884e-25,
+      "query_coverage": 35.5
+    },
+    "YP_008437898.2": {
+      "category": "Other eukaryote",
+      "organism": "Helianthus annuus",
+      "pct_identity": 26.8,
+      "evalue": 6.357e-16,
+      "query_coverage": 94.6
+    },
+    "YP_008437902.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 41.0,
+      "evalue": 7.61194e-77,
+      "query_coverage": 95.7
+    },
+    "YP_008437904.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430074.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437909.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437911.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 38.1,
+      "evalue": 1.03497e-57,
+      "query_coverage": 69.0
+    },
+    "YP_008437923.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus kamchatka",
+      "pct_identity": 37.2,
+      "evalue": 2.03844e-70,
+      "query_coverage": 78.6
+    },
+    "YP_008437925.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437926.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437930.2": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 43.7,
+      "evalue": 3.45999e-166,
+      "query_coverage": 99.5
+    },
+    "YP_008437932.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437936.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437942.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437944.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437949.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437951.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437953.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437955.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437956.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437957.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437958.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437963.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437964.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430076.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437971.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008437980.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430085.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438005.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438009.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438010.1": {
+      "category": "Giant virus",
+      "organism": "Mollivirus shaoxing",
+      "pct_identity": 84.0,
+      "evalue": 0.0,
+      "query_coverage": 100.0
+    },
+    "YP_008438011.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438015.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438019.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438023.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438027.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438029.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438032.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430087.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438066.1": {
+      "category": "Marine algae",
+      "organism": "Desmarestia herbacea",
+      "pct_identity": 56.7,
+      "evalue": 2.72602e-119,
+      "query_coverage": 78.1
+    },
+    "YP_008438069.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438074.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438076.1": {
+      "category": "Giant virus",
+      "organism": "Mollivirus shaoxing",
+      "pct_identity": 39.7,
+      "evalue": 4.62188e-46,
+      "query_coverage": 61.9
+    },
+    "YP_008438079.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438081.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438093.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438095.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430093.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430094.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438101.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438114.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438118.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438125.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438126.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438127.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438129.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438134.1": {
+      "category": "Bacteria",
+      "organism": "Cetobacterium sp.",
+      "pct_identity": 45.7,
+      "evalue": 5.45492e-109,
+      "query_coverage": 61.3
+    },
+    "YP_008438136.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438138.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438141.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438144.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438146.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438153.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438161.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438162.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438163.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438164.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438171.1": {
+      "category": "Amoebozoa",
+      "organism": "Balamuthia mandrillaris",
+      "pct_identity": 32.0,
+      "evalue": 2.56167e-43,
+      "query_coverage": 88.2
+    },
+    "YP_008438172.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438174.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430100.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438178.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438179.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438181.2": {
+      "category": "Marine algae",
+      "organism": "Ectocarpus siliculosus",
+      "pct_identity": 37.2,
+      "evalue": 3.45424e-10,
+      "query_coverage": 27.8
+    },
+    "YP_008438182.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438183.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 39.8,
+      "evalue": 1.24151e-45,
+      "query_coverage": 79.6
+    },
+    "YP_008438187.2": {
+      "category": "Giant virus",
+      "organism": "Bodo saltans virus",
+      "pct_identity": 41.1,
+      "evalue": 7.16881e-102,
+      "query_coverage": 90.1
+    },
+    "YP_008438189.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438193.1": {
+      "category": "Bacteria",
+      "organism": "Cetobacterium sp.",
+      "pct_identity": 43.0,
+      "evalue": 1.28341e-39,
+      "query_coverage": 23.7
+    },
+    "YP_008438197.1": {
+      "category": "Marine algae",
+      "organism": "Bathycoccus prasinos",
+      "pct_identity": 33.9,
+      "evalue": 1.41454e-43,
+      "query_coverage": 74.7
+    },
+    "YP_008438198.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438204.2": {
+      "category": "Marine algae",
+      "organism": "Myriotrichia clavaeformis",
+      "pct_identity": 58.1,
+      "evalue": 1.33399e-98,
+      "query_coverage": 70.2
+    },
+    "YP_008438205.2": {
+      "category": "Bacteria",
+      "organism": "Cetobacterium sp.",
+      "pct_identity": 47.5,
+      "evalue": 1.31095e-58,
+      "query_coverage": 31.2
+    },
+    "YP_008438207.2": {
+      "category": "Marine algae",
+      "organism": "Bathycoccus prasinos",
+      "pct_identity": 40.6,
+      "evalue": 6.14498e-69,
+      "query_coverage": 67.9
+    },
+    "YP_008438208.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438210.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438213.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438214.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438215.2": {
+      "category": "Giant virus",
+      "organism": "Orpheovirus IHUMI-LCC2",
+      "pct_identity": 39.0,
+      "evalue": 1.03099e-18,
+      "query_coverage": 64.6
+    },
+    "YP_009430102.1": {
+      "category": "Giant virus",
+      "organism": "Cedratvirus Ce7-1",
+      "pct_identity": 52.1,
+      "evalue": 2.77198e-31,
+      "query_coverage": 81.4
+    },
+    "YP_009430103.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438229.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438230.1": {
+      "category": "Other eukaryote",
+      "organism": "Peronospora farinosa",
+      "pct_identity": 64.8,
+      "evalue": 8.18124e-31,
+      "query_coverage": 37.4
+    },
+    "YP_008438234.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438235.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438237.1": {
+      "category": "Bacteria",
+      "organism": "Rariglobus sp.",
+      "pct_identity": 33.0,
+      "evalue": 1.93498e-52,
+      "query_coverage": 98.8
+    },
+    "YP_009430104.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 31.9,
+      "evalue": 2.92484e-19,
+      "query_coverage": 69.9
+    },
+    "YP_008438242.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 57.9,
+      "evalue": 1.40071e-169,
+      "query_coverage": 93.3
+    },
+    "YP_009430105.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438249.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438250.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438252.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438257.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438259.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438266.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430108.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 36.4,
+      "evalue": 1.29181e-63,
+      "query_coverage": 75.8
+    },
+    "YP_008438270.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430110.1": {
+      "category": "Other eukaryote",
+      "organism": "Eremomyces bilateralis CBS 781.70",
+      "pct_identity": 48.9,
+      "evalue": 6.0027e-06,
+      "query_coverage": 43.5
+    },
+    "YP_008438272.1": {
+      "category": "Marine algae",
+      "organism": "Bathycoccus prasinos",
+      "pct_identity": 31.6,
+      "evalue": 3.21582e-40,
+      "query_coverage": 79.4
+    },
+    "YP_008438274.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 36.2,
+      "evalue": 9.34906e-64,
+      "query_coverage": 87.5
+    },
+    "YP_008438279.1": {
+      "category": "Marine algae",
+      "organism": "Discosporangium mesarthrocarpum",
+      "pct_identity": 36.6,
+      "evalue": 8.81131e-63,
+      "query_coverage": 86.8
+    },
+    "YP_008438281.2": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 34.6,
+      "evalue": 1.23609e-67,
+      "query_coverage": 84.0
+    },
+    "YP_008438284.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438287.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438289.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438291.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438298.2": {
+      "category": "Insect",
+      "organism": "Aphis craccivora",
+      "pct_identity": 37.1,
+      "evalue": 4.72807e-46,
+      "query_coverage": 67.5
+    },
+    "YP_009430111.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438306.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438309.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430113.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438314.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438320.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438321.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430114.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438329.1": {
+      "category": "Marine algae",
+      "organism": "Bathycoccus prasinos",
+      "pct_identity": 32.5,
+      "evalue": 7.90813e-45,
+      "query_coverage": 82.9
+    },
+    "YP_008438333.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438337.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438339.2": {
+      "category": "Marine algae",
+      "organism": "Ostreococcus lucimarinus CCE9901",
+      "pct_identity": 33.7,
+      "evalue": 1.49591e-48,
+      "query_coverage": 72.7
+    },
+    "YP_008438351.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438354.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438358.1": {
+      "category": "Other eukaryote",
+      "organism": "Polyrhizophydium stewartii",
+      "pct_identity": 46.2,
+      "evalue": 1.72352e-56,
+      "query_coverage": 73.8
+    },
+    "YP_008438363.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438367.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438378.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438381.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438383.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438387.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438396.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438400.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438401.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430120.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438409.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438412.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438419.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438428.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438431.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430122.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438449.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438453.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438455.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438468.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430125.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438482.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438483.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438484.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438487.1": {
+      "category": "Amoebozoa",
+      "organism": "Balamuthia mandrillaris",
+      "pct_identity": 56.7,
+      "evalue": 6.5593e-135,
+      "query_coverage": 85.5
+    },
+    "YP_008438489.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438491.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438493.1": {
+      "category": "Marine algae",
+      "organism": "Ostreococcus lucimarinus CCE9901",
+      "pct_identity": 37.1,
+      "evalue": 1.23966e-45,
+      "query_coverage": 87.5
+    },
+    "YP_008438509.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 82.5,
+      "evalue": 7.98867e-92,
+      "query_coverage": 98.2
+    },
+    "YP_008438510.1": {
+      "category": "Giant virus",
+      "organism": "Paramecium bursaria Chlorella virus IL3A",
+      "pct_identity": 32.9,
+      "evalue": 3.6109e-34,
+      "query_coverage": 81.3
+    },
+    "YP_008438523.1": {
+      "category": "Other eukaryote",
+      "organism": "Adineta steineri",
+      "pct_identity": 31.9,
+      "evalue": 2.74749e-30,
+      "query_coverage": 89.1
+    },
+    "YP_008438533.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438538.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438545.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438547.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438575.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438589.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438593.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438594.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430133.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438611.2": {
+      "category": "Marine algae",
+      "organism": "Chlamydomonas sp. UWO 241",
+      "pct_identity": 25.8,
+      "evalue": 2.75335e-09,
+      "query_coverage": 90.5
+    },
+    "YP_008438622.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438643.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438644.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438647.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438651.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438653.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438659.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438661.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430138.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438683.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438687.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438696.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438697.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438701.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438714.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430141.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430142.1": {
+      "category": "Amoebozoa",
+      "organism": "Acanthamoeba castellanii str. Neff",
+      "pct_identity": 52.4,
+      "evalue": 1.1262e-46,
+      "query_coverage": 84.1
+    },
+    "YP_008438720.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438723.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438745.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438746.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438748.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438750.1": {
+      "category": "Insect",
+      "organism": "Aphis gossypii",
+      "pct_identity": 43.3,
+      "evalue": 2.4436e-77,
+      "query_coverage": 76.5
+    },
+    "YP_008438756.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438757.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438759.1": {
+      "category": "Marine algae",
+      "organism": "Myriotrichia clavaeformis",
+      "pct_identity": 55.2,
+      "evalue": 9.5555e-116,
+      "query_coverage": 77.4
+    },
+    "YP_008438762.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438763.1": {
+      "category": "Giant virus",
+      "organism": "Marseillevirus sp.",
+      "pct_identity": 40.7,
+      "evalue": 6.7136e-66,
+      "query_coverage": 96.9
+    },
+    "YP_008438764.1": {
+      "category": "Bacteria",
+      "organism": "Patescibacteria group bacterium",
+      "pct_identity": 40.8,
+      "evalue": 1.85705e-30,
+      "query_coverage": 57.5
+    },
+    "YP_008438769.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438770.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438771.1": {
+      "category": "Giant virus",
+      "organism": "Bodo saltans virus",
+      "pct_identity": 32.7,
+      "evalue": 7.7249e-26,
+      "query_coverage": 54.7
+    },
+    "YP_008438774.1": {
+      "category": "Marine algae",
+      "organism": "Cymbomonas tetramitiformis",
+      "pct_identity": 33.3,
+      "evalue": 1.92176e-26,
+      "query_coverage": 73.2
+    },
+    "YP_008438775.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438777.1": {
+      "category": "Insect",
+      "organism": "Acyrthosiphon pisum",
+      "pct_identity": 41.5,
+      "evalue": 1.63681e-55,
+      "query_coverage": 80.5
+    },
+    "YP_008438781.1": {
+      "category": "Bacteria",
+      "organism": "Fidelibacterota bacterium",
+      "pct_identity": 28.1,
+      "evalue": 3.13721e-10,
+      "query_coverage": 46.6
+    },
+    "YP_008438784.1": {
+      "category": "Insect",
+      "organism": "Aphis craccivora",
+      "pct_identity": 51.1,
+      "evalue": 1.16019e-30,
+      "query_coverage": 69.2
+    },
+    "YP_009430145.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438813.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438815.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438816.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438818.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438822.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_009430148.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438828.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438830.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438831.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438833.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438834.2": {
+      "category": "Giant virus",
+      "organism": "Mollivirus shaoxing",
+      "pct_identity": 38.2,
+      "evalue": 1.20572e-07,
+      "query_coverage": 12.5
+    },
+    "YP_008438836.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438838.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438839.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438842.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438844.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438850.2": {
+      "category": "Giant virus",
+      "organism": "Naiavirus sp.",
+      "pct_identity": 36.1,
+      "evalue": 1.10644e-70,
+      "query_coverage": 96.7
+    },
+    "YP_008438851.2": {
+      "category": "Bacteria",
+      "organism": "Patescibacteria group bacterium",
+      "pct_identity": 33.8,
+      "evalue": 3.18183e-57,
+      "query_coverage": 81.4
+    },
+    "YP_008438852.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438865.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438867.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438880.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438883.2": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438887.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438893.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438903.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    },
+    "YP_008438904.1": {
+      "category": "No non-self hit",
+      "organism": null,
+      "pct_identity": 0,
+      "evalue": null
+    }
+  },
+  "identity": {
+    "mean": 44.74631578947369,
+    "median": 42.3,
+    "min": 25.8,
+    "max": 84.0,
+    "below_30": 5,
+    "between_30_50": 65,
+    "above_50": 25,
+    "values": [
+      54.2,
+      48.6,
+      28.5,
+      67.8,
+      51.8,
+      29.9,
+      49.6,
+      83.5,
+      60.6,
+      55.6,
+      39.5,
+      49.1,
+      53.5,
+      38.9,
+      44.7,
+      54.7,
+      55.1,
+      39.1,
+      52.8,
+      49.4,
+      50.9,
+      59.6,
+      37.6,
+      39.9,
+      34.3,
+      43.5,
+      72.8,
+      47.1,
+      42.5,
+      40.6,
+      47.2,
+      51.1,
+      47.6,
+      41.7,
+      41.7,
+      42.3,
+      44.1,
+      48.9,
+      42.7,
+      40.2,
+      45.5,
+      49.5,
+      26.8,
+      41.0,
+      38.1,
+      37.2,
+      43.7,
+      84.0,
+      56.7,
+      39.7,
+      45.7,
+      32.0,
+      37.2,
+      39.8,
+      41.1,
+      43.0,
+      33.9,
+      58.1,
+      47.5,
+      40.6,
+      39.0,
+      52.1,
+      64.8,
+      33.0,
+      31.9,
+      57.9,
+      36.4,
+      48.9,
+      31.6,
+      36.2,
+      36.6,
+      34.6,
+      37.1,
+      32.5,
+      33.7,
+      46.2,
+      56.7,
+      37.1,
+      82.5,
+      32.9,
+      31.9,
+      25.8,
+      52.4,
+      43.3,
+      55.2,
+      40.7,
+      40.8,
+      32.7,
+      33.3,
+      41.5,
+      28.1,
+      51.1,
+      38.2,
+      36.1,
+      33.8
+    ]
+  },
+  "products": {
+    "ankyrin repeat domain": {
+      "total": 130,
+      "has_non_self": 55,
+      "categories": {
+        "Giant virus": 10,
+        "Marine algae": 25,
+        "Bacteria": 5,
+        "Insect": 8,
+        "Amoebozoa": 3,
+        "Other eukaryote": 4
+      },
+      "mean_identity": 44.17454545454545
+    },
+    "F-box domain": {
+      "total": 92,
+      "has_non_self": 8,
+      "categories": {
+        "Bacteria": 2,
+        "Giant virus": 2,
+        "Insect": 2,
+        "Other eukaryote": 1,
+        "Marine algae": 1
+      },
+      "mean_identity": 42.1125
+    },
+    "F-box incomplete domain": {
+      "total": 26,
+      "has_non_self": 2,
+      "categories": {
+        "Amoebozoa": 1,
+        "Marine algae": 1
+      },
+      "mean_identity": 45.35
+    },
+    "morn repeat domain": {
+      "total": 44,
+      "has_non_self": 2,
+      "categories": {
+        "Bacteria": 2
+      },
+      "mean_identity": 39.75
+    },
+    "DNA pol3 delta2 superfamily incomplete domain": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Leucin rich repeat domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "6-phospho-beta-glucosidase incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "BTB/POZ domain-containing protein": {
+      "total": 3,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Atrophin-1 superfamily incomplete domain": {
+      "total": 9,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Phosphohydrolase incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "BTB domain": {
+      "total": 3,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "AICARFT IMPCHas domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "HPPK domain and Pterin binding domain containing protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Dihydroneopterin aldolase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "GTP cyclohydrolase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "glutamine amidotransferase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Haloacid dehydrogenase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Collagen": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Complement C1q subcomponent subunit B": {
+      "total": 3,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Dihydrofolate reductase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Von Willebrand factor type A domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DNA-3-methyladenine glycosylase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "YjgF/Yer057c/UK114 family protein": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "BTB incomplete domain": {
+      "total": 3,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 29.9
+    },
+    "NR DBD like superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "morn repeat incomplete domain": {
+      "total": 6,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 31.9
+    },
+    "Endopeptidase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Pup ligase superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SPFH domain containing protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Fascin-like incomplete domain": {
+      "total": 10,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Fascin-like protein": {
+      "total": 3,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "ZipA superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Histidine decarboxylase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Ubiquitin": {
+      "total": 5,
+      "has_non_self": 2,
+      "categories": {
+        "Other virus": 1,
+        "Amoebozoa": 1
+      },
+      "mean_identity": 46.6
+    },
+    "Esterase FrsA incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Serine/threonine protein kinase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Kinase VIP2 domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DNA pol3 gamma3 superfamily incomplete domain": {
+      "total": 5,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Glucose-methanol-choline oxidoreductase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Herpes BLLF1 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "YncE incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "putative membrane transporter protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "TF Zn Ribbon incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Retinal superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Cupin": {
+      "total": 2,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 52.4
+    },
+    "AAA ATPase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SNF2 family DNA dependent ATPase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "LGT superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "PRK00708 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "ExoD superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "PGAM Histidine phosphase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Serine/threonine phosphatases incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RNA polymerase largest subunit": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Methyltransferase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DEAD-like helicase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Trypsin-like peptidase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DNA polymerase type-B": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "N-acetyl-glucosamine transferase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Pox A32 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Poxvirus Late Transcription Factor VLTF3 like protein": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Ring domain": {
+      "total": 5,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Exonuclease YqaJ": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "endonuclease": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Eukaryotic initiation factor 4E": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "D5 N terminal like incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Protein kinase catalytic incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DNA transclocase FtsK incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Patatin": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "tail collar protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RNA polymerase rbp5 incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Ubiquinone biosynthesis mono-oxygenase incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RNA polymerase rbp2": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Epstein-Barr virus nuclear antigen 3 incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "MutT/NUDIX hydrolase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "helicase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SMC N superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Disulfide isomerase domain": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Sulfhydryl oxidase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "guanylate kinase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Nucleoporin FG2 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Zinc-finger domain": {
+      "total": 3,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 38.2
+    },
+    "Acetyltransf 1 incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 49.6
+    },
+    "Adenylation DNA ligase like superfamily domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Holliday junction DNA helicase ruvB N-terminus incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Gag spuma superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "LamG superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Peptidase domain containing protein": {
+      "total": 3,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Intein splicing superfamily domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 83.5
+    },
+    "PAN APPLE superfamily domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Thioredoxin-like superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Protein kinase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Cyanophycin synthetase incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Cupin incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SNF2 N-incomplete domain and Helicase C-domain containing protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Alpha/beta hydrolase": {
+      "total": 2,
+      "has_non_self": 2,
+      "categories": {
+        "Giant virus": 2
+      },
+      "mean_identity": 72.3
+    },
+    "Ring incomplete domain": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "TFIIS C-domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RnfC N superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Cytochrome P450": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RNA polymerase rbpN/10": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Pentapeptide repeat-containing protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "RNA polymerase incomplete domain": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Phosphohydrolase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Q-dependent dehydrogenase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Protein tyrosine phosphatase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "NAD(P) binding domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Methyltransferase incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 72.8
+    },
+    "B of TMEM189, localisation domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "NAD(P) binding incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DnaQ like exonuclease": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Rho binding incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "BCS1 N / AAA ATPase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SPRY incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "serine-threonine kinase": {
+      "total": 3,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 47.1
+    },
+    "metallo-phosphoesterase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Dyptype peroxidase superfamily protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Ribonuclease BN, tRNA processing enzyme": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "CBM6-CBM35-CBM36 like incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Dihydrofolate reductase incomplete domain": {
+      "total": 6,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "TLD-containing protein": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 48.9
+    },
+    "Nudix hydrolase": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Other eukaryote": 1
+      },
+      "mean_identity": 26.8
+    },
+    "ankyrin repeat incomplete domain": {
+      "total": 2,
+      "has_non_self": 1,
+      "categories": {
+        "Insect": 1
+      },
+      "mean_identity": 38.1
+    },
+    "Histone H2B domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DNA methyltransferase": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "TOP2c superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "alkylated DNA repair": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Endopeptidase incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Capsular polysaccharide synthesis incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 39.7
+    },
+    "Ubiquitin-specific protease incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "C1q incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "UBCc superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 39.0
+    },
+    "Hydrolase 3 incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 52.1
+    },
+    "Tyrosine-tRNA ligase": {
+      "total": 2,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 57.9
+    },
+    "PRK13679 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "WD40-repeat-containing protein": {
+      "total": 2,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "FO synthase subunit domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "metallo-dependent hydrolase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "FAD linked glycolate oxidase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "dCTP deaminase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "clamp loader of DNA polymerase": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 56.7
+    },
+    "S-phase kinase-associated protein 1": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Amoebozoa": 1
+      },
+      "mean_identity": 82.5
+    },
+    "RRM superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 32.9
+    },
+    "Abhydrolase superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Other eukaryote": 1
+      },
+      "mean_identity": 31.9
+    },
+    "ribonucleotide reductase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Uracil-DNA glycosylase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Lipocalin superfamily domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "GTP-binding domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "AAA ATPase incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Marine algae": 1
+      },
+      "mean_identity": 25.8
+    },
+    "KAR9 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Nucleoside deaminase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Orotate phosphoribosyltransferase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "phospho-2-dehydro-3-deoxyheptonate aldolase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "DamX superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "5'-nucleotidase C-domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "5' Nucleotidase domain containing protein": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Threonylcarbamoyl AMP synthase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Formate/glycerate dehydrogenase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Pentapeptide 4 superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "MoaE superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Exonuclease-Endonuclease-Phosphatase superfamily protein": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 40.7
+    },
+    "YwqK superfamily incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Bacteria": 1
+      },
+      "mean_identity": 28.1
+    },
+    "SGNH hydrolase-type esterase domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "Pentapeptide superfamily domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "2OG-Fe(II) oxygenase incomplete domain": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Giant virus": 1
+      },
+      "mean_identity": 36.1
+    },
+    "Aspartate aminotransferase": {
+      "total": 1,
+      "has_non_self": 1,
+      "categories": {
+        "Bacteria": 1
+      },
+      "mean_identity": 33.8
+    },
+    "Acetyl esterase": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    },
+    "SAM domain": {
+      "total": 1,
+      "has_non_self": 0,
+      "categories": {},
+      "mean_identity": 0
+    }
+  },
+  "spatial": {
+    "native_zone": [
+      1300000,
+      2000000
+    ],
+    "hit_in_native": 45,
+    "hit_outside": 50,
+    "nohit_in_native": 137,
+    "nohit_outside": 296,
+    "fisher_or": 1.9445255474452554,
+    "fisher_p": 0.004220009719505056
+  },
+  "identity_by_taxonomy": {
+    "Giant virus": {
+      "n": 24,
+      "mean": 47.5,
+      "median": 44.900000000000006,
+      "values": [
+        54.2,
+        51.8,
+        49.6,
+        60.6,
+        55.6,
+        49.1,
+        39.1,
+        50.9,
+        72.8,
+        47.1,
+        51.1,
+        41.7,
+        42.7,
+        37.2,
+        84.0,
+        39.7,
+        41.1,
+        39.0,
+        52.1,
+        32.9,
+        40.7,
+        32.7,
+        38.2,
+        36.1
+      ]
+    },
+    "Marine algae": {
+      "n": 28,
+      "mean": 44.225,
+      "median": 43.8,
+      "values": [
+        48.6,
+        67.8,
+        44.7,
+        54.7,
+        55.1,
+        52.8,
+        49.4,
+        43.5,
+        42.5,
+        47.2,
+        47.6,
+        42.3,
+        44.1,
+        40.2,
+        45.5,
+        56.7,
+        37.2,
+        33.9,
+        58.1,
+        40.6,
+        31.6,
+        36.6,
+        32.5,
+        33.7,
+        37.1,
+        25.8,
+        55.2,
+        33.3
+      ]
+    },
+    "Bacteria": {
+      "n": 11,
+      "mean": 38.12727272727273,
+      "median": 39.5,
+      "values": [
+        28.5,
+        39.5,
+        38.9,
+        40.6,
+        45.7,
+        43.0,
+        47.5,
+        33.0,
+        40.8,
+        28.1,
+        33.8
+      ]
+    },
+    "Amoebozoa": {
+      "n": 13,
+      "mean": 50.11538461538461,
+      "median": 48.9,
+      "values": [
+        29.9,
+        83.5,
+        53.5,
+        37.6,
+        48.9,
+        41.0,
+        43.7,
+        32.0,
+        31.9,
+        57.9,
+        56.7,
+        82.5,
+        52.4
+      ]
+    },
+    "Insect": {
+      "n": 11,
+      "mean": 41.09090909090909,
+      "median": 38.1,
+      "values": [
+        59.6,
+        34.3,
+        38.1,
+        39.8,
+        36.4,
+        36.2,
+        34.6,
+        37.1,
+        43.3,
+        41.5,
+        51.1
+      ]
+    },
+    "Other eukaryote": {
+      "n": 7,
+      "mean": 42.885714285714286,
+      "median": 41.7,
+      "values": [
+        39.9,
+        41.7,
+        26.8,
+        64.8,
+        48.9,
+        46.2,
+        31.9
+      ]
+    },
+    "Other virus": {
+      "n": 1,
+      "mean": 49.5,
+      "median": 49.5,
+      "values": [
+        49.5
+      ]
+    }
+  },
+  "comparison": {
+    "annotated_hit_rate": 18.234165067178505,
+    "hypothetical_hit_rate": 3.0100334448160537,
+    "annotated_n": 521,
+    "annotated_hits": 95,
+    "hypothetical_n": 299,
+    "hypothetical_hits": 9,
+    "fisher_or": 7.185706833594158,
+    "fisher_ci_lower": 3.457588291176385,
+    "fisher_ci_upper": 13.559399489792781,
+    "fisher_p": 7.791526125800804e-12,
+    "ann_wilson_ci": [
+      0.1515503052119722,
+      0.2177832232278466
+    ],
+    "hyp_wilson_ci": [
+      0.015914988076861064,
+      0.05620720385449844
+    ]
+  },
+  "sensitivity": {
+    "1e-05": {
+      "threshold": 1e-05,
+      "successful_queries": 521,
+      "non_self_hits": 95,
+      "hit_rate": 18.2,
+      "orphan_rate": 81.8
+    },
+    "1e-10": {
+      "threshold": 1e-10,
+      "successful_queries": 521,
+      "non_self_hits": 88,
+      "hit_rate": 16.9,
+      "orphan_rate": 83.1
+    },
+    "1e-20": {
+      "threshold": 1e-20,
+      "successful_queries": 521,
+      "non_self_hits": 83,
+      "hit_rate": 15.9,
+      "orphan_rate": 84.1
+    },
+    "1e-50": {
+      "threshold": 1e-50,
+      "successful_queries": 521,
+      "non_self_hits": 50,
+      "hit_rate": 9.6,
+      "orphan_rate": 90.4
+    }
+  }
+}
