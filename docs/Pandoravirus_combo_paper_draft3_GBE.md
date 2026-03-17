@@ -253,7 +253,7 @@ Aherfi S, et al. 2018. A large open pangenome and a small core genome for giant 
 
 Bisio H, et al. 2023. Evolution of giant pandoravirus revealed by CRISPR/Cas9. *Nat Commun* 14:428.
 
-Jeudy S, et al. 2019. *Pandoravirus celtis* illustrates the microevolution processes at work in the giant *Pandoraviridae* genomes. *Front Microbiol* 10:430.
+Jeudy S, Bertaux L, Alempic JM, Abergel C, Claverie JM. 2019. *Pandoravirus celtis* illustrates the microevolution processes at work in the giant *Pandoraviridae* genomes. *Front Microbiol* 10:430.
 
 Legendre M, et al. 2018. Diversity and evolution of the emerging Pandoraviridae family. *Nat Commun* 9:2285.
 
@@ -261,9 +261,9 @@ Lin Z, et al. 2023. Evolutionary-scale prediction of atomic-level protein struct
 
 Philippe N, et al. 2013. *Pandoraviruses*: amoeba viruses with genomes up to 2.5 Mb reaching that of parasitic eukaryotes. *Science* 341:281-286.
 
-Poirot O, et al. 2019. A puzzling anomaly in the 4-mer composition of the giant Pandoravirus genomes reveals a stringent new evolutionary selection process. *J Virol* 93(23):e01206-19.
+Poirot O, Jeudy S, Abergel C, Claverie JM. 2019. A puzzling anomaly in the 4-mer composition of the giant Pandoravirus genomes reveals a stringent new evolutionary selection process. *J Virol* 93(23):e01206-19.
 
-Sun C, et al. 2015. DNA transposons have colonized the genome of the giant virus *Pandoravirus salinus*. *BMC Biol* 13:38.
+Sun C, Feschotte C, Wu Z, Mueller RL. 2015. DNA transposons have colonized the genome of the giant virus *Pandoravirus salinus*. *BMC Biol* 13:38.
 
 ---
 
