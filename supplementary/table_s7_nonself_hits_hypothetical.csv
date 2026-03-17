@@ -1,0 +1,10 @@
+Protein_ID,Genomic_position_bp,Strand,Taxonomy_category,Top_hit_organism,Pct_identity,E_value,In_native_zone
+YP_008438318.2,1838461,-,Amoebozoa,Acanthamoeba castellanii str. Neff,82.4,1.21e-59,Yes
+YP_009430099.1,1657937,-,Bacteria,Rariglobus sp.,30.4,2.89e-37,Yes
+YP_009430112.1,1822122,+,Amoebozoa,Acanthamoeba castellanii str. Neff,54.0,1.84e-64,Yes
+YP_008437859.1,1370653,+,Giant virus,Cedratvirus lena,46.6,6.09e-91,Yes
+YP_008437883.1,1389102,-,Giant virus,Cedratvirus plubellavi,37.3,1.88e-19,Yes
+YP_008437808.1,1323333,+,Giant virus,Cedratvirus Zaza IHUMI,46.6,6.16e-26,Yes
+YP_008438434.1,1966437,+,Giant virus,Mollivirus kamchatka,41.0,8.87e-79,Yes
+YP_008437743.1,1250986,+,Bacteria,Powai lake megavirus,34.0,3.03e-20,No
+YP_008437273.2,812147,+,Giant virus,Mollivirus kamchatka,35.5,2.68e-10,No
