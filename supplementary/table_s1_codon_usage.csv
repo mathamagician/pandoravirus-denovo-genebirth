@@ -1,0 +1,6 @@
+Metric,Annotated_n,Annotated_mean,Annotated_sd,ORFan_n,ORFan_mean,ORFan_sd,Difference
+GC content,528,0.6502,0.0321,902,0.6428,0.0427,+0.0074
+GC3 (wobble position),528,0.7497,0.0574,902,0.7343,0.0774,+0.0155
+GC12 (constrained positions),528,0.6021,0.0337,902,0.5998,0.0428,+0.0023
+ENC (effective number of codons),528,44.9559,4.9847,902,45.9831,6.3753,-1.0272
+CAI (codon adaptation index),528,0.7913,0.0273,902,0.7837,0.0337,+0.0075

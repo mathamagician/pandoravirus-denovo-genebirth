@@ -1,0 +1,5 @@
+E_value_threshold,Non_self_hits,Hit_rate_pct,Orphan_rate_pct
+1e-50,50,9.6,90.4
+1e-20,83,15.9,84.1
+1e-10,88,16.9,83.1
+1e-05,95,18.2,81.8

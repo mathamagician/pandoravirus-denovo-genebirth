@@ -1,0 +1,62 @@
+Gene_ID,Family,Similarity_score,Product,GC_content,Gene_length_bp,Genomic_position_bp
+1215,family_1040,0.648,hypothetical protein,0.6080,1449,254476
+2356,family_1040,0.648,hypothetical protein,0.6934,897,2255397
+2250,family_1197,0.503,hypothetical protein,0.6710,1602,2078759
+2251,family_1197,0.503,hypothetical protein,0.6815,1482,2080899
+170,family_13,0.910,tail fiber protein,0.4140,2838,86458
+302,family_13,0.910,collagen-like protein 2,0.3764,4788,237025
+345,family_13,0.910,collagen-like protein 3,0.3926,2820,292697
+347,family_13,0.910,tail fiber protein,0.4051,2439,298179
+803,family_13,0.910,collagen-like protein 6,0.3357,4164,875974
+804,family_13,0.910,collagen-like protein 7,0.3758,5814,880269
+1779,family_1324,0.544,Dihydrofolate reductase incomplete domain,0.6504,3567,1259681
+1807,family_1324,0.544,Dihydrofolate reductase incomplete domain,0.6399,3513,1314413
+1770,family_1325,0.532,serine-threonine kinase,0.6786,5439,1244600
+1948,family_1325,0.532,serine-threonine kinase,0.6941,6483,1549807
+1450,family_1339,0.502,hypothetical protein,0.7202,4392,696982
+1544,family_1339,0.502,hypothetical protein,0.7313,3048,863336
+77,family_18,0.991,holin/anti-holin,0.4815,324,45186
+78,family_18,0.991,holin/anti-holin,0.4843,318,45192
+182,family_252,0.890,transposase,0.3229,573,100219
+916,family_252,0.890,transposase,0.3106,573,1009063
+100,family_3,0.910,hypothetical protein,0.2963,135,22736
+1062,family_3,0.910,hypothetical protein,0.2833,180,1180934
+1460,family_402,0.553,Nucleoporin FG2 superfamily incomplete domain,0.7404,2088,715840
+1496,family_402,0.553,hypothetical protein,0.6977,2286,783261
+1157,family_407,0.630,hypothetical protein,0.6901,726,157805
+1776,family_407,0.630,CBM6-CBM35-CBM36 like incomplete domain,0.6708,729,1256688
+1204,family_419,0.575,Fascin-like incomplete domain,0.6810,1398,233934
+1561,family_419,0.575,Fascin-like incomplete domain,0.6880,1737,895727
+1704,family_419,0.575,Fascin-like incomplete domain,0.6751,1416,1126238
+1938,family_419,0.575,Fascin-like incomplete domain,0.6738,1398,1529707
+1943,family_419,0.575,Fascin-like protein,0.7104,1236,1540514
+1972,family_419,0.575,Fascin-like incomplete domain,0.6830,1407,1598636
+1973,family_419,0.575,Fascin-like protein,0.7034,1335,1600745
+1975,family_419,0.575,Fascin-like incomplete domain,0.7036,1407,1605142
+1976,family_419,0.575,Fascin-like incomplete domain,0.6931,1401,1607077
+2154,family_419,0.575,Fascin-like incomplete domain,0.6910,1395,1913822
+2170,family_419,0.575,Fascin-like incomplete domain,0.6920,1422,1940682
+2171,family_419,0.575,Fascin-like incomplete domain,0.6884,1383,1942644
+2028,family_706,0.579,ankyrin repeat domain,0.6295,2232,1702376
+2035,family_706,0.579,ankyrin repeat domain,0.6298,2331,1716232
+181,family_737,0.906,transposase,0.3103,1563,98552
+915,family_737,0.906,transposase,0.3065,1563,1007396
+999,family_737,0.906,transposase,0.3131,1584,1112266
+1064,family_743,0.548,ankyrin repeat domain,0.6480,1179,1446
+1066,family_743,0.548,ankyrin repeat domain,0.6648,1569,7540
+1797,family_743,0.548,ankyrin repeat domain,0.6699,1221,1299834
+2034,family_743,0.548,ankyrin repeat domain,0.6204,1233,1713922
+1065,family_744,0.537,ankyrin repeat domain,0.6926,2163,4706
+1617,family_744,0.537,ankyrin repeat domain,0.6517,933,990936
+1632,family_744,0.537,ankyrin repeat domain,0.6501,1266,1013066
+1783,family_744,0.537,ankyrin repeat domain,0.6725,1536,1272272
+1802,family_744,0.537,ankyrin repeat domain,0.6455,1038,1305679
+1854,family_744,0.537,ankyrin repeat domain,0.6597,1869,1385658
+1959,family_744,0.537,ankyrin repeat domain,0.6635,1263,1572709
+2368,family_744,0.537,ankyrin repeat domain,0.6573,1278,2274135
+1966,family_770,0.504,ankyrin repeat domain,0.6629,1587,1586661
+2083,family_770,0.504,ankyrin repeat domain,0.6438,1533,1791397
+1909,family_772,0.501,ankyrin repeat domain,0.6648,1635,1478998
+2156,family_772,0.501,ankyrin repeat domain,0.6573,1824,1916831
+1361,family_977,0.542,hypothetical protein,0.6489,1236,534519
+1374,family_977,0.542,hypothetical protein,0.6646,1419,559644

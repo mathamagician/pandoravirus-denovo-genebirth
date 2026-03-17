@@ -1,0 +1,12 @@
+Module,Finding,HGT,Gene_duplication,Mobile_elements,De_novo_birth
+2: Genome architecture,"GC gap 10.7pp, lowest coding density (67.5%)",Neutral,Neutral,Neutral,Consistent (large intergenic space = substrate)
+3: Null models,Poly-A/T 15x enriched; AGCT 1500-fold depleted; 88.6% effect-size noise,Neutral,Neutral,Neutral,"Consistent (regulatory signals genuine, not artifacts)"
+4: Codon usage,"ORFan GC3 diff +0.015, CAI diff +0.008; upstream cosine 0.9824",Disfavored (no foreign signatures),Neutral,Neutral,Consistent (compositional homogeneity)
+5: Gene prediction,347 Prodigal-only genes; true IG drops to 23.8%,Neutral,Neutral,Neutral,Consistent (unannotated proto-genes exist)
+6: Evolutionary classification,GC CV 6.1% (lowest); 3 GMM clusters; no foreign outliers,Disfavored (no compositional heterogeneity),Neutral,Neutral,Consistent (uniform composition)
+7: Gene families,96.8% singletons; 14 domain-repeat families; no tandem clustering; null d=0.06,Neutral,Disfavored (no whole-gene duplication),Disfavored (no expansion signal),Consistent (singletons expected)
+8: Protein structure,9 structural families; d=1.45 vs null; 41% GC confound; proto-gene NN p=0.90,Neutral,Neutral,Neutral,Consistent (structural continuity across tiers)
+7b-c: Proto-gene continuum,T1-T5 monotonic gradient; T5 codon p=0.0005; no spatial clustering,Disfavored (no sharp boundaries),Neutral,Neutral,Supported (gradual maturation)
+9: Regulatory signals,"+10.3/+9.8pp AT spikes; 82.8% intergenic; T4 p=0.14, T5 p=0.25",Neutral,Neutral,Neutral,Supported (distributed regulatory infrastructure)
+10: Transcriptomic validation,74% strand-aware correct (p<10^-6); two-pop AT p=0.105,Neutral,Neutral,Neutral,Supported (regulatory signals validated)
+11-12: BLASTp homology,81.8% orphan; OR=7.19 (p=7.79e-12); phylogenetic distance gradient,"Disfavored (eukaryote-dominated, not multi-kingdom)",Neutral,Neutral,Supported (age-dependent homology gradient)
