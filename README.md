@@ -207,7 +207,7 @@ If you use this pipeline or data, please cite:
 
 ```
 Bradford E. (2026). Computational evidence for a distributed AT-based regulatory
-mechanism enabling de novo gene birth in Pandoravirus salinus. [Journal TBD].
+mechanism enabling de novo gene birth in Pandoravirus salinus. Submitted to Genome Biology and Evolution.
 ```
 
 This work builds on and provides independent support for:

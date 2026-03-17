@@ -294,6 +294,5 @@ with novel discovery of asymmetric maturation ordering and distributed AT regula
 - Existing Phase 9 regulatory signal data as baseline
 
 ## Original Project
-- Location: `C:\Users\Eddie\Code Projects\Pandoravirus`
+- Modules 2-9 analysis (10 phases, 35 key findings)
 - Database: pandoravirus (PostgreSQL, localhost:5432)
-- All 10 phases complete with 35 key findings
