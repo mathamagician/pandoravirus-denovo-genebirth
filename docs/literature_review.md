@@ -60,58 +60,19 @@
   - Complete absence of the AGCT 4-mer in some Pandoravirus strains
   - Points to a novel DNA editing or selection process operating on these genomes
   - Another example of unusual compositional signatures in Pandoravirus genomes
-- **Relevance to our work:**
-  - Connects to our AT-content analysis — both studies reveal non-random compositional patterns
-  - If an active DNA editing system avoids AGCT, it may also shape the poly-A/T run distribution we observe
+- **Relevance:**
+  - Connects to the AT-content analysis — both studies reveal non-random compositional patterns
+  - If an active DNA editing system avoids AGCT, it may also shape the poly-A/T run distribution
   - Supports the broader picture: Pandoravirus genomes have unusual sequence composition constraints beyond what random mutation/drift would produce
 
 ### 6. Sun et al. 2015 — "MITE transposable elements in the P. salinus genome"
 - **Journal:** BMC Biology
 - **Key findings:**
   - Miniature inverted-repeat transposable elements (MITEs) have colonized the P. salinus genome
-  - MITEs reside in intergenic space — the same regions our analysis targets
+  - MITEs reside in intergenic space — the same regions targeted by the compositional analysis
   - Represents mobile genetic element activity in the intergenic regulatory landscape
-- **Relevance to our work:**
-  - MITEs are in the intergenic space where our poly-A/T regulatory signals reside
+- **Relevance:**
+  - MITEs occupy the intergenic space where poly-A/T regulatory signals reside
   - Could interact with poly-A/T signals: MITEs may disrupt, co-opt, or be recruited alongside AT-rich regulatory elements
   - Raises the question: are some poly-A/T runs MITE-derived, or do MITEs preferentially insert near existing AT-rich regions?
-  - Worth noting in discussion as another force shaping the intergenic regulatory landscape
 
-## Implications for Pandoravirus 2.0
-
-### Phase 1 — Transcriptomic Validation
-**Good news:** RNA-seq data exists and transcript boundaries have been mapped.
-**Challenge:** Raw RNA-seq reads are NOT in SRA. Data is only accessible via:
-1. GBrowse at IGS Marseille (GFF download + RNA-seq tracks)
-2. Supplementary data from the 2018 paper
-3. Potentially contacting authors for raw data
-
-**Strategy options (in order of preference):**
-1. **Download GFF from GBrowse** — contains reannotated gene coordinates with transcript evidence
-2. **Extract transcript boundaries from supplementary tables** in Legendre 2018
-3. **Use the hairpin signal findings** from the paper to compare with our poly-A/T predictions
-4. **Contact authors** if needed for raw BAM/BigWig files
-
-**Key comparison to make:**
-- Our prediction: poly-A/T runs mark gene boundaries (promoters/terminators)
-- Their finding: palindromic hairpin structures mark 3' transcript ends
-- Question: Are these the same regions, overlapping, or complementary signals?
-- The hairpin signals are at 70% of 3' ends — what about the other 30%? Are those our poly-A/T regions?
-
-### Phase 2 — BLASTp Analysis
-**Well-supported by literature:**
-- Existing studies focused on pangenome comparison within Pandoraviridae
-- Basic BLASTp against nr has NOT been systematically published for all 528 annotated genes
-- This would be genuinely new information about evolutionary origins
-- Could reveal whether annotated genes cluster with eukaryotic, bacterial, or viral homologs
-
-### Framing for Publication
-**Critical realization:** De novo gene birth in Pandoravirus is NOT our novel contribution (Claverie group proposed it first). Our novel contributions are:
-1. **Independent confirmation** via different methodology (compositional analysis vs. comparative genomics)
-2. **Maturation order discovery**: regulatory → structural → codon optimization → GC composition
-3. **Mechanism**: distributed AT regulatory system pre-loading intergenic space
-4. **Proto-gene continuum**: quantitative 5-tier gradient
-5. **Regulatory pre-existence**: T4/T5 proto-genes already have mature regulatory signals
-
-This should be framed as "computational evidence for the mechanism of de novo gene birth"
-rather than "discovery of de novo gene birth."
