@@ -606,5 +606,100 @@
     "hypothetical_successful": 299,
     "taxonomy_organisms_in_lookup": 50,
     "taxonomy_misclassification_corrected": "12 prasinophyte green algae initially misclassified as bacteria"
+  },
+
+  "_pre_submission_audit_fixes": {
+    "_note": "Added 2026-03-21 in response to statistical audit. Computed via scripts/compute_missing_statistics.py. Full results in results/missing_statistics.json.",
+    "orphan_rate_derived": {
+      "cited_draft3": "92.5% (from Philippe et al. 2013)",
+      "corrected_draft4": "91.4% (our BLASTp extrapolation)",
+      "annotated_orphan_rate": "426/521 = 81.8%",
+      "hypothetical_orphan_rate_sampled": "290/299 = 97.0%",
+      "extrapolation_denominator": 1423,
+      "extrapolated_estimate": 0.914,
+      "bootstrap_ci_95": "89.6%-93.0%",
+      "source": "results/missing_statistics.json > orphan_rate_derived"
+    },
+    "neutrality_regression": {
+      "slope": 0.1176,
+      "slope_ci_lo": 0.0894,
+      "slope_ci_hi": 0.1457,
+      "r_squared": 0.0448,
+      "p_value": "5.87e-16",
+      "n_genes": 1430,
+      "interpretation": "Slope << 1.0 confirms translational selection (under strict neutrality expected slope = 1.0)",
+      "source": "results/missing_statistics.json > neutrality_regression"
+    },
+    "cai_mannwhitney": {
+      "psal_mean": 0.7865,
+      "psal_sd": 0.0317,
+      "psal_n": 1430,
+      "mimi_mean": 0.6574,
+      "mimi_sd": 0.0267,
+      "mimi_n": 979,
+      "mean_difference": 0.1291,
+      "bootstrap_ci_95": "0.1267-0.1315",
+      "mannwhitney_p": "< 1e-300 (machine precision limit)",
+      "source": "results/missing_statistics.json > cai_mannwhitney"
+    },
+    "hypothetical_spatial_or_ci": {
+      "fisher_or": 11.7,
+      "haldane_corrected_or": 9.98,
+      "haldane_ci_lo": 2.32,
+      "haldane_ci_hi": 42.83,
+      "fisher_p": 0.001,
+      "contingency_table": "hits_in_nz=7, nohits_in_nz=67, hits_out_nz=2, nohits_out_nz=224",
+      "note": "Wide CI reflects small n_hits=9; lower bound 2.32 > 1.0 indicates enrichment",
+      "source": "results/missing_statistics.json > hypothetical_spatial_or_ci"
+    },
+    "spearman_tier_pvalue": {
+      "rho": -1.0,
+      "n_tiers": 5,
+      "p_one_tailed": 0.0083,
+      "p_two_tailed": 0.0167,
+      "fisher_combined_two_tests": 0.00073,
+      "note": "Both GC and gene length show perfect rank correlation across 5 tiers",
+      "source": "results/missing_statistics.json > spearman_tier_pvalue"
+    }
+  },
+
+  "_pdulcis_blastp_final": {
+    "_note": "Added 2026-03-30. Exhaustive BLASTp of all P. dulcis proteins via m11_blastp_pdulcis.py (remote NCBI qblast). Results in ncldv_pipeline/results/blastp_pdulcis_annotated.json and blastp_pdulcis_hypothetical.json.",
+    "annotated": {
+      "total_queried": 323,
+      "errors": 4,
+      "valid": 319,
+      "non_self_hits": 17,
+      "orphan_count": 302,
+      "orphan_rate": "302/319 = 94.7%",
+      "source": "ncldv_pipeline/results/blastp_pdulcis_annotated.json"
+    },
+    "hypothetical": {
+      "total_queried": 747,
+      "errors": 6,
+      "valid": 741,
+      "non_self_hits": 12,
+      "orphan_count": 729,
+      "orphan_rate": "729/741 = 98.4%",
+      "source": "ncldv_pipeline/results/blastp_pdulcis_hypothetical.json"
+    },
+    "fisher_ann_vs_hyp_within_pdulcis": {
+      "description": "Annotated vs hypothetical non-self hit rate within P. dulcis",
+      "contingency": "ann_nonself=17, ann_orphan=302, hyp_nonself=12, hyp_orphan=729",
+      "fisher_or": 3.42,
+      "haldane_corrected_or": 3.38,
+      "p_value": "1.51e-03",
+      "cited_in": "Cross-NCLDV results section"
+    },
+    "fisher_pdulcis_vs_psalinus_annotated": {
+      "description": "P. dulcis vs P. salinus annotated orphan rate comparison",
+      "pdulcis": "17/319 non-self (5.3% non-self = 94.7% orphan)",
+      "psalinus": "94/517 non-self (18.2% non-self = 81.8% orphan)",
+      "fisher_or": 0.253,
+      "haldane_corrected_or": 0.259,
+      "p_value": "2.86e-08",
+      "interpretation": "P. dulcis annotated genes significantly more lineage-specific than P. salinus annotated genes",
+      "cited_in": "Cross-NCLDV results section and cover letter"
+    }
   }
 }
