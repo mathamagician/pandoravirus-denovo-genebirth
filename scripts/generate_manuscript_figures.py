@@ -624,9 +624,10 @@ def figure4():
                   edgecolor="white", width=0.5,
                   yerr=[yerr_low, yerr_high],
                   capsize=4, error_kw=dict(lw=1.2, color="black"))
-    for bar, r, n in zip(bars, rates, ns):
-        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 2.5,
-                f"{r:.1f}%\n(n={n})", ha="center", va="bottom", fontsize=7)
+    for bar, r, n, ye_hi in zip(bars, rates, ns, yerr_high):
+        label_y = bar.get_height() + ye_hi + 1.5
+        ax.text(bar.get_x() + bar.get_width() / 2, label_y,
+                f"{r:.1f}%\n(N={n})", ha="center", va="bottom", fontsize=7)
 
     ax.set_ylabel("Non-self hit rate (%)")
     ax.set_ylim(0, 30)
@@ -694,7 +695,7 @@ def figure4():
                        fontsize=8)
     ax.set_xlabel("E-value threshold")
     ax.set_ylabel("Orphan rate (%)")
-    ax.set_title("E-value sensitivity analysis", fontsize=9)
+    ax.set_title("E-value sensitivity\nanalysis", fontsize=8)
     ax.set_ylim(75, 95)
 
     fig.tight_layout()

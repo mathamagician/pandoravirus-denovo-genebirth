@@ -327,7 +327,7 @@ Eddie Bradford
 | *P. salinus* | 61.7% | 0.9467 | 0.9840 | 12 | 64.1% |
 | *P. dulcis* | 63.7% | 0.9513 | 0.9863 | 5 | 68.7% |
 
-Note: The Mimivirus fixed-threshold singleton rate (9.5% at cosine > 0.95) is a method artifact — the null mean (0.9593) exceeds the fixed threshold, classifying essentially all gene pairs as similar. The adaptive threshold corrects this. All five genomes show singleton-dominated proteomes (64–91%) under the adaptive method.
+Note: The Mimivirus fixed-threshold singleton rate (9.5% at cosine > 0.95) is a method artifact, the null mean (0.9593) exceeds the fixed threshold, classifying essentially all gene pairs as similar. The adaptive threshold corrects this. All five genomes show singleton-dominated proteomes (64–91%) under the adaptive method.
 
 ---
 
@@ -370,8 +370,8 @@ All five genomes show singleton-dominated proteomes regardless of threshold choi
 | AGCT O/E ratio | 1.27× | 0.0007× | 0× | 1.11× | 0.11× |
 | AGCT rank (of 256 4-mers) | 241 | 1 | 1 | 185 | 1 |
 | Singleton rate (adaptive) | 88.9% | 64.1% | 68.7% | 90.4% | 81.6% |
-| Annotated orphan rate | — | 81.8% | 94.7% | — | — |
-| Hypothetical orphan rate | — | 97.0% | 98.4% | — | — |
+| Annotated orphan rate |, | 81.8% | 94.7% |, |, |
+| Hypothetical orphan rate |, | 97.0% | 98.4% |, |, |
 
 †Pithovirus CAI shift not statistically significant (p = 0.850, d = 0.027); GC3 shift significant (p = 4.7×10⁻⁴, d = 0.354).
 ‡Pithovirus shows modest minus-strand bias (~2.5σ from 50%); all other four genomes are 48.8–51.3%.
@@ -395,7 +395,7 @@ BLASTp orphan rates: *P. salinus* exhaustive annotated n = 521 (4 errors); *P. d
 
 ## Repository Data File: Full BLASTp Taxonomy
 
-Complete taxonomy of all 95 non-self BLAST hits (*P. salinus* annotated genes) with organism, identity, coverage, and genomic position — available as `results/blastp_annotated.json` and `results/blastp_psalinus_annotated.json` in the repository. Representative rows shown below for reference.
+Complete taxonomy of all 95 non-self BLAST hits (*P. salinus* annotated genes) with organism, identity, coverage, and genomic position, available as `results/blastp_annotated.json` and `results/blastp_psalinus_annotated.json` in the repository. Representative rows shown below for reference.
 
 | Protein_ID | Product | Genomic_position_bp | Strand | Taxonomy_category | Top_hit_organism | Pct_identity | E_value | Query_coverage | In_native_zone |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -456,7 +456,7 @@ Complete taxonomy of all 95 non-self BLAST hits (*P. salinus* annotated genes) w
 
 ## Repository Data File: Hypothetical Gene Non-Self Hits
 
-All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and native zone membership — available as `results/blastp_psalinus_hypothetical.json` in the repository. Full table shown below for reference.
+All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and native zone membership, available as `results/blastp_psalinus_hypothetical.json` in the repository. Full table shown below for reference.
 
 | Protein_ID | Genomic_position_bp | Strand | Taxonomy_category | Top_hit_organism | Pct_identity | E_value | In_native_zone |
 | --- | --- | --- | --- | --- | --- | --- | --- |
