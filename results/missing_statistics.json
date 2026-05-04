@@ -1,0 +1,63 @@
+{
+  "orphan_rate_derived": {
+    "annotated_n": 521,
+    "annotated_orphans": 426,
+    "annotated_orphan_rate": 0.817658349328215,
+    "hypothetical_n_sampled": 299,
+    "hypothetical_orphans_sampled": 290,
+    "hypothetical_orphan_rate_sampled": 0.9698996655518395,
+    "hypothetical_total": 902,
+    "classified_total": 1423,
+    "extrapolated_orphan_rate": 0.9142,
+    "bootstrap_ci_lo": 0.8965,
+    "bootstrap_ci_hi": 0.9304,
+    "direct_observed_rate": 0.8732,
+    "note": "Extrapolated: (521 \u00d7 0.818 + 902 \u00d7 0.970) / 1423. Philippe et al. 2013 reported 92.5% by independent method."
+  },
+  "spearman_tier_pvalue": {
+    "n_tiers": 5,
+    "n_permutations": 120,
+    "rho": -1.0,
+    "p_one_tailed": 0.0083,
+    "p_two_tailed": 0.0167,
+    "p_fisher_combined_two_tests": 0.000734,
+    "chi2_combined": 19.15,
+    "note": "Both GC and gene length show rho=-1.0 across 5 tiers. Fisher combined p <<< 0.001."
+  },
+  "hypothetical_spatial_or_ci": {
+    "hits_in_native_zone": 7,
+    "nohits_in_native_zone": 67,
+    "hits_outside_native_zone": 2,
+    "nohits_outside_native_zone": 224,
+    "fisher_or": 11.7,
+    "fisher_p": 0.001,
+    "haldane_or": 9.98,
+    "haldane_ci_lo": 2.32,
+    "haldane_ci_hi": 42.83,
+    "note": "n=9 total hypothetical non-self hits. Wide CI reflects small n. Lower bound 2.32 > 1.0 indicates enrichment even at conservative estimate."
+  },
+  "neutrality_regression": {
+    "n_genes": 1430,
+    "slope": 0.1176,
+    "slope_ci_lo": 0.0894,
+    "slope_ci_hi": 0.1457,
+    "r_squared": 0.0448,
+    "p_value": 5.8699e-16,
+    "intercept": 0.5124,
+    "interpretation": "Slope 0.1176 << 1.0 (expected under strict neutrality). GC12 largely invariant with wobble GC3, consistent with translational selection."
+  },
+  "cai_mannwhitney": {
+    "psal_n": 1430,
+    "psal_mean": 0.7865,
+    "psal_sd": 0.0317,
+    "mimi_n": 979,
+    "mimi_mean": 0.6574,
+    "mimi_sd": 0.0267,
+    "mean_difference": 0.1291,
+    "mannwhitney_U": 1392180.0,
+    "mannwhitney_p": 0.0,
+    "bootstrap_ci_lo": 0.1267,
+    "bootstrap_ci_hi": 0.1315,
+    "note": "p essentially 0 (machine precision limit). CAI reference: A. castellanii Kazusa database."
+  }
+}

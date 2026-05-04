@@ -521,17 +521,55 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 ---
 
+## Supplementary Table S11
+
+**Table S11.** Scope of generalization across findings. Each manuscript finding is annotated with the genome scope at which the evidence was collected. *P. salinus*-only findings are mechanistic; *P. salinus* + *P. dulcis* findings have same-genus replication; cross-NCLDV findings span four families and 28–64% GC content.
+
+| Finding | Scope | Evidence basis |
+| --- | --- | --- |
+| Distributed AT regulatory system (+10.3/+9.8 pp boundary signal) | *P. salinus* + *P. dulcis* (genus) | Module 9 meta-gene profile both species; *P. dulcis* +7.7 pp start, +6.9 pp end |
+| Strand-aware regulatory orientation (74% binomial test) | *P. salinus* + *P. dulcis* (genus) | *P. salinus* 3,559/4,810 (p ≈ 8×10⁻²⁵³); *P. dulcis* 3,956/6,403 (p ≈ 6×10⁻⁸⁰) |
+| Two-population AT identity (boundary vs dispersed) | *P. salinus* | Module 9; not formally repeated in *P. dulcis* |
+| Hairpin null model (2.0 pp excess) | *P. salinus* | Module 10 |
+| Five-tier proto-gene continuum | *P. salinus* | Module 7c; cross-genome maturation direction supported by GC3/CAI shifts |
+| Proto-gene mature regulatory signature (T4 p=0.14, T5 p=0.25) | *P. salinus* | Module 9 |
+| ESM-2 protein structural families | *P. salinus* | Module 8; *P. dulcis* not analyzed |
+| Compositional uniformity (5 kb GC CV 3.9%) | Pandoraviridae (*P. salinus* + *P. dulcis*) | Module 2; *P. dulcis* GC CV 3.6% |
+| BLASTp annotated/hypothetical homology gradient | Pandoraviridae | *P. salinus* OR=7.19; *P. dulcis* OR=3.42 (within-genome ann vs hyp) |
+| Cross-species annotated orphan rate difference | Pandoraviridae | *P. dulcis* 94.7% vs *P. salinus* 81.8% (p ≈ 3×10⁻⁸) |
+| Singleton-dominated proteome (adaptive threshold 64–91%) | Cross-NCLDV (4 families) | Module 7-v2; all five genomes |
+| Translational selection toward host codon usage | Cross-NCLDV (4/5 genomes) | Module 4; positive in 4 GC-rich, reversed in Mimivirus |
+| Annotated-vs-hypothetical GC3/CAI maturation shift | Cross-NCLDV (5 genomes) | Module 4; Mann-Whitney U significant in all five (direction reverses with GC) |
+| AGCT extreme depletion (rank 1/256) | Pandoraviridae + Mollivirus | Module 3; modest enrichment in Mimivirus, Pithovirus |
+| 478-gene compositional family decomposition by BLASTp | *P. salinus* | Module 7-v2 + Camacho et al. 2009; not repeated in other genomes |
+
+---
+
+## Supplementary Table S12
+
+**Table S12.** All-vs-all BLASTp clustering of the 478-gene *P. salinus* compositional family. Connected-components clustering on filtered hits at three stringency levels. Mean edge percent identity reflects the median sequence identity within significant pairwise hits.
+
+| Stringency | E-value | %ID min | qcov min | Total clusters | Multi-member clusters | Largest cluster | Singletons | % in multi-member |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Loose | ≤ 1×10⁻³ | 20% | 50% | 266 | 42 | 106 proteins | 224 (47%) | 53.1% |
+| Medium | ≤ 1×10⁻⁵ | 30% | 50% | 311 | 45 | 81 proteins | 266 (56%) | 44.4% |
+| Strict | ≤ 1×10⁻¹⁰ | 30% | 80% | 349 | 43 | 46 proteins | 306 (64%) | 36.0% |
+
+The compositional 478-gene group decomposes into one major homology cluster (likely the ankyrin/F-box repeat-domain expansion documented by Sun et al. 2015) plus ~40 smaller clusters and a substantial fraction of unclustered singletons. This pattern is consistent with a mixed-origin family in which a subset of members reflect MITE-mediated paralogous expansion while most members share base/codon constraints rather than detectable sequence-level homology.
+
+---
+
 ## Supplementary Figure S1
 
 **Figure S1.** Genome architecture: sliding-window GC profiles, gene density maps, GC skew plots, and strand maps for all four genomes in the comparison ladder.
 
-![PhiX174 genome map](C:/Users/Eddie/Code Projects/Pandoravirus/figures/phix174_genome_map.png)
+![PhiX174 genome map](../../Pandoravirus%201.0/figures/phix174_genome_map.png)
 
-![Lambda genome map](C:/Users/Eddie/Code Projects/Pandoravirus/figures/lambda_genome_map.png)
+![Lambda genome map](../../Pandoravirus%201.0/figures/lambda_genome_map.png)
 
-![Mimivirus genome map](C:/Users/Eddie/Code Projects/Pandoravirus/figures/mimivirus_genome_map.png)
+![Mimivirus genome map](../../Pandoravirus%201.0/figures/mimivirus_genome_map.png)
 
-![P. salinus genome map](C:/Users/Eddie/Code Projects/Pandoravirus/figures/pandoravirus_genome_map.png)
+![P. salinus genome map](../../Pandoravirus%201.0/figures/pandoravirus_genome_map.png)
 
 ---
 
@@ -539,7 +577,7 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 **Figure S2.** GMM clustering of P. salinus genes: three compositional clusters with native zone (1.3-2.0 Mb) overlay, showing cluster composition shift within the zone.
 
-![GMM clustering](C:/Users/Eddie/Code Projects/Pandoravirus/figures/pandoravirus_origin_classification.png)
+![GMM clustering](../../Pandoravirus%201.0/figures/pandoravirus_origin_classification.png)
 
 ---
 
@@ -547,9 +585,9 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 **Figure S3.** Pairwise protein 3-mer cosine similarity distributions: P. salinus vs Mimivirus, with composition-matched null model overlay.
 
-![Similarity distributions](C:/Users/Eddie/Code Projects/Pandoravirus/figures/gene_family_similarity_distributions.png)
+![Similarity distributions](../../Pandoravirus%201.0/figures/gene_family_similarity_distributions.png)
 
-![Null calibration](C:/Users/Eddie/Code Projects/Pandoravirus/figures/null_similarity_calibration.png)
+![Null calibration](../../Pandoravirus%201.0/figures/null_similarity_calibration.png)
 
 ---
 
@@ -557,9 +595,9 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 **Figure S4.** ESM-2 PCA embedding space showing structural family assignments, proto-gene positions, GC content overlay, and null calibration.
 
-![Structure prediction](C:/Users/Eddie/Code Projects/Pandoravirus/figures/phase8_structure_prediction.png)
+![Structure prediction](../../Pandoravirus%201.0/figures/phase8_structure_prediction.png)
 
-![Structure null calibration](C:/Users/Eddie/Code Projects/Pandoravirus/figures/phase8b_null_calibration.png)
+![Structure null calibration](../../Pandoravirus%201.0/figures/phase8b_null_calibration.png)
 
 ---
 
@@ -567,7 +605,7 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 **Figure S5.** Full 7-panel Module 11 BLASTp analysis figure.
 
-![BLASTp analysis](C:/Users/Eddie/Code Projects/Pandoravirus 2.0/figures/phase2_blastp_homology.png)
+![BLASTp analysis](../figures/phase2_blastp_homology.png)
 
 ---
 
@@ -575,7 +613,7 @@ All 9 *P. salinus* hypothetical gene non-self hits with taxonomy, identity, and 
 
 **Figure S6.** Module 10 corrected analysis 6-panel figure.
 
-![Transcriptomic validation](C:/Users/Eddie/Code Projects/Pandoravirus 2.0/figures/phase1b_corrected.png)
+![Transcriptomic validation](../figures/phase1b_corrected.png)
 
 ---
 

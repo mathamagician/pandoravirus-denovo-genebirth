@@ -1,0 +1,1513 @@
+[2026-03-21 10:53:07] ============================================================
+[2026-03-21 10:53:07] blast_hyp_complete.py — starting full hypothetical BLAST
+[2026-03-21 10:53:07] ============================================================
+[2026-03-21 10:53:08] Total hypothetical proteins in FASTA: 902
+[2026-03-21 10:53:08] Already completed: 300
+[2026-03-21 10:53:08] Remaining: 602 queries  |  Done: 300/902
+[2026-03-21 10:53:08] [301/902] YP_008436424.1  YP_008436424.1 psal_cds_4|hypothetical protein|pos:9355-10008(-)
+[2026-03-21 11:01:09]   -> 10 hits (0 non-self) in 481.5s | top non-self: no non-self hits
+[2026-03-21 11:01:10] [302/902] YP_009429942.1  YP_009429942.1 psal_cds_7|hypothetical protein|pos:14865-15911(+)
+[2026-03-21 11:05:29]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 11:05:30] [303/902] YP_008436434.1  YP_008436434.1 psal_cds_12|hypothetical protein|pos:24174-25178(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VXRFA525016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 11:20:49]   -> 10 hits (0 non-self) in 919.3s | top non-self: no non-self hits
+[2026-03-21 11:20:51] [304/902] YP_008436436.1  YP_008436436.1 psal_cds_13|hypothetical protein|pos:25642-27186(-)
+[2026-03-21 11:28:09]   -> 10 hits (0 non-self) in 438.0s | top non-self: no non-self hits
+[2026-03-21 11:28:10] [305/902] YP_008436443.1  YP_008436443.1 psal_cds_17|hypothetical protein|pos:31710-32648(-)
+[2026-03-21 11:35:29]   -> 9 hits (0 non-self) in 438.6s | top non-self: no non-self hits
+[2026-03-21 11:35:30] [306/902] YP_008436448.1  YP_008436448.1 psal_cds_20|hypothetical protein|pos:35576-36616(+)
+[2026-03-21 11:37:49]   -> 10 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-21 11:37:50] [307/902] YP_009429944.1  YP_009429944.1 psal_cds_21|hypothetical protein|pos:37199-37948(-)
+[2026-03-21 11:39:09]   -> 2 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 11:39:10] [308/902] YP_008436452.1  YP_008436452.1 psal_cds_23|hypothetical protein|pos:40389-41057(-)
+[2026-03-21 11:40:30]   -> 10 hits (3 non-self) in 80.1s | top non-self: Mollivirus kamchatka
+[2026-03-21 11:40:32] [309/902] YP_008436453.2  YP_008436453.2 psal_cds_24|hypothetical protein|pos:41161-41925(+)
+[2026-03-21 11:41:49]   -> 2 hits (0 non-self) in 77.4s | top non-self: no non-self hits
+[2026-03-21 11:41:50] [310/902] YP_008436456.1  YP_008436456.1 psal_cds_26|hypothetical protein|pos:44170-45249(+)
+[2026-03-21 11:46:09]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 11:46:10] [311/902] YP_008436457.1  YP_008436457.1 psal_cds_27|hypothetical protein|pos:45484-46215(-)
+[2026-03-21 11:51:29]   -> 9 hits (0 non-self) in 318.9s | top non-self: no non-self hits
+[2026-03-21 11:51:30] [312/902] YP_008436460.1  YP_008436460.1 psal_cds_28|hypothetical protein|pos:46748-47137(-)
+[2026-03-21 11:55:49]   -> 4 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 11:55:50] [313/902] YP_008436462.1  YP_008436462.1 psal_cds_29|hypothetical protein|pos:47656-48528(-)
+[2026-03-21 11:58:09]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 11:58:10] [314/902] YP_008436470.1  YP_008436470.1 psal_cds_34|hypothetical protein|pos:55675-57018(+)
+[2026-03-21 12:02:29]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 12:02:30] [315/902] YP_008436474.1  YP_008436474.1 psal_cds_36|hypothetical protein|pos:58618-60123(+)
+[2026-03-21 12:07:49]   -> 10 hits (0 non-self) in 319.0s | top non-self: no non-self hits
+[2026-03-21 12:07:50] [316/902] YP_008436479.1  YP_008436479.1 psal_cds_38|hypothetical protein|pos:64166-64735(+)
+[2026-03-21 12:10:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 12:10:10] [317/902] YP_009429947.1  YP_009429947.1 psal_cds_39|hypothetical protein|pos:65000-66553(-)
+[2026-03-21 12:11:29]   -> 10 hits (0 non-self) in 78.7s | top non-self: no non-self hits
+[2026-03-21 12:11:30] [318/902] YP_008436483.1  YP_008436483.1 psal_cds_40|hypothetical protein|pos:67181-68110(+)
+[2026-03-21 12:13:49]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 12:13:50] [319/902] YP_008436485.1  YP_008436485.1 psal_cds_41|hypothetical protein|pos:68762-70423(+)
+Exception ignored in: <generator object parse at 0x000001959EFB2CE0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-21 12:16:09]   -> 10 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-21 12:16:10] [320/902] YP_009429949.1  YP_009429949.1 psal_cds_45|hypothetical protein|pos:76296-76817(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VXVKVPW7014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 12:33:29]   -> 8 hits (0 non-self) in 1038.8s | top non-self: no non-self hits
+[2026-03-21 12:33:30] [321/902] YP_008436496.1  YP_008436496.1 psal_cds_46|hypothetical protein|pos:77281-77718(+)
+[2026-03-21 12:38:49]   -> 9 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 12:38:50] [322/902] YP_008436508.1  YP_008436508.1 psal_cds_52|hypothetical protein|pos:89937-90758(-)
+[2026-03-21 12:44:09]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 12:44:10] [323/902] YP_008436513.1  YP_008436513.1 psal_cds_54|hypothetical protein|pos:94090-94332(-)
+Exception ignored in: <generator object parse at 0x000001959EFB2A40>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 322, column 0
+[2026-03-21 12:50:29]   -> 6 hits (0 non-self) in 378.9s | top non-self: no non-self hits
+[2026-03-21 12:50:30] [324/902] YP_008436516.1  YP_008436516.1 psal_cds_55|hypothetical protein|pos:94972-96483(-)
+[2026-03-21 12:53:49]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 12:53:50] [325/902] YP_008436517.2  YP_008436517.2 psal_cds_56|hypothetical protein|pos:97286-99028(-)
+[2026-03-21 12:55:09]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 12:55:10] [326/902] YP_008436518.1  YP_008436518.1 psal_cds_57|hypothetical protein|pos:99285-100817(-)
+[2026-03-21 13:04:29]   -> 10 hits (0 non-self) in 558.8s | top non-self: no non-self hits
+[2026-03-21 13:04:30] [327/902] YP_008436519.1  YP_008436519.1 psal_cds_58|hypothetical protein|pos:101273-102658(-)
+[2026-03-21 13:09:49]   -> 10 hits (0 non-self) in 318.9s | top non-self: no non-self hits
+[2026-03-21 13:09:50] [328/902] YP_008436521.1  YP_008436521.1 psal_cds_60|hypothetical protein|pos:103331-103996(-)
+[2026-03-21 13:15:09]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 13:15:10] [329/902] YP_008436524.2  YP_008436524.2 psal_cds_62|hypothetical protein|pos:105694-106743(+)
+Exception ignored in: <generator object parse at 0x000001959EFB2CE0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-21 13:23:29]   -> 9 hits (0 non-self) in 499.0s | top non-self: no non-self hits
+[2026-03-21 13:23:30] [330/902] YP_008436526.2  YP_008436526.2 psal_cds_64|hypothetical protein|pos:108674-108973(-)
+[2026-03-21 13:26:49]   -> 1 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-21 13:26:50] [331/902] YP_008436551.1  YP_008436551.1 psal_cds_75|hypothetical protein|pos:128394-129728(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VXZSBW2B016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 13:37:10]   -> 10 hits (0 non-self) in 619.3s | top non-self: no non-self hits
+[2026-03-21 13:37:11] [332/902] YP_008436552.1  YP_008436552.1 psal_cds_76|hypothetical protein|pos:130142-130726(-)
+[2026-03-21 13:42:29]   -> 5 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-21 13:42:30] [333/902] YP_009429955.1  YP_009429955.1 psal_cds_78|hypothetical protein|pos:131842-132408(+)
+[2026-03-21 13:45:49]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-21 13:45:50] [334/902] YP_008436562.1  YP_008436562.1 psal_cds_81|hypothetical protein|pos:135892-136314(+)
+[2026-03-21 13:51:09]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 13:51:10] [335/902] YP_008436566.1  YP_008436566.1 psal_cds_84|hypothetical protein|pos:143453-144061(+)
+[2026-03-21 13:54:29]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 13:54:30] [336/902] YP_008436568.1  YP_008436568.1 psal_cds_85|hypothetical protein|pos:144616-146625(+)
+[2026-03-21 13:55:49]   -> 10 hits (1 non-self) in 78.6s | top non-self: Phytophthora cinnamomi
+[2026-03-21 13:55:50] [337/902] YP_008436570.1  YP_008436570.1 psal_cds_86|hypothetical protein|pos:147145-148071(+)
+[2026-03-21 14:00:09]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 14:00:10] [338/902] YP_008436575.1  YP_008436575.1 psal_cds_88|hypothetical protein|pos:150938-152149(+)
+[2026-03-21 14:01:29]   -> 10 hits (0 non-self) in 78.7s | top non-self: no non-self hits
+[2026-03-21 14:01:30] [339/902] YP_008436585.2  YP_008436585.2 psal_cds_95|hypothetical protein|pos:159000-159248(+)
+[2026-03-21 14:04:49]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 14:04:50] [340/902] YP_008436586.1  YP_008436586.1 psal_cds_96|hypothetical protein|pos:159709-160548(-)
+[2026-03-21 14:07:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 14:07:10] [341/902] YP_008436591.1  YP_008436591.1 psal_cds_99|hypothetical protein|pos:167305-168207(+)
+[2026-03-21 14:09:29]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-21 14:09:30] [342/902] YP_008436593.1  YP_008436593.1 psal_cds_100|hypothetical protein|pos:169137-170267(+)
+[2026-03-21 14:14:49]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 14:14:50] [343/902] YP_008436595.1  YP_008436595.1 psal_cds_101|hypothetical protein|pos:171177-173057(+)
+[2026-03-21 14:18:09]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-21 14:18:10] [344/902] YP_008436600.1  YP_008436600.1 psal_cds_103|hypothetical protein|pos:175028-176683(-)
+[2026-03-21 14:23:29]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 14:23:30] [345/902] YP_008436602.1  YP_008436602.1 psal_cds_104|hypothetical protein|pos:177375-177953(-)
+[2026-03-21 14:27:49]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-21 14:27:50] [346/902] YP_008436606.2  YP_008436606.2 psal_cds_106|hypothetical protein|pos:179390-181123(+)
+[2026-03-21 14:30:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 14:30:10] [347/902] YP_008436609.1  YP_008436609.1 psal_cds_108|hypothetical protein|pos:182489-184012(+)
+[2026-03-21 14:36:29]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 14:36:30] [348/902] YP_008436615.1  YP_008436615.1 psal_cds_111|hypothetical protein|pos:188027-189631(-)
+[2026-03-21 14:38:49]   -> 10 hits (0 non-self) in 139.1s | top non-self: no non-self hits
+[2026-03-21 14:38:51] [349/902] YP_008436622.1  YP_008436622.1 psal_cds_115|hypothetical protein|pos:195525-195923(-)
+[2026-03-21 14:44:09]   -> 1 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-21 14:44:10] [350/902] YP_009429959.1  YP_009429959.1 psal_cds_116|hypothetical protein|pos:196007-196729(-)
+[2026-03-21 14:46:29]   -> 6 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 14:46:30] [351/902] YP_009429960.1  YP_009429960.1 psal_cds_117|hypothetical protein|pos:197349-200231(+)
+[2026-03-21 14:55:49]   -> 10 hits (0 non-self) in 558.7s | top non-self: no non-self hits
+[2026-03-21 14:55:50] [352/902] YP_008436631.1  YP_008436631.1 psal_cds_120|hypothetical protein|pos:202918-203553(-)
+[2026-03-21 15:03:09]   -> 10 hits (0 non-self) in 438.7s | top non-self: no non-self hits
+[2026-03-21 15:03:10] [353/902] YP_008436635.2  YP_008436635.2 psal_cds_123|hypothetical protein|pos:206557-207207(+)
+[2026-03-21 15:09:29]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 15:09:30] [354/902] YP_008436641.1  YP_008436641.1 psal_cds_127|hypothetical protein|pos:211117-213177(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VY5SV7JA016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 15:26:49]   -> 10 hits (0 non-self) in 1038.8s | top non-self: no non-self hits
+[2026-03-21 15:26:50] [355/902] YP_008436642.1  YP_008436642.1 psal_cds_128|hypothetical protein|pos:213191-214114(+)
+[2026-03-21 15:33:09]   -> 3 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 15:33:10] [356/902] YP_009429961.1  YP_009429961.1 psal_cds_129|hypothetical protein|pos:214422-214841(-)
+[2026-03-21 15:39:29]   -> 9 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 15:39:30] [357/902] YP_008436646.2  YP_008436646.2 psal_cds_130|hypothetical protein|pos:215512-216309(-)
+[2026-03-21 15:48:49]   -> 10 hits (0 non-self) in 558.9s | top non-self: no non-self hits
+[2026-03-21 15:48:50] [358/902] YP_008436647.1  YP_008436647.1 psal_cds_131|hypothetical protein|pos:216979-217806(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VY82KTPH016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 16:02:09]   -> 1 hits (0 non-self) in 798.7s | top non-self: no non-self hits
+[2026-03-21 16:02:10] [359/902] YP_008436663.1  YP_008436663.1 psal_cds_139|hypothetical protein|pos:230303-231148(+)
+[2026-03-21 16:11:29]   -> 10 hits (0 non-self) in 558.8s | top non-self: no non-self hits
+[2026-03-21 16:11:30] [360/902] YP_009429962.1  YP_009429962.1 psal_cds_140|hypothetical protein|pos:231441-233253(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VY9D3EPH014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 16:45:49]   -> 10 hits (0 non-self) in 2058.8s | top non-self: no non-self hits
+[2026-03-21 16:45:50] [361/902] YP_008436671.1  YP_008436671.1 psal_cds_143|hypothetical protein|pos:238743-239129(+)
+[2026-03-21 16:52:09]   -> 8 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 16:52:10] [362/902] YP_008436681.2  YP_008436681.2 psal_cds_149|hypothetical protein|pos:247244-250450(-)
+[2026-03-21 16:58:29]   -> 10 hits (0 non-self) in 379.2s | top non-self: no non-self hits
+[2026-03-21 16:58:31] [363/902] YP_009429963.1  YP_009429963.1 psal_cds_150|hypothetical protein|pos:250449-251288(+)
+[2026-03-21 17:03:49]   -> 1 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-21 17:03:50] [364/902] YP_008436689.1  YP_008436689.1 psal_cds_153|hypothetical protein|pos:256613-257527(-)
+[2026-03-21 17:07:09]   -> 2 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 17:07:10] [365/902] YP_008436690.1  YP_008436690.1 psal_cds_154|hypothetical protein|pos:257684-258235(-)
+[2026-03-21 17:13:29]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 17:13:30] [366/902] YP_008436702.1  YP_008436702.1 psal_cds_160|hypothetical protein|pos:267857-269044(-)
+[2026-03-21 17:19:49]   -> 10 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 17:19:50] [367/902] YP_008436703.1  YP_008436703.1 psal_cds_161|hypothetical protein|pos:269109-269369(+)
+[2026-03-21 17:28:09]   -> 4 hits (0 non-self) in 498.8s | top non-self: no non-self hits
+[2026-03-21 17:28:10] [368/902] YP_008436706.1  YP_008436706.1 psal_cds_163|hypothetical protein|pos:271386-272219(-)
+[2026-03-21 17:35:29]   -> 10 hits (0 non-self) in 438.8s | top non-self: no non-self hits
+[2026-03-21 17:35:30] [369/902] YP_008436709.2  YP_008436709.2 psal_cds_164|hypothetical protein|pos:273981-274982(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYEAKVZY016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 17:46:49]   -> 10 hits (0 non-self) in 678.8s | top non-self: no non-self hits
+[2026-03-21 17:46:50] [370/902] YP_008436711.1  YP_008436711.1 psal_cds_165|hypothetical protein|pos:275691-277226(+)
+[2026-03-21 17:53:09]   -> 10 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 17:53:10] [371/902] YP_008436723.2  YP_008436723.2 psal_cds_172|hypothetical protein|pos:287065-288762(-)
+[2026-03-21 18:02:29]   -> 10 hits (0 non-self) in 558.7s | top non-self: no non-self hits
+[2026-03-21 18:02:30] [372/902] YP_008436730.1  YP_008436730.1 psal_cds_176|hypothetical protein|pos:293575-294987(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYFX6703016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 18:13:49]   -> 10 hits (0 non-self) in 678.8s | top non-self: no non-self hits
+[2026-03-21 18:13:50] [373/902] YP_008436734.1  YP_008436734.1 psal_cds_178|hypothetical protein|pos:298596-299489(+)
+[2026-03-21 18:20:09]   -> 10 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 18:20:10] [374/902] YP_009429968.1  YP_009429968.1 psal_cds_180|hypothetical protein|pos:302148-303347(+)
+[2026-03-21 18:24:29]   -> 10 hits (0 non-self) in 258.9s | top non-self: no non-self hits
+[2026-03-21 18:24:30] [375/902] YP_009429969.1  YP_009429969.1 psal_cds_181|hypothetical protein|pos:303646-304056(+)
+[2026-03-21 18:29:49]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 18:29:50] [376/902] YP_008436741.1  YP_008436741.1 psal_cds_182|hypothetical protein|pos:304670-305773(+)
+[2026-03-21 18:35:09]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 18:35:10] [377/902] YP_008436742.1  YP_008436742.1 psal_cds_183|hypothetical protein|pos:306141-306443(-)
+[2026-03-21 18:36:29]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 18:36:30] [378/902] YP_008436747.1  YP_008436747.1 psal_cds_186|hypothetical protein|pos:310265-311068(+)
+[2026-03-21 18:39:49]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 18:39:50] [379/902] YP_008436752.1  YP_008436752.1 psal_cds_188|hypothetical protein|pos:313466-314857(-)
+[2026-03-21 18:46:09]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 18:46:10] [380/902] YP_008436769.1  YP_008436769.1 psal_cds_195|hypothetical protein|pos:328292-331177(-)
+[2026-03-21 18:48:29]   -> 10 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-21 18:48:30] [381/902] YP_009429972.1  YP_009429972.1 psal_cds_197|hypothetical protein|pos:332584-333654(-)
+[2026-03-21 18:50:49]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 18:50:50] [382/902] YP_008436779.1  YP_008436779.1 psal_cds_200|hypothetical protein|pos:339399-340697(+)
+[2026-03-21 18:52:09]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 18:52:10] [383/902] YP_008436783.1  YP_008436783.1 psal_cds_202|hypothetical protein|pos:345158-346471(+)
+[2026-03-21 18:54:29]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 18:54:30] [384/902] YP_009429973.1  YP_009429973.1 psal_cds_205|hypothetical protein|pos:349959-351929(+)
+[2026-03-21 18:56:49]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 18:56:50] [385/902] YP_008436794.2  YP_008436794.2 psal_cds_208|hypothetical protein|pos:357510-358355(+)
+[2026-03-21 18:59:09]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 18:59:10] [386/902] YP_008436802.1  YP_008436802.1 psal_cds_213|hypothetical protein|pos:364536-366329(-)
+Exception ignored in: <generator object parse at 0x000001959EFB3A00>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-21 19:01:29]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 19:01:30] [387/902] YP_008436807.1  YP_008436807.1 psal_cds_216|hypothetical protein|pos:370173-370919(+)
+[2026-03-21 19:04:49]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 19:04:50] [388/902] YP_008436811.1  YP_008436811.1 psal_cds_219|hypothetical protein|pos:375769-376833(+)
+[2026-03-21 19:09:09]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 19:09:10] [389/902] YP_008436815.1  YP_008436815.1 psal_cds_221|hypothetical protein|pos:380606-382258(-)
+[2026-03-21 19:10:29]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:10:30] [390/902] YP_009429976.1  YP_009429976.1 psal_cds_222|hypothetical protein|pos:383718-384416(+)
+[2026-03-21 19:11:49]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:11:50] [391/902] YP_008436819.1  YP_008436819.1 psal_cds_223|hypothetical protein|pos:384850-386730(+)
+[2026-03-21 19:14:09]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 19:14:10] [392/902] YP_008436825.1  YP_008436825.1 psal_cds_226|hypothetical protein|pos:389905-391650(-)
+[2026-03-21 19:15:29]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:15:30] [393/902] YP_009429978.1  YP_009429978.1 psal_cds_233|hypothetical protein|pos:405432-407321(+)
+[2026-03-21 19:16:49]   -> 10 hits (0 non-self) in 78.9s | top non-self: no non-self hits
+[2026-03-21 19:16:50] [394/902] YP_008436844.2  YP_008436844.2 psal_cds_236|hypothetical protein|pos:411518-411676(+)
+[2026-03-21 19:18:09]   -> 1 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:18:10] [395/902] YP_008436845.1  YP_008436845.1 psal_cds_237|hypothetical protein|pos:411905-412792(-)
+[2026-03-21 19:22:29]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-21 19:22:30] [396/902] YP_008436846.1  YP_008436846.1 psal_cds_238|hypothetical protein|pos:413588-414799(+)
+[2026-03-21 19:23:49]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:23:50] [397/902] YP_008436853.2  YP_008436853.2 psal_cds_242|hypothetical protein|pos:420209-420877(-)
+[2026-03-21 19:25:09]   -> 2 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:25:10] [398/902] YP_008436856.1  YP_008436856.1 psal_cds_244|hypothetical protein|pos:422514-423119(-)
+[2026-03-21 19:27:29]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 19:27:30] [399/902] YP_009429981.1  YP_009429981.1 psal_cds_245|hypothetical protein|pos:423898-426684(-)
+[2026-03-21 19:28:49]   -> 10 hits (0 non-self) in 78.7s | top non-self: no non-self hits
+[2026-03-21 19:28:50] [400/902] YP_009429982.1  YP_009429982.1 psal_cds_247|hypothetical protein|pos:435213-436784(+)
+[2026-03-21 19:30:09]   -> 10 hits (0 non-self) in 78.9s | top non-self: no non-self hits
+[2026-03-21 19:30:10] [401/902] YP_008436868.1  YP_008436868.1 psal_cds_249|hypothetical protein|pos:438764-439291(+)
+[2026-03-21 19:31:29]   -> 5 hits (1 non-self) in 78.7s | top non-self: Cedratvirus lena
+[2026-03-21 19:31:30] [402/902] YP_008436871.1  YP_008436871.1 psal_cds_251|hypothetical protein|pos:441428-442471(+)
+[2026-03-21 19:33:49]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 19:33:50] [403/902] YP_008436875.1  YP_008436875.1 psal_cds_253|hypothetical protein|pos:445266-447200(-)
+[2026-03-21 19:36:09]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 19:36:10] [404/902] YP_008436877.1  YP_008436877.1 psal_cds_254|hypothetical protein|pos:447603-448202(-)
+[2026-03-21 19:38:29]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 19:38:30] [405/902] YP_008436880.1  YP_008436880.1 psal_cds_255|hypothetical protein|pos:448632-450143(-)
+[2026-03-21 19:41:49]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-21 19:41:50] [406/902] YP_009429983.1  YP_009429983.1 psal_cds_257|hypothetical protein|pos:452982-456324(+)
+[2026-03-21 19:44:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 19:44:10] [407/902] YP_009429984.1  YP_009429984.1 psal_cds_258|hypothetical protein|pos:456513-458219(-)
+[2026-03-21 19:45:29]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 19:45:30] [408/902] YP_008436895.2  YP_008436895.2 psal_cds_262|hypothetical protein|pos:464920-465294(-)
+[2026-03-21 19:48:49]   -> 1 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-21 19:48:50] [409/902] YP_008436899.1  YP_008436899.1 psal_cds_264|hypothetical protein|pos:467029-468102(-)
+[2026-03-21 19:50:09]   -> 10 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-21 19:50:10] [410/902] YP_008436900.1  YP_008436900.1 psal_cds_265|hypothetical protein|pos:468298-469149(+)
+[2026-03-21 19:52:29]   -> 1 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 19:52:30] [411/902] YP_009429986.1  YP_009429986.1 psal_cds_266|hypothetical protein|pos:469447-470130(+)
+[2026-03-21 19:55:49]   -> 1 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 19:55:50] [412/902] YP_008436911.1  YP_008436911.1 psal_cds_269|hypothetical protein|pos:475999-476496(+)
+[2026-03-21 19:57:09]   -> 10 hits (0 non-self) in 78.7s | top non-self: no non-self hits
+[2026-03-21 19:57:10] [413/902] YP_008436917.1  YP_008436917.1 psal_cds_273|hypothetical protein|pos:483805-485577(+)
+[2026-03-21 19:59:29]   -> 10 hits (0 non-self) in 139.2s | top non-self: no non-self hits
+[2026-03-21 19:59:31] [414/902] YP_009429989.1  YP_009429989.1 psal_cds_275|hypothetical protein|pos:494215-494661(+)
+[2026-03-21 20:04:49]   -> 1 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-21 20:04:50] [415/902] YP_008436923.1  YP_008436923.1 psal_cds_276|hypothetical protein|pos:495981-498563(-)
+[2026-03-21 20:07:09]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 20:07:10] [416/902] YP_009429990.1  YP_009429990.1 psal_cds_277|hypothetical protein|pos:499492-500589(+)
+[2026-03-21 20:09:29]   -> 9 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-21 20:09:30] [417/902] YP_008436928.1  YP_008436928.1 psal_cds_278|hypothetical protein|pos:501454-502272(-)
+[2026-03-21 20:11:49]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-21 20:11:50] [418/902] YP_009429992.1  YP_009429992.1 psal_cds_280|hypothetical protein|pos:503683-505470(-)
+[2026-03-21 20:15:09]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-21 20:15:10] [419/902] YP_008436933.1  YP_008436933.1 psal_cds_281|hypothetical protein|pos:506141-506497(-)
+[2026-03-21 20:17:29]   -> 1 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 20:17:30] [420/902] YP_008436935.1  YP_008436935.1 psal_cds_282|hypothetical protein|pos:506808-508376(+)
+[2026-03-21 20:19:49]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 20:19:50] [421/902] YP_008436939.1  YP_008436939.1 psal_cds_284|hypothetical protein|pos:511231-511893(+)
+[2026-03-21 20:23:09]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-21 20:23:10] [422/902] YP_008436947.1  YP_008436947.1 psal_cds_289|hypothetical protein|pos:520510-520920(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYS4ZTYK016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 20:36:29]   -> 10 hits (0 non-self) in 798.7s | top non-self: no non-self hits
+[2026-03-21 20:36:30] [423/902] YP_008436951.1  YP_008436951.1 psal_cds_292|hypothetical protein|pos:525075-526577(+)
+[2026-03-21 20:37:49]   -> 10 hits (0 non-self) in 78.8s | top non-self: no non-self hits
+[2026-03-21 20:37:50] [424/902] YP_008436952.1  YP_008436952.1 psal_cds_293|hypothetical protein|pos:527479-527793(-)
+[2026-03-21 20:46:09]   -> 1 hits (0 non-self) in 498.7s | top non-self: no non-self hits
+[2026-03-21 20:46:10] [425/902] YP_008436955.1  YP_008436955.1 psal_cds_295|hypothetical protein|pos:529849-530568(+)
+[2026-03-21 20:48:29]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-21 20:48:30] [426/902] YP_009429993.1  YP_009429993.1 psal_cds_296|hypothetical protein|pos:530310-531323(-)
+[2026-03-21 20:55:49]   -> 7 hits (1 non-self) in 438.7s | top non-self: Rariglobus sp.
+[2026-03-21 20:55:50] [427/902] YP_009429994.1  YP_009429994.1 psal_cds_298|hypothetical protein|pos:534519-535754(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYU27WK4014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 21:11:09]   -> 0 hits (0 non-self) in 918.8s | top non-self: no non-self hits
+[2026-03-21 21:11:10] [428/902] YP_009429995.1  YP_009429995.1 psal_cds_300|hypothetical protein|pos:538654-539397(-)
+[2026-03-21 21:16:29]   -> 10 hits (0 non-self) in 318.7s | top non-self: no non-self hits
+[2026-03-21 21:16:30] [429/902] YP_008436970.2  YP_008436970.2 psal_cds_302|hypothetical protein|pos:542404-542619(-)
+[2026-03-21 21:19:49]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-21 21:19:50] [430/902] YP_008436971.1  YP_008436971.1 psal_cds_303|hypothetical protein|pos:543067-544914(-)
+[2026-03-21 21:24:09]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-21 21:24:10] [431/902] YP_008436975.1  YP_008436975.1 psal_cds_305|hypothetical protein|pos:546910-548451(-)
+[2026-03-21 21:29:29]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 21:29:30] [432/902] YP_009429996.1  YP_009429996.1 psal_cds_308|hypothetical protein|pos:552717-553659(-)
+[2026-03-21 21:35:49]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 21:35:50] [433/902] YP_008436986.1  YP_008436986.1 psal_cds_310|hypothetical protein|pos:557934-558935(+)
+[2026-03-21 21:39:09]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 21:39:10] [434/902] YP_008436989.1  YP_008436989.1 psal_cds_311|hypothetical protein|pos:559644-561062(+)
+[2026-03-21 21:46:29]   -> 10 hits (0 non-self) in 438.7s | top non-self: no non-self hits
+[2026-03-21 21:46:30] [435/902] YP_008436997.2  YP_008436997.2 psal_cds_315|hypothetical protein|pos:568141-568524(+)
+[2026-03-21 21:48:49]   -> 1 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-21 21:48:50] [436/902] YP_008437003.1  YP_008437003.1 psal_cds_318|hypothetical protein|pos:572036-573115(-)
+[2026-03-21 21:52:09]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-21 21:52:10] [437/902] YP_008437006.1  YP_008437006.1 psal_cds_319|hypothetical protein|pos:574012-575826(+)
+[2026-03-21 21:59:29]   -> 10 hits (0 non-self) in 438.8s | top non-self: no non-self hits
+[2026-03-21 21:59:30] [438/902] YP_008437019.1  YP_008437019.1 psal_cds_325|hypothetical protein|pos:586011-586247(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYXTKGW3014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 22:10:49]   -> 9 hits (0 non-self) in 678.7s | top non-self: no non-self hits
+[2026-03-21 22:10:50] [439/902] YP_008437020.1  YP_008437020.1 psal_cds_326|hypothetical protein|pos:586260-586523(-)
+[2026-03-21 22:17:09]   -> 10 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 22:17:10] [440/902] YP_008437024.1  YP_008437024.1 psal_cds_328|hypothetical protein|pos:588641-590005(-)
+[2026-03-21 22:22:29]   -> 10 hits (0 non-self) in 318.7s | top non-self: no non-self hits
+[2026-03-21 22:22:30] [441/902] YP_009429998.1  YP_009429998.1 psal_cds_330|hypothetical protein|pos:593247-594652(+)
+[2026-03-21 22:27:49]   -> 10 hits (0 non-self) in 318.7s | top non-self: no non-self hits
+[2026-03-21 22:27:50] [442/902] YP_008437030.1  YP_008437030.1 psal_cds_331|hypothetical protein|pos:594682-595068(-)
+[2026-03-21 22:34:09]   -> 1 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-21 22:34:10] [443/902] YP_008437040.1  YP_008437040.1 psal_cds_337|hypothetical protein|pos:603754-604506(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VYZUKEMJ016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 22:44:29]   -> 4 hits (0 non-self) in 618.8s | top non-self: no non-self hits
+[2026-03-21 22:44:30] [444/902] YP_009429999.1  YP_009429999.1 psal_cds_338|hypothetical protein|pos:605050-605523(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZ0DZN7U016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 22:54:49]   -> 10 hits (0 non-self) in 618.5s | top non-self: no non-self hits
+[2026-03-21 22:54:50] [445/902] YP_008437043.1  YP_008437043.1 psal_cds_339|hypothetical protein|pos:605950-606900(-)
+[2026-03-21 23:00:09]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-21 23:00:10] [446/902] YP_008437046.1  YP_008437046.1 psal_cds_341|hypothetical protein|pos:609192-610436(-)
+[2026-03-21 23:05:29]   -> 10 hits (0 non-self) in 318.6s | top non-self: no non-self hits
+[2026-03-21 23:05:30] [447/902] YP_008437050.1  YP_008437050.1 psal_cds_343|hypothetical protein|pos:613135-614367(-)
+[2026-03-21 23:11:49]   -> 10 hits (0 non-self) in 378.6s | top non-self: no non-self hits
+[2026-03-21 23:11:50] [448/902] YP_008437057.1  YP_008437057.1 psal_cds_347|hypothetical protein|pos:621126-622703(+)
+[2026-03-21 23:18:09]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-21 23:18:10] [449/902] YP_008437059.1  YP_008437059.1 psal_cds_348|hypothetical protein|pos:623041-624501(+)
+[2026-03-21 23:22:29]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-21 23:22:30] [450/902] YP_008437062.1  YP_008437062.1 psal_cds_350|hypothetical protein|pos:625930-626796(+)
+[2026-03-21 23:24:49]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-21 23:24:50] [451/902] YP_008437066.1  YP_008437066.1 psal_cds_352|hypothetical protein|pos:628822-629538(-)
+[2026-03-21 23:27:09]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-21 23:27:11] [452/902] YP_009430001.1  YP_009430001.1 psal_cds_353|hypothetical protein|pos:630532-631059(+)
+[2026-03-21 23:31:29]   -> 1 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-21 23:31:30] [453/902] YP_008437074.2  YP_008437074.2 psal_cds_355|hypothetical protein|pos:633256-634473(-)
+[2026-03-21 23:33:49]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-21 23:33:51] [454/902] YP_008437077.1  YP_008437077.1 psal_cds_357|hypothetical protein|pos:636808-637923(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZ3AF2E9016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-21 23:47:09]   -> 10 hits (0 non-self) in 798.5s | top non-self: no non-self hits
+[2026-03-21 23:47:11] [455/902] YP_009430003.1  YP_009430003.1 psal_cds_358|hypothetical protein|pos:638651-640635(+)
+[2026-03-21 23:50:29]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-21 23:50:31] [456/902] YP_008437082.1  YP_008437082.1 psal_cds_359|hypothetical protein|pos:641629-642510(+)
+[2026-03-21 23:57:49]   -> 10 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-21 23:57:50] [457/902] YP_008437086.1  YP_008437086.1 psal_cds_361|hypothetical protein|pos:646486-647487(+)
+[2026-03-22 00:01:09]   -> 10 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-22 00:01:11] [458/902] YP_008437093.1  YP_008437093.1 psal_cds_364|hypothetical protein|pos:655658-655852(+)
+[2026-03-22 00:06:29]   -> 1 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 00:06:30] [459/902] YP_009430004.1  YP_009430004.1 psal_cds_366|hypothetical protein|pos:659971-660720(+)
+[2026-03-22 00:10:49]   -> 6 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 00:10:50] [460/902] YP_008437100.1  YP_008437100.1 psal_cds_367|hypothetical protein|pos:660921-662150(+)
+Exception ignored in: <generator object parse at 0x000001959EFB1D20>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 209, column 0
+[2026-03-22 00:17:09]   -> 10 hits (0 non-self) in 378.9s | top non-self: no non-self hits
+[2026-03-22 00:17:11] [461/902] YP_008437105.1  YP_008437105.1 psal_cds_369|hypothetical protein|pos:667381-668520(-)
+[2026-03-22 00:19:29]   -> 10 hits (0 non-self) in 137.8s | top non-self: no non-self hits
+[2026-03-22 00:19:30] [462/902] YP_009430006.1  YP_009430006.1 psal_cds_372|hypothetical protein|pos:673162-673845(-)
+[2026-03-22 00:21:49]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 00:21:50] [463/902] YP_008437114.1  YP_008437114.1 psal_cds_373|hypothetical protein|pos:674449-675009(+)
+[2026-03-22 00:24:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 00:24:10] [464/902] YP_008437118.2  YP_008437118.2 psal_cds_375|hypothetical protein|pos:678919-679341(-)
+[2026-03-22 00:26:29]   -> 2 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 00:26:30] [465/902] YP_008437121.1  YP_008437121.1 psal_cds_377|hypothetical protein|pos:682384-683907(-)
+[2026-03-22 00:28:49]   -> 10 hits (0 non-self) in 138.8s | top non-self: no non-self hits
+[2026-03-22 00:28:50] [466/902] YP_008437124.1  YP_008437124.1 psal_cds_379|hypothetical protein|pos:684930-685670(+)
+[2026-03-22 00:31:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 00:31:10] [467/902] YP_009430007.1  YP_009430007.1 psal_cds_381|hypothetical protein|pos:688997-690298(-)
+[2026-03-22 00:32:29]   -> 10 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 00:32:30] [468/902] YP_008437138.1  YP_008437138.1 psal_cds_385|hypothetical protein|pos:694291-694677(+)
+[2026-03-22 00:36:49]   -> 1 hits (0 non-self) in 259.2s | top non-self: no non-self hits
+[2026-03-22 00:36:52] [469/902] YP_008437139.1  YP_008437139.1 psal_cds_386|hypothetical protein|pos:694979-695830(+)
+[2026-03-22 00:40:09]   -> 10 hits (0 non-self) in 197.3s | top non-self: no non-self hits
+[2026-03-22 00:40:11] [470/902] YP_008437141.1  YP_008437141.1 psal_cds_387|hypothetical protein|pos:696982-701373(+)
+[2026-03-22 00:42:29]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 00:42:31] [471/902] YP_008437143.1  YP_008437143.1 psal_cds_388|hypothetical protein|pos:702105-703529(+)
+[2026-03-22 00:46:49]   -> 10 hits (1 non-self) in 258.8s | top non-self: Rariglobus sp.
+[2026-03-22 00:46:51] [472/902] YP_008437147.1  YP_008437147.1 psal_cds_389|hypothetical protein|pos:705002-707056(+)
+Exception ignored in: <generator object parse at 0x000001959EFB2260>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 322, column 0
+[2026-03-22 00:53:09]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-22 00:53:12] [473/902] YP_009430008.1  YP_009430008.1 psal_cds_391|hypothetical protein|pos:708218-708505(+)
+[2026-03-22 00:56:29]   -> 2 hits (0 non-self) in 197.7s | top non-self: no non-self hits
+[2026-03-22 00:56:31] [474/902] YP_008437151.2  YP_008437151.2 psal_cds_392|hypothetical protein|pos:708906-710717(-)
+[2026-03-22 00:58:49]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 00:58:51] [475/902] YP_008437156.1  YP_008437156.1 psal_cds_395|hypothetical protein|pos:713772-714053(+)
+[2026-03-22 01:00:09]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 01:00:11] [476/902] YP_008437163.1  YP_008437163.1 psal_cds_398|hypothetical protein|pos:718629-719219(-)
+[2026-03-22 01:03:29]   -> 10 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 01:03:31] [477/902] YP_008437166.1  YP_008437166.1 psal_cds_399|hypothetical protein|pos:720014-721606(+)
+[2026-03-22 01:07:49]   -> 10 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 01:07:51] [478/902] YP_009430009.1  YP_009430009.1 psal_cds_402|hypothetical protein|pos:727029-729427(+)
+[2026-03-22 01:12:09]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 01:12:12] [479/902] YP_008437182.1  YP_008437182.1 psal_cds_406|hypothetical protein|pos:733996-734910(+)
+[2026-03-22 01:18:29]   -> 10 hits (0 non-self) in 377.3s | top non-self: no non-self hits
+[2026-03-22 01:18:31] [480/902] YP_008437186.1  YP_008437186.1 psal_cds_408|hypothetical protein|pos:737129-737407(+)
+[2026-03-22 01:21:49]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 01:21:51] [481/902] YP_009430010.1  YP_009430010.1 psal_cds_409|hypothetical protein|pos:738223-739374(+)
+[2026-03-22 01:23:10]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 01:23:12] [482/902] YP_008437198.1  YP_008437198.1 psal_cds_413|hypothetical protein|pos:745621-745863(-)
+[2026-03-22 01:28:29]   -> 7 hits (0 non-self) in 317.3s | top non-self: no non-self hits
+[2026-03-22 01:28:33] [483/902] YP_008437203.1  YP_008437203.1 psal_cds_415|hypothetical protein|pos:748176-748463(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZA1HUNG016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 01:43:49]   -> 1 hits (0 non-self) in 916.6s | top non-self: no non-self hits
+[2026-03-22 01:43:51] [484/902] YP_008437209.1  YP_008437209.1 psal_cds_418|hypothetical protein|pos:753632-753892(-)
+[2026-03-22 01:47:10]   -> 1 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 01:47:11] [485/902] YP_008437210.1  YP_008437210.1 psal_cds_419|hypothetical protein|pos:753904-756075(+)
+[2026-03-22 01:51:30]   -> 10 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 01:51:32] [486/902] YP_008437212.1  YP_008437212.1 psal_cds_420|hypothetical protein|pos:757577-757969(+)
+[2026-03-22 01:55:49]   -> 10 hits (0 non-self) in 257.5s | top non-self: no non-self hits
+[2026-03-22 01:55:52] [487/902] YP_008437215.1  YP_008437215.1 psal_cds_421|hypothetical protein|pos:759074-760453(-)
+[2026-03-22 01:59:09]   -> 10 hits (0 non-self) in 197.5s | top non-self: no non-self hits
+[2026-03-22 01:59:11] [488/902] YP_008437222.1  YP_008437222.1 psal_cds_425|hypothetical protein|pos:769242-770270(-)
+[2026-03-22 02:05:29]   -> 10 hits (0 non-self) in 378.0s | top non-self: no non-self hits
+[2026-03-22 02:05:31] [489/902] YP_009430013.1  YP_009430013.1 psal_cds_427|hypothetical protein|pos:773110-773607(+)
+[2026-03-22 02:06:49]   -> 1 hits (0 non-self) in 77.9s | top non-self: no non-self hits
+[2026-03-22 02:06:52] [490/902] YP_008437233.1  YP_008437233.1 psal_cds_429|hypothetical protein|pos:776674-777441(+)
+[2026-03-22 02:09:09]   -> 10 hits (0 non-self) in 137.7s | top non-self: no non-self hits
+[2026-03-22 02:09:13] [491/902] YP_008437237.1  YP_008437237.1 psal_cds_431|hypothetical protein|pos:778901-780184(+)
+[2026-03-22 02:18:30]   -> 9 hits (0 non-self) in 557.3s | top non-self: no non-self hits
+[2026-03-22 02:18:32] [492/902] YP_008437243.1  YP_008437243.1 psal_cds_433|hypothetical protein|pos:783261-785546(-)
+[2026-03-22 02:20:49]   -> 10 hits (0 non-self) in 136.8s | top non-self: no non-self hits
+[2026-03-22 02:20:51] [493/902] YP_009430015.1  YP_009430015.1 psal_cds_434|hypothetical protein|pos:786565-787278(-)
+[2026-03-22 02:23:09]   -> 10 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 02:23:15] [494/902] YP_008437252.1  YP_008437252.1 psal_cds_437|hypothetical protein|pos:791682-792017(-)
+[2026-03-22 02:25:29]   -> 6 hits (0 non-self) in 133.7s | top non-self: no non-self hits
+[2026-03-22 02:25:31] [495/902] YP_008437255.1  YP_008437255.1 psal_cds_438|hypothetical protein|pos:792579-793274(-)
+[2026-03-22 02:29:49]   -> 10 hits (0 non-self) in 257.7s | top non-self: no non-self hits
+[2026-03-22 02:29:51] [496/902] YP_008437259.1  YP_008437259.1 psal_cds_440|hypothetical protein|pos:797292-798332(-)
+[2026-03-22 02:33:09]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 02:33:11] [497/902] YP_008437263.1  YP_008437263.1 psal_cds_442|hypothetical protein|pos:800514-801605(-)
+[2026-03-22 02:35:29]   -> 10 hits (0 non-self) in 137.6s | top non-self: no non-self hits
+[2026-03-22 02:35:32] [498/902] YP_008437269.1  YP_008437269.1 psal_cds_446|hypothetical protein|pos:806573-807550(+)
+[2026-03-22 02:37:49]   -> 10 hits (0 non-self) in 137.0s | top non-self: no non-self hits
+[2026-03-22 02:37:52] [499/902] YP_008437274.1  YP_008437274.1 psal_cds_450|hypothetical protein|pos:813064-814212(-)
+[2026-03-22 02:43:09]   -> 10 hits (0 non-self) in 317.5s | top non-self: no non-self hits
+[2026-03-22 02:43:11] [500/902] YP_008437277.1  YP_008437277.1 psal_cds_452|hypothetical protein|pos:816968-817249(-)
+[2026-03-22 02:47:29]   -> 7 hits (0 non-self) in 257.8s | top non-self: no non-self hits
+[2026-03-22 02:47:31] [501/902] YP_008437278.1  YP_008437278.1 psal_cds_453|hypothetical protein|pos:817589-817786(-)
+[2026-03-22 02:52:49]   -> 8 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 02:52:51] [502/902] YP_008437281.1  YP_008437281.1 psal_cds_455|hypothetical protein|pos:818618-819442(+)
+[2026-03-22 02:57:09]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 02:57:11] [503/902] YP_008437290.1  YP_008437290.1 psal_cds_459|hypothetical protein|pos:826696-827406(-)
+[2026-03-22 02:59:29]   -> 10 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 02:59:31] [504/902] YP_008437292.1  YP_008437292.1 psal_cds_461|hypothetical protein|pos:829606-830280(-)
+[2026-03-22 03:08:49]   -> 10 hits (0 non-self) in 558.4s | top non-self: no non-self hits
+[2026-03-22 03:08:51] [505/902] YP_008437293.2  YP_008437293.2 psal_cds_462|hypothetical protein|pos:830735-831013(+)
+[2026-03-22 03:12:09]   -> 9 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 03:12:11] [506/902] YP_008437297.1  YP_008437297.1 psal_cds_464|hypothetical protein|pos:833638-836181(+)
+[2026-03-22 03:16:29]   -> 10 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 03:16:31] [507/902] YP_008437299.1  YP_008437299.1 psal_cds_465|hypothetical protein|pos:836941-837297(-)
+[2026-03-22 03:25:49]   -> 10 hits (0 non-self) in 558.0s | top non-self: no non-self hits
+[2026-03-22 03:25:51] [508/902] YP_008437301.1  YP_008437301.1 psal_cds_467|hypothetical protein|pos:838425-839870(-)
+[2026-03-22 03:27:09]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 03:27:10] [509/902] YP_008437303.1  YP_008437303.1 psal_cds_468|hypothetical protein|pos:840404-841879(-)
+[2026-03-22 03:29:29]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 03:29:31] [510/902] YP_008437310.2  YP_008437310.2 psal_cds_471|hypothetical protein|pos:848929-850398(-)
+[2026-03-22 03:31:49]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 03:31:51] [511/902] YP_008437312.1  YP_008437312.1 psal_cds_472|hypothetical protein|pos:851319-852488(-)
+[2026-03-22 03:34:09]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 03:34:11] [512/902] YP_008437315.1  YP_008437315.1 psal_cds_473|hypothetical protein|pos:853030-853353(+)
+[2026-03-22 03:35:29]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 03:35:31] [513/902] YP_008437316.1  YP_008437316.1 psal_cds_474|hypothetical protein|pos:853695-854825(-)
+[2026-03-22 03:40:49]   -> 8 hits (0 non-self) in 318.2s | top non-self: no non-self hits
+[2026-03-22 03:40:51] [514/902] YP_008437319.1  YP_008437319.1 psal_cds_476|hypothetical protein|pos:856439-857008(-)
+[2026-03-22 03:42:09]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 03:42:11] [515/902] YP_008437321.1  YP_008437321.1 psal_cds_477|hypothetical protein|pos:857675-858757(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZHW37RS014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 03:52:29]   -> 10 hits (0 non-self) in 618.5s | top non-self: no non-self hits
+[2026-03-22 03:52:31] [516/902] YP_008437322.2  YP_008437322.2 psal_cds_478|hypothetical protein|pos:858761-859831(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZJFFJWX014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 04:03:49]   -> 10 hits (0 non-self) in 678.0s | top non-self: no non-self hits
+[2026-03-22 04:03:51] [517/902] YP_009430021.1  YP_009430021.1 psal_cds_480|hypothetical protein|pos:861507-862586(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZK4RTV2014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 04:23:09]   -> 10 hits (0 non-self) in 1158.5s | top non-self: no non-self hits
+[2026-03-22 04:23:11] [518/902] YP_008437333.1  YP_008437333.1 psal_cds_483|hypothetical protein|pos:869010-869210(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZM8ZSMK016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 04:38:29]   -> 1 hits (0 non-self) in 918.3s | top non-self: no non-self hits
+[2026-03-22 04:38:31] [519/902] YP_008437336.1  YP_008437336.1 psal_cds_485|hypothetical protein|pos:870604-870765(-)
+[2026-03-22 04:44:49]   -> 1 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 04:44:51] [520/902] YP_008437337.1  YP_008437337.1 psal_cds_486|hypothetical protein|pos:870983-871900(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZNHKHD0016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 04:56:09]   -> 5 hits (0 non-self) in 678.4s | top non-self: no non-self hits
+[2026-03-22 04:56:11] [521/902] YP_008437339.1  YP_008437339.1 psal_cds_487|hypothetical protein|pos:872691-875507(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZP6VWFP016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 05:08:29]   -> 10 hits (0 non-self) in 738.3s | top non-self: no non-self hits
+[2026-03-22 05:08:31] [522/902] YP_008437342.1  YP_008437342.1 psal_cds_488|hypothetical protein|pos:876417-876659(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZPXZPNB016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 05:22:49]   -> 1 hits (0 non-self) in 858.3s | top non-self: no non-self hits
+[2026-03-22 05:22:51] [523/902] YP_008437345.1  YP_008437345.1 psal_cds_490|hypothetical protein|pos:878768-879319(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZRSVRHP016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 05:40:09]   -> 10 hits (0 non-self) in 1038.3s | top non-self: no non-self hits
+[2026-03-22 05:40:11] [524/902] YP_008437349.1  YP_008437349.1 psal_cds_492|hypothetical protein|pos:882922-884952(+)
+[2026-03-22 05:47:29]   -> 10 hits (0 non-self) in 438.3s | top non-self: no non-self hits
+[2026-03-22 05:47:31] [525/902] YP_008437351.2  YP_008437351.2 psal_cds_493|hypothetical protein|pos:885690-886835(-)
+[2026-03-22 05:50:49]   -> 10 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 05:50:51] [526/902] YP_008437352.2  YP_008437352.2 psal_cds_494|hypothetical protein|pos:887421-888383(-)
+[2026-03-22 05:52:09]   -> 9 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 05:52:10] [527/902] YP_008437353.2  YP_008437353.2 psal_cds_495|hypothetical protein|pos:888920-890392(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZTFVXAV016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 06:12:29]   -> 10 hits (0 non-self) in 1218.7s | top non-self: no non-self hits
+[2026-03-22 06:12:30] [528/902] YP_008437366.1  YP_008437366.1 psal_cds_501|hypothetical protein|pos:900065-900388(+)
+[2026-03-22 06:18:49]   -> 6 hits (0 non-self) in 378.6s | top non-self: no non-self hits
+[2026-03-22 06:18:51] [529/902] YP_008437368.1  YP_008437368.1 psal_cds_502|hypothetical protein|pos:901049-902200(-)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZV1VFR0016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 06:36:09]   -> 10 hits (0 non-self) in 1038.2s | top non-self: no non-self hits
+[2026-03-22 06:36:11] [530/902] YP_008437380.1  YP_008437380.1 psal_cds_506|hypothetical protein|pos:908447-909406(+)
+[2026-03-22 06:44:29]   -> 10 hits (0 non-self) in 498.6s | top non-self: no non-self hits
+[2026-03-22 06:44:31] [531/902] YP_008437384.1  YP_008437384.1 psal_cds_507|hypothetical protein|pos:910229-910930(+)
+[2026-03-22 06:53:49]   -> 8 hits (0 non-self) in 558.3s | top non-self: no non-self hits
+[2026-03-22 06:53:51] [532/902] YP_008437389.1  YP_008437389.1 psal_cds_510|hypothetical protein|pos:913327-914328(-)
+[2026-03-22 07:01:09]   -> 10 hits (0 non-self) in 438.0s | top non-self: no non-self hits
+[2026-03-22 07:01:11] [533/902] YP_008437391.1  YP_008437391.1 psal_cds_511|hypothetical protein|pos:914901-915512(-)
+[2026-03-22 07:07:29]   -> 8 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 07:07:31] [534/902] YP_008437394.1  YP_008437394.1 psal_cds_512|hypothetical protein|pos:916460-919189(-)
+[2026-03-22 07:10:49]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 07:10:51] [535/902] YP_008437413.1  YP_008437413.1 psal_cds_519|hypothetical protein|pos:933225-933998(-)
+[2026-03-22 07:13:09]   -> 10 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 07:13:11] [536/902] YP_008437416.1  YP_008437416.1 psal_cds_521|hypothetical protein|pos:936628-938214(+)
+[2026-03-22 07:15:29]   -> 10 hits (0 non-self) in 138.4s | top non-self: no non-self hits
+[2026-03-22 07:15:31] [537/902] YP_008437418.1  YP_008437418.1 psal_cds_522|hypothetical protein|pos:938544-940211(+)
+[2026-03-22 07:17:49]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 07:17:51] [538/902] YP_008437419.2  YP_008437419.2 psal_cds_523|hypothetical protein|pos:941131-942618(+)
+[2026-03-22 07:21:09]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 07:21:11] [539/902] YP_008437420.2  YP_008437420.2 psal_cds_524|hypothetical protein|pos:943357-944106(+)
+[2026-03-22 07:25:29]   -> 5 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 07:25:31] [540/902] YP_008437424.1  YP_008437424.1 psal_cds_526|hypothetical protein|pos:947084-947377(+)
+[2026-03-22 07:29:49]   -> 7 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 07:29:51] [541/902] YP_008437453.1  YP_008437453.1 psal_cds_542|hypothetical protein|pos:970989-972494(+)
+[2026-03-22 07:37:09]   -> 10 hits (0 non-self) in 438.3s | top non-self: no non-self hits
+[2026-03-22 07:37:11] [542/902] YP_008437455.2  YP_008437455.2 psal_cds_543|hypothetical protein|pos:973213-974082(-)
+[2026-03-22 07:41:29]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 07:41:30] [543/902] YP_008437464.1  YP_008437464.1 psal_cds_549|hypothetical protein|pos:984329-985723(+)
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request VZZWV29X016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 07:53:49]   -> 10 hits (0 non-self) in 738.5s | top non-self: no non-self hits
+[2026-03-22 07:53:50] [544/902] YP_008437466.1  YP_008437466.1 psal_cds_551|hypothetical protein|pos:987306-988328(+)
+[2026-03-22 08:01:09]   -> 10 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 08:01:11] [545/902] YP_008437468.1  YP_008437468.1 psal_cds_553|hypothetical protein|pos:990108-990590(+)
+[2026-03-22 08:05:29]   -> 4 hits (1 non-self) in 258.4s | top non-self: Noumeavirus
+[2026-03-22 08:05:31] [546/902] YP_008437472.1  YP_008437472.1 psal_cds_556|hypothetical protein|pos:994016-994672(-)
+[2026-03-22 08:09:49]   -> 10 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 08:09:51] [547/902] YP_009430033.1  YP_009430033.1 psal_cds_575|hypothetical protein|pos:1022927-1023265(+
+[2026-03-22 08:14:09]   -> 7 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 08:14:11] [548/902] YP_008437500.1  YP_008437500.1 psal_cds_577|hypothetical protein|pos:1024219-1024596(+
+[2026-03-22 08:17:29]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 08:17:31] [549/902] YP_008437502.1  YP_008437502.1 psal_cds_579|hypothetical protein|pos:1026727-1027347(-
+[2026-03-22 08:22:49]   -> 3 hits (0 non-self) in 318.1s | top non-self: no non-self hits
+[2026-03-22 08:22:51] [550/902] YP_009430035.1  YP_009430035.1 psal_cds_580|hypothetical protein|pos:1027773-1028912(-
+[2026-03-22 08:27:09]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 08:27:11] [551/902] YP_008437512.1  YP_008437512.1 psal_cds_584|hypothetical protein|pos:1034087-1034626(+
+[2026-03-22 08:35:29]   -> 10 hits (6 non-self) in 498.6s | top non-self: Mollivirus kamchatka
+[2026-03-22 08:35:31] [552/902] YP_009430037.1  YP_009430037.1 psal_cds_586|hypothetical protein|pos:1036883-1038298(-
+Exception ignored in: <generator object parse at 0x000001959EFB38B0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 322, column 0
+[2026-03-22 08:40:49]   -> 10 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 08:40:51] [553/902] YP_009430039.1  YP_009430039.1 psal_cds_590|hypothetical protein|pos:1042028-1043134(+
+[2026-03-22 08:46:09]   -> 10 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 08:46:11] [554/902] YP_008437536.1  YP_008437536.1 psal_cds_597|hypothetical protein|pos:1054951-1056522(+
+[2026-03-22 08:48:29]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:48:31] [555/902] YP_008437550.2  YP_008437550.2 psal_cds_606|hypothetical protein|pos:1070715-1071059(-
+[2026-03-22 08:49:49]   -> 1 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 08:49:51] [556/902] YP_008437556.1  YP_008437556.1 psal_cds_609|hypothetical protein|pos:1074312-1074956(-
+[2026-03-22 08:52:09]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:52:11] [557/902] YP_008437558.1  YP_008437558.1 psal_cds_610|hypothetical protein|pos:1075241-1075534(+
+[2026-03-22 08:53:29]   -> 4 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 08:53:31] [558/902] YP_008437560.1  YP_008437560.1 psal_cds_611|hypothetical protein|pos:1075994-1076623(+
+[2026-03-22 08:55:49]   -> 8 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:55:51] [559/902] YP_008437561.1  YP_008437561.1 psal_cds_612|hypothetical protein|pos:1076826-1078214(-
+[2026-03-22 08:59:09]   -> 5 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 08:59:11] [560/902] YP_008437565.1  YP_008437565.1 psal_cds_615|hypothetical protein|pos:1081728-1083035(+
+[2026-03-22 09:01:29]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 09:01:31] [561/902] YP_008437568.1  YP_008437568.1 psal_cds_616|hypothetical protein|pos:1083745-1084827(+
+[2026-03-22 09:02:49]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 09:02:51] [562/902] YP_009430043.1  YP_009430043.1 psal_cds_618|hypothetical protein|pos:1087391-1088614(-
+[2026-03-22 09:04:09]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 09:04:11] [563/902] YP_008437574.1  YP_008437574.1 psal_cds_619|hypothetical protein|pos:1088927-1089676(+
+[2026-03-22 09:07:29]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 09:07:31] [564/902] YP_008437579.2  YP_008437579.2 psal_cds_622|hypothetical protein|pos:1094801-1096021(+
+[2026-03-22 09:11:49]   -> 10 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 09:11:51] [565/902] YP_008437580.2  YP_008437580.2 psal_cds_623|hypothetical protein|pos:1096443-1097555(+
+[2026-03-22 09:21:09]   -> 10 hits (0 non-self) in 558.4s | top non-self: no non-self hits
+[2026-03-22 09:21:11] [566/902] YP_008437586.2  YP_008437586.2 psal_cds_627|hypothetical protein|pos:1102171-1103103(+
+Exception ignored in: <generator object parse at 0x000001959EFB2260>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: no element found: line 322, column 0
+[2026-03-22 09:24:29]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 09:24:31] [567/902] YP_008437591.1  YP_008437591.1 psal_cds_630|hypothetical protein|pos:1107984-1108964(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W05XZN2R016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 09:39:49]   -> 10 hits (0 non-self) in 918.3s | top non-self: no non-self hits
+[2026-03-22 09:39:51] [568/902] YP_008437592.2  YP_008437592.2 psal_cds_631|hypothetical protein|pos:1109272-1110093(+
+[2026-03-22 09:46:09]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 09:46:11] [569/902] YP_008437593.1  YP_008437593.1 psal_cds_632|hypothetical protein|pos:1110394-1110846(-
+[2026-03-22 09:48:29]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 09:48:31] [570/902] YP_008437594.1  YP_008437594.1 psal_cds_633|hypothetical protein|pos:1111624-1113069(+
+[2026-03-22 09:51:49]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 09:51:50] [571/902] YP_008437596.1  YP_008437596.1 psal_cds_634|hypothetical protein|pos:1113756-1115000(-
+[2026-03-22 09:55:09]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 09:55:10] [572/902] YP_008437597.2  YP_008437597.2 psal_cds_635|hypothetical protein|pos:1115266-1115742(+
+[2026-03-22 09:58:29]   -> 5 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 09:58:31] [573/902] YP_008437599.1  YP_008437599.1 psal_cds_636|hypothetical protein|pos:1115986-1117926(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W07XRKXU016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 10:20:49]   -> 10 hits (0 non-self) in 1338.6s | top non-self: no non-self hits
+[2026-03-22 10:20:51] [574/902] YP_008437606.1  YP_008437606.1 psal_cds_640|hypothetical protein|pos:1123488-1124960(+
+[2026-03-22 10:27:09]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 10:27:10] [575/902] YP_008437609.1  YP_008437609.1 psal_cds_642|hypothetical protein|pos:1128348-1128782(-
+[2026-03-22 10:30:29]   -> 4 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 10:30:31] [576/902] YP_009430046.1  YP_009430046.1 psal_cds_643|hypothetical protein|pos:1129197-1131155(+
+[2026-03-22 10:34:49]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 10:34:50] [577/902] YP_008437616.1  YP_008437616.1 psal_cds_645|hypothetical protein|pos:1132748-1133488(-
+Exception ignored in: <generator object parse at 0x000001959EFB3CA0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-22 10:39:09]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 10:39:10] [578/902] YP_008437617.1  YP_008437617.1 psal_cds_646|hypothetical protein|pos:1133803-1134882(+
+[2026-03-22 10:42:29]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-22 10:42:31] [579/902] YP_008437619.1  YP_008437619.1 psal_cds_647|hypothetical protein|pos:1135482-1136525(+
+[2026-03-22 10:44:49]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 10:44:51] [580/902] YP_008437622.1  YP_008437622.1 psal_cds_649|hypothetical protein|pos:1139155-1139505(-
+[2026-03-22 10:47:09]   -> 10 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-22 10:47:11] [581/902] YP_008437624.1  YP_008437624.1 psal_cds_650|hypothetical protein|pos:1140022-1140906(+
+[2026-03-22 10:50:29]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 10:50:30] [582/902] YP_008437625.1  YP_008437625.1 psal_cds_651|hypothetical protein|pos:1141217-1142512(-
+[2026-03-22 10:53:49]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 10:53:51] [583/902] YP_008437628.1  YP_008437628.1 psal_cds_652|hypothetical protein|pos:1143199-1144614(-
+[2026-03-22 11:00:09]   -> 7 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 11:00:12] [584/902] YP_008437630.2  YP_008437630.2 psal_cds_653|hypothetical protein|pos:1145165-1146973(-
+[2026-03-22 11:05:29]   -> 10 hits (0 non-self) in 317.2s | top non-self: no non-self hits
+[2026-03-22 11:05:31] [585/902] YP_008437639.1  YP_008437639.1 psal_cds_658|hypothetical protein|pos:1154769-1155230(-
+[2026-03-22 11:09:49]   -> 10 hits (0 non-self) in 258.0s | top non-self: no non-self hits
+[2026-03-22 11:09:51] [586/902] YP_008437649.2  YP_008437649.2 psal_cds_663|hypothetical protein|pos:1160705-1160938(+
+[2026-03-22 11:13:09]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 11:13:10] [587/902] YP_009430048.1  YP_009430048.1 psal_cds_664|hypothetical protein|pos:1161371-1165245(-
+[2026-03-22 11:19:31]   -> 10 hits (0 non-self) in 380.6s | top non-self: no non-self hits
+[2026-03-22 11:19:32] [588/902] YP_008437668.2  YP_008437668.2 psal_cds_671|hypothetical protein|pos:1176688-1178409(+
+Exception ignored in: <generator object parse at 0x000001959EFB2CE0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-22 11:24:49]   -> 10 hits (0 non-self) in 316.6s | top non-self: no non-self hits
+[2026-03-22 11:24:51] [589/902] YP_008437670.1  YP_008437670.1 psal_cds_672|hypothetical protein|pos:1178994-1179635(-
+[2026-03-22 11:30:09]   -> 10 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 11:30:11] [590/902] YP_008437678.1  YP_008437678.1 psal_cds_676|hypothetical protein|pos:1185844-1186434(+
+[2026-03-22 11:33:29]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 11:33:30] [591/902] YP_008437680.2  YP_008437680.2 psal_cds_677|hypothetical protein|pos:1187084-1188838(-
+[2026-03-22 11:39:49]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-22 11:39:51] [592/902] YP_008437684.1  YP_008437684.1 psal_cds_679|hypothetical protein|pos:1192505-1193173(+
+[2026-03-22 11:44:09]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 11:44:10] [593/902] YP_008437688.1  YP_008437688.1 psal_cds_681|hypothetical protein|pos:1195575-1196459(-
+[2026-03-22 11:53:29]   -> 10 hits (0 non-self) in 558.6s | top non-self: no non-self hits
+[2026-03-22 11:53:31] [594/902] YP_008437691.1  YP_008437691.1 psal_cds_682|hypothetical protein|pos:1197317-1199323(-
+[2026-03-22 11:58:49]   -> 10 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 11:58:50] [595/902] YP_009430050.1  YP_009430050.1 psal_cds_683|hypothetical protein|pos:1199882-1202437(+
+[2026-03-22 12:01:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 12:01:10] [596/902] YP_008437696.1  YP_008437696.1 psal_cds_685|hypothetical protein|pos:1204261-1204806(+
+[2026-03-22 12:02:29]   -> 10 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-22 12:02:30] [597/902] YP_008437699.1  YP_008437699.1 psal_cds_687|hypothetical protein|pos:1206014-1207321(+
+[2026-03-22 12:09:49]   -> 10 hits (0 non-self) in 438.7s | top non-self: no non-self hits
+[2026-03-22 12:09:51] [598/902] YP_009430053.1  YP_009430053.1 psal_cds_691|hypothetical protein|pos:1218292-1220880(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0FKZKVX016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+Exception ignored in: <generator object parse at 0x000001959EFB2CE0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 322, column 0
+[2026-03-22 12:30:09]   -> 10 hits (0 non-self) in 1218.4s | top non-self: no non-self hits
+[2026-03-22 12:30:11] [599/902] YP_009430055.1  YP_009430055.1 psal_cds_694|hypothetical protein|pos:1223231-1224547(-
+[2026-03-22 12:32:29]   -> 10 hits (2 non-self) in 138.2s | top non-self: Medusavirus sp. 'euryale'
+[2026-03-22 12:32:31] [600/902] YP_009430056.1  YP_009430056.1 psal_cds_698|hypothetical protein|pos:1231304-1232338(+
+[2026-03-22 12:37:49]   -> 4 hits (0 non-self) in 318.0s | top non-self: no non-self hits
+[2026-03-22 12:37:50] [601/902] YP_008437726.1  YP_008437726.1 psal_cds_699|hypothetical protein|pos:1232861-1233196(+
+[2026-03-22 12:41:09]   -> 3 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 12:41:11] [602/902] YP_008437730.1  YP_008437730.1 psal_cds_701|hypothetical protein|pos:1235063-1236142(-
+[2026-03-22 12:44:29]   -> 10 hits (0 non-self) in 198.0s | top non-self: no non-self hits
+[2026-03-22 12:44:31] [603/902] YP_008437734.1  YP_008437734.1 psal_cds_703|hypothetical protein|pos:1238380-1239177(-
+[2026-03-22 12:51:49]   -> 10 hits (0 non-self) in 438.4s | top non-self: no non-self hits
+[2026-03-22 12:51:51] [604/902] YP_008437736.2  YP_008437736.2 psal_cds_704|hypothetical protein|pos:1239641-1239880(-
+Exception ignored in: <generator object parse at 0x000001959EFB2260>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-22 12:57:09]   -> 1 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 12:57:11] [605/902] YP_009430057.1  YP_009430057.1 psal_cds_709|hypothetical protein|pos:1252048-1252782(+
+[2026-03-22 13:04:29]   -> 1 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 13:04:31] [606/902] YP_009430058.1  YP_009430058.1 psal_cds_710|hypothetical protein|pos:1253057-1253377(-
+[2026-03-22 13:10:49]   -> 1 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 13:10:51] [607/902] YP_008437746.1  YP_008437746.1 psal_cds_711|hypothetical protein|pos:1253575-1254093(-
+[2026-03-22 13:18:09]   -> 1 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 13:18:10] [608/902] YP_008437754.1  YP_008437754.1 psal_cds_715|hypothetical protein|pos:1259298-1259498(-
+[2026-03-22 13:23:29]   -> 1 hits (0 non-self) in 318.6s | top non-self: no non-self hits
+[2026-03-22 13:23:31] [609/902] YP_008437763.1  YP_008437763.1 psal_cds_718|hypothetical protein|pos:1269247-1270158(-
+[2026-03-22 13:26:49]   -> 10 hits (0 non-self) in 198.0s | top non-self: no non-self hits
+[2026-03-22 13:26:51] [610/902] YP_008437775.1  YP_008437775.1 psal_cds_725|hypothetical protein|pos:1283029-1284363(-
+[2026-03-22 13:36:09]   -> 10 hits (0 non-self) in 558.2s | top non-self: no non-self hits
+[2026-03-22 13:36:11] [611/902] YP_009430061.1  YP_009430061.1 psal_cds_730|hypothetical protein|pos:1293151-1294647(+
+[2026-03-22 13:44:29]   -> 10 hits (0 non-self) in 498.2s | top non-self: no non-self hits
+[2026-03-22 13:44:31] [612/902] YP_008437785.2  YP_008437785.2 psal_cds_731|hypothetical protein|pos:1294850-1295251(-
+[2026-03-22 13:52:49]   -> 10 hits (0 non-self) in 498.2s | top non-self: no non-self hits
+[2026-03-22 13:52:50] [613/902] YP_008437793.2  YP_008437793.2 psal_cds_737|hypothetical protein|pos:1304665-1304940(+
+[2026-03-22 13:56:09]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 13:56:11] [614/902] YP_008437794.1  YP_008437794.1 psal_cds_738|hypothetical protein|pos:1304968-1305495(-
+[2026-03-22 14:01:29]   -> 10 hits (0 non-self) in 318.2s | top non-self: no non-self hits
+[2026-03-22 14:01:31] [615/902] YP_008437796.1  YP_008437796.1 psal_cds_740|hypothetical protein|pos:1306903-1308150(-
+[2026-03-22 14:10:49]   -> 10 hits (0 non-self) in 557.8s | top non-self: no non-self hits
+[2026-03-22 14:10:51] [616/902] YP_008437805.1  YP_008437805.1 psal_cds_747|hypothetical protein|pos:1321715-1322323(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0PPV296014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 14:52:09]   -> 10 hits (2 non-self) in 2478.4s | top non-self: Acanthamoeba castellanii str. Neff
+[2026-03-22 14:52:11] [617/902] YP_008437807.2  YP_008437807.2 psal_cds_748|hypothetical protein|pos:1322769-1323242(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0T4BX0E014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 15:08:29]   -> 10 hits (0 non-self) in 978.4s | top non-self: no non-self hits
+[2026-03-22 15:08:31] [618/902] YP_008437810.1  YP_008437810.1 psal_cds_751|hypothetical protein|pos:1324886-1325233(-
+[2026-03-22 15:09:50]   -> 10 hits (0 non-self) in 79.0s | top non-self: no non-self hits
+[2026-03-22 15:09:51] [619/902] YP_008437812.1  YP_008437812.1 psal_cds_752|hypothetical protein|pos:1326287-1326613(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0U5GKP4014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+Exception ignored in: <generator object parse at 0x000001959EFB2E30>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-22 15:42:09]   -> 10 hits (1 non-self) in 1937.9s | top non-self: Marseillevirus sp. 'xiwanvirus'
+[2026-03-22 15:42:11] [620/902] YP_008437823.1  YP_008437823.1 psal_cds_758|hypothetical protein|pos:1338253-1338966(+
+[2026-03-22 15:50:29]   -> 10 hits (0 non-self) in 497.9s | top non-self: no non-self hits
+[2026-03-22 15:50:31] [621/902] YP_008437824.1  YP_008437824.1 psal_cds_759|hypothetical protein|pos:1339012-1339293(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0WHRBRU014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 16:00:49]   -> 3 hits (0 non-self) in 618.3s | top non-self: no non-self hits
+[2026-03-22 16:00:51] [622/902] YP_008437825.1  YP_008437825.1 psal_cds_760|hypothetical protein|pos:1339336-1339548(+
+[2026-03-22 16:09:09]   -> 6 hits (0 non-self) in 498.3s | top non-self: no non-self hits
+[2026-03-22 16:09:11] [623/902] YP_008437827.2  YP_008437827.2 psal_cds_761|hypothetical protein|pos:1339816-1340304(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0XMRKWV014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 16:24:29]   -> 8 hits (0 non-self) in 918.1s | top non-self: no non-self hits
+[2026-03-22 16:24:31] [624/902] YP_008437830.1  YP_008437830.1 psal_cds_762|hypothetical protein|pos:1341101-1341553(-
+[2026-03-22 16:28:49]   -> 9 hits (0 non-self) in 257.6s | top non-self: no non-self hits
+[2026-03-22 16:28:51] [625/902] YP_008437832.1  YP_008437832.1 psal_cds_763|hypothetical protein|pos:1342207-1342617(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W0YTKRUV014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 17:11:09]   -> 4 hits (0 non-self) in 2538.1s | top non-self: no non-self hits
+[2026-03-22 17:11:10] [626/902] YP_008437841.1  YP_008437841.1 psal_cds_769|hypothetical protein|pos:1349578-1350222(-
+[2026-03-22 17:13:29]   -> 1 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 17:13:30] [627/902] YP_008437843.1  YP_008437843.1 psal_cds_771|hypothetical protein|pos:1352836-1353777(+
+[2026-03-22 17:19:49]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-22 17:19:51] [628/902] YP_008437845.1  YP_008437845.1 psal_cds_772|hypothetical protein|pos:1354322-1355269(+
+[2026-03-22 17:25:09]   -> 8 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 17:25:11] [629/902] YP_008437851.1  YP_008437851.1 psal_cds_776|hypothetical protein|pos:1362514-1363584(+
+[2026-03-22 17:29:29]   -> 3 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 17:29:31] [630/902] YP_009430067.1  YP_009430067.1 psal_cds_777|hypothetical protein|pos:1363719-1364126(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W12BBER6016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 17:46:49]   -> 10 hits (0 non-self) in 1038.9s | top non-self: no non-self hits
+[2026-03-22 17:46:51] [631/902] YP_009430068.1  YP_009430068.1 psal_cds_778|hypothetical protein|pos:1364424-1365542(+
+[2026-03-22 17:50:09]   -> 9 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 17:50:10] [632/902] YP_008437857.2  YP_008437857.2 psal_cds_781|hypothetical protein|pos:1368160-1370055(+
+[2026-03-22 17:56:30]   -> 10 hits (0 non-self) in 379.5s | top non-self: no non-self hits
+[2026-03-22 17:56:32] [633/902] YP_008437873.1  YP_008437873.1 psal_cds_788|hypothetical protein|pos:1381967-1383349(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W13Y0NNV014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 18:11:49]   -> 10 hits (0 non-self) in 917.7s | top non-self: no non-self hits
+[2026-03-22 18:11:51] [634/902] YP_008437875.1  YP_008437875.1 psal_cds_789|hypothetical protein|pos:1383677-1383961(-
+[2026-03-22 18:16:09]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 18:16:11] [635/902] YP_008437877.1  YP_008437877.1 psal_cds_790|hypothetical protein|pos:1384312-1384908(+
+[2026-03-22 18:19:29]   -> 10 hits (2 non-self) in 198.1s | top non-self: Balamuthia mandrillaris
+[2026-03-22 18:19:30] [636/902] YP_009430071.1  YP_009430071.1 psal_cds_792|hypothetical protein|pos:1387985-1388602(+
+[2026-03-22 18:22:49]   -> 8 hits (4 non-self) in 198.8s | top non-self: Mollivirus kamchatka
+[2026-03-22 18:22:51] [637/902] YP_008437885.1  YP_008437885.1 psal_cds_794|hypothetical protein|pos:1390562-1390894(+
+[2026-03-22 18:26:09]   -> 5 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 18:26:11] [638/902] YP_008437890.2  YP_008437890.2 psal_cds_796|hypothetical protein|pos:1394962-1396200(-
+[2026-03-22 18:33:30]   -> 10 hits (0 non-self) in 439.3s | top non-self: no non-self hits
+[2026-03-22 18:33:32] [639/902] YP_009430072.1  YP_009430072.1 psal_cds_799|hypothetical protein|pos:1399702-1400127(-
+[2026-03-22 18:38:49]   -> 10 hits (0 non-self) in 317.0s | top non-self: no non-self hits
+[2026-03-22 18:38:51] [640/902] YP_008437899.1  YP_008437899.1 psal_cds_802|hypothetical protein|pos:1403278-1404150(+
+[2026-03-22 18:42:10]   -> 7 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-22 18:42:11] [641/902] YP_008437900.1  YP_008437900.1 psal_cds_803|hypothetical protein|pos:1404288-1404650(-
+[2026-03-22 18:49:29]   -> 5 hits (0 non-self) in 437.6s | top non-self: no non-self hits
+[2026-03-22 18:49:31] [642/902] YP_009430073.1  YP_009430073.1 psal_cds_806|hypothetical protein|pos:1408607-1409749(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W171BB34014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 19:02:49]   -> 6 hits (0 non-self) in 798.5s | top non-self: no non-self hits
+[2026-03-22 19:02:50] [643/902] YP_008437913.1  YP_008437913.1 psal_cds_810|hypothetical protein|pos:1415804-1416688(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W17UB00T014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 19:20:09]   -> 6 hits (0 non-self) in 1038.5s | top non-self: no non-self hits
+[2026-03-22 19:20:11] [644/902] YP_008437914.2  YP_008437914.2 psal_cds_811|hypothetical protein|pos:1417035-1417295(+
+[2026-03-22 19:22:29]   -> 1 hits (0 non-self) in 138.4s | top non-self: no non-self hits
+[2026-03-22 19:22:31] [645/902] YP_008437916.1  YP_008437916.1 psal_cds_813|hypothetical protein|pos:1419235-1419645(-
+[2026-03-22 19:23:49]   -> 3 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 19:23:51] [646/902] YP_008437917.1  YP_008437917.1 psal_cds_814|hypothetical protein|pos:1419976-1420653(+
+[2026-03-22 19:25:09]   -> 5 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 19:25:10] [647/902] YP_008437921.1  YP_008437921.1 psal_cds_816|hypothetical protein|pos:1422055-1422966(+
+[2026-03-22 19:27:29]   -> 5 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 19:27:31] [648/902] YP_008437927.1  YP_008437927.1 psal_cds_820|hypothetical protein|pos:1428358-1430343(-
+[2026-03-22 19:28:49]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 19:28:50] [649/902] YP_008437933.1  YP_008437933.1 psal_cds_824|hypothetical protein|pos:1437201-1439183(-
+[2026-03-22 19:31:09]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 19:31:10] [650/902] YP_008437935.1  YP_008437935.1 psal_cds_825|hypothetical protein|pos:1439751-1442111(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W19FFVFK014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 20:12:33]   -> 10 hits (0 non-self) in 2482.6s | top non-self: no non-self hits
+[2026-03-22 20:12:34] [651/902] YP_009430075.1  YP_009430075.1 psal_cds_832|hypothetical protein|pos:1454714-1457371(+
+[2026-03-22 20:14:49]   -> 8 hits (0 non-self) in 135.0s | top non-self: no non-self hits
+[2026-03-22 20:14:51] [652/902] YP_008437959.2  YP_008437959.2 psal_cds_840|hypothetical protein|pos:1469140-1470162(-
+[2026-03-22 20:16:09]   -> 10 hits (0 non-self) in 78.2s | top non-self: no non-self hits
+[2026-03-22 20:16:11] [653/902] YP_008437960.1  YP_008437960.1 psal_cds_841|hypothetical protein|pos:1470789-1471667(-
+[2026-03-22 20:18:29]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 20:18:30] [654/902] YP_008437973.1  YP_008437973.1 psal_cds_847|hypothetical protein|pos:1481073-1481318(+
+[2026-03-22 20:19:49]   -> 1 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 20:19:51] [655/902] YP_009430077.1  YP_009430077.1 psal_cds_848|hypothetical protein|pos:1481576-1483414(+
+[2026-03-22 20:24:11]   -> 10 hits (0 non-self) in 260.6s | top non-self: no non-self hits
+[2026-03-22 20:24:13] [656/902] YP_009430078.1  YP_009430078.1 psal_cds_849|hypothetical protein|pos:1483982-1484365(+
+[2026-03-22 20:28:29]   -> 4 hits (0 non-self) in 256.6s | top non-self: no non-self hits
+[2026-03-22 20:28:31] [657/902] YP_008437978.2  YP_008437978.2 psal_cds_850|hypothetical protein|pos:1484503-1484905(-
+[2026-03-22 20:31:49]   -> 1 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 20:31:51] [658/902] YP_008437983.2  YP_008437983.2 psal_cds_852|hypothetical protein|pos:1486715-1488418(-
+[2026-03-22 20:35:09]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 20:35:10] [659/902] YP_008437984.1  YP_008437984.1 psal_cds_853|hypothetical protein|pos:1488921-1489625(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1D7F1BY016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 20:47:29]   -> 10 hits (0 non-self) in 738.7s | top non-self: no non-self hits
+[2026-03-22 20:47:31] [660/902] YP_009430079.1  YP_009430079.1 psal_cds_854|hypothetical protein|pos:1490450-1492347(+
+[2026-03-22 20:50:49]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:50:50] [661/902] YP_009430080.1  YP_009430080.1 psal_cds_855|hypothetical protein|pos:1493039-1495074(+
+[2026-03-22 20:54:09]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:54:10] [662/902] YP_008437991.2  YP_008437991.2 psal_cds_856|hypothetical protein|pos:1495893-1496654(+
+[2026-03-22 20:56:29]   -> 10 hits (3 non-self) in 138.5s | top non-self: Mollivirus sibericum
+[2026-03-22 20:56:30] [663/902] YP_008437992.2  YP_008437992.2 psal_cds_857|hypothetical protein|pos:1497580-1498584(-
+[2026-03-22 21:01:49]   -> 10 hits (0 non-self) in 318.9s | top non-self: no non-self hits
+[2026-03-22 21:01:51] [664/902] YP_009430081.1  YP_009430081.1 psal_cds_859|hypothetical protein|pos:1499887-1500294(+
+[2026-03-22 21:04:09]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 21:04:10] [665/902] YP_009430082.1  YP_009430082.1 psal_cds_860|hypothetical protein|pos:1500631-1501179(+
+[2026-03-22 21:07:29]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 21:07:30] [666/902] YP_009430083.1  YP_009430083.1 psal_cds_861|hypothetical protein|pos:1501295-1501486(-
+[2026-03-22 21:09:49]   -> 1 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 21:09:50] [667/902] YP_009430084.1  YP_009430084.1 psal_cds_862|hypothetical protein|pos:1502170-1502790(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1F8FRUK016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 22:09:09]   -> 10 hits (0 non-self) in 3558.6s | top non-self: no non-self hits
+[2026-03-22 22:09:10] [668/902] YP_008438000.1  YP_008438000.1 psal_cds_863|hypothetical protein|pos:1503106-1505364(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1JRRPEE016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 22:20:29]   -> 10 hits (0 non-self) in 678.6s | top non-self: no non-self hits
+[2026-03-22 22:20:30] [669/902] YP_008438006.1  YP_008438006.1 psal_cds_867|hypothetical protein|pos:1512091-1512474(-
+[2026-03-22 22:28:50]   -> 10 hits (0 non-self) in 499.6s | top non-self: no non-self hits
+[2026-03-22 22:28:51] [670/902] YP_009430086.1  YP_009430086.1 psal_cds_871|hypothetical protein|pos:1523074-1523721(+
+in|pos:1503106-1505364(-
+[2026-03-22 19:22:25]   -> 10 hits (0 non-self) in 137.4s | top non-self: no non-self hits
+[2026-03-22 19:22:27] [669/902] YP_008438006.1  YP_008438006.1 psal_cds_867|hypothetical protein|pos:1512091-1512474(-
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W18Z3A0X014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 19:42:45]   -> 10 hits (0 non-self) in 1218.5s | top non-self: no non-self hits
+[2026-03-22 19:42:47] [670/902] YP_009430086.1  YP_009430086.1 psal_cds_871|hypothetical protein|pos:1523074-1523721(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1A575B6016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 19:54:06]   -> 10 hits (0 non-self) in 678.8s | top non-self: no non-self hits
+[2026-03-22 19:54:09] [671/902] YP_008438024.1  YP_008438024.1 psal_cds_876|hypothetical protein|pos:1531453-1532397(-
+[2026-03-22 19:56:25]   -> 10 hits (0 non-self) in 136.9s | top non-self: no non-self hits
+[2026-03-22 19:56:27] [672/902] YP_008438025.1  YP_008438025.1 psal_cds_877|hypothetical protein|pos:1532827-1533543(-
+[2026-03-22 19:59:45]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 19:59:47] [673/902] YP_008438026.2  YP_008438026.2 psal_cds_878|hypothetical protein|pos:1533980-1535788(+
+[2026-03-22 20:04:05]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 20:04:07] [674/902] YP_008438035.1  YP_008438035.1 psal_cds_882|hypothetical protein|pos:1545443-1545790(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1BD75C5016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 20:14:25]   -> 8 hits (0 non-self) in 618.5s | top non-self: no non-self hits
+[2026-03-22 20:14:27] [675/902] YP_008438036.2  YP_008438036.2 psal_cds_883|hypothetical protein|pos:1545977-1548178(-
+[2026-03-22 20:16:46]   -> 10 hits (0 non-self) in 139.0s | top non-self: no non-self hits
+[2026-03-22 20:16:47] [676/902] YP_008438037.1  YP_008438037.1 psal_cds_884|hypothetical protein|pos:1548417-1548788(-
+[2026-03-22 20:19:05]   -> 9 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 20:19:07] [677/902] YP_009430088.1  YP_009430088.1 psal_cds_886|hypothetical protein|pos:1557848-1558459(+
+[2026-03-22 20:20:25]   -> 9 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 20:20:27] [678/902] YP_008438047.2  YP_008438047.2 psal_cds_887|hypothetical protein|pos:1559282-1561147(-
+[2026-03-22 20:23:45]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:23:47] [679/902] YP_008438050.1  YP_008438050.1 psal_cds_889|hypothetical protein|pos:1562828-1563334(+
+[2026-03-22 20:25:05]   -> 4 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-22 20:25:07] [680/902] YP_008438052.1  YP_008438052.1 psal_cds_890|hypothetical protein|pos:1563651-1564547(-
+[2026-03-22 20:27:25]   -> 8 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 20:27:27] [681/902] YP_008438054.1  YP_008438054.1 psal_cds_891|hypothetical protein|pos:1564948-1566231(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1CSZT52014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 20:44:45]   -> 10 hits (0 non-self) in 1038.6s | top non-self: no non-self hits
+[2026-03-22 20:44:47] [682/902] YP_008438055.2  YP_008438055.2 psal_cds_892|hypothetical protein|pos:1566642-1566935(+
+[2026-03-22 20:49:05]   -> 1 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 20:49:07] [683/902] YP_008438057.1  YP_008438057.1 psal_cds_893|hypothetical protein|pos:1567820-1568416(+
+[2026-03-22 20:55:25]   -> 10 hits (0 non-self) in 378.5s | top non-self: no non-self hits
+[2026-03-22 20:55:27] [684/902] YP_009430089.1  YP_009430089.1 psal_cds_894|hypothetical protein|pos:1568651-1570421(+
+[2026-03-22 20:57:45]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 20:57:47] [685/902] YP_008438084.1  YP_008438084.1 psal_cds_904|hypothetical protein|pos:1589314-1590498(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1EHV6SB014 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 21:20:05]   -> 10 hits (0 non-self) in 1338.7s | top non-self: no non-self hits
+[2026-03-22 21:20:07] [686/902] YP_008438086.1  YP_008438086.1 psal_cds_905|hypothetical protein|pos:1591359-1592198(+
+Exception ignored in: <generator object parse at 0x0000027DB72B78B0>
+Traceback (most recent call last):
+  File "C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIXML.py", line 1319, in parse
+    expat_parser.Parse(NULL, True)
+xml.parsers.expat.ExpatError: unclosed token: line 321, column 0
+[2026-03-22 21:23:26]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-22 21:23:27] [687/902] YP_008438090.2  YP_008438090.2 psal_cds_907|hypothetical protein|pos:1595310-1595774(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1G1ZBK2016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 22:02:45]   -> 10 hits (0 non-self) in 2358.3s | top non-self: no non-self hits
+[2026-03-22 22:02:47] [688/902] YP_008438091.2  YP_008438091.2 psal_cds_908|hypothetical protein|pos:1595992-1598229(-
+[2026-03-22 22:09:05]   -> 10 hits (0 non-self) in 378.6s | top non-self: no non-self hits
+[2026-03-22 22:09:07] [689/902] YP_008438108.1  YP_008438108.1 psal_cds_916|hypothetical protein|pos:1614195-1614965(+
+C:\Users\Eddie\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\Bio\Blast\NCBIWWW.py:275: BiopythonWarning: BLAST request W1JRK4WF016 is taking longer than 10 minutes, consider re-issuing it
+  warnings.warn(
+[2026-03-22 22:21:29]   -> 9 hits (0 non-self) in 742.0s | top non-self: no non-self hits
+[2026-03-22 22:21:30] [690/902] YP_008438116.1  YP_008438116.1 psal_cds_919|hypothetical protein|pos:1619161-1620012(+
+[2026-03-22 22:28:45]   -> 10 hits (0 non-self) in 435.2s | top non-self: no non-self hits
+[2026-03-22 22:28:47] [691/902] YP_008438131.1  YP_008438131.1 psal_cds_927|hypothetical protein|pos:1633367-1635052(-
+[2026-03-22 22:32:05]   ERROR: <urlopen error [Errno 11001] getaddrinfo failed>
+547/902] YP_009430033.1  YP_009430033.1 psal_cds_575|hypothetical protein|pos:1022927-1023265(+
+[2026-03-22 07:29:49]   -> 7 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 07:29:51] [541/902] YP_008437453.1  YP_008437453.1 psal_cds_542|hypothetical protein|pos:970989-972494(+)
+[2026-03-22 07:30:05]   -> 7 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 07:30:07] [548/902] YP_008437500.1  YP_008437500.1 psal_cds_577|hypothetical protein|pos:1024219-1024596(+
+[2026-03-22 07:36:25]   -> 1 hits (0 non-self) in 378.2s | top non-self: no non-self hits
+[2026-03-22 07:36:27] [549/902] YP_008437502.1  YP_008437502.1 psal_cds_579|hypothetical protein|pos:1026727-1027347(-
+[2026-03-22 07:37:09]   -> 10 hits (0 non-self) in 438.3s | top non-self: no non-self hits
+[2026-03-22 07:37:11] [542/902] YP_008437455.2  YP_008437455.2 psal_cds_543|hypothetical protein|pos:973213-974082(-)
+[2026-03-22 07:40:45]   -> 3 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 07:40:47] [550/902] YP_009430035.1  YP_009430035.1 psal_cds_580|hypothetical protein|pos:1027773-1028912(-
+[2026-03-22 07:41:29]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 07:41:30] [543/902] YP_008437464.1  YP_008437464.1 psal_cds_549|hypothetical protein|pos:984329-985723(+)
+[2026-03-22 07:53:06]   -> 10 hits (0 non-self) in 738.4s | top non-self: no non-self hits
+[2026-03-22 07:53:07] [551/902] YP_008437512.1  YP_008437512.1 psal_cds_584|hypothetical protein|pos:1034087-1034626(+
+[2026-03-22 07:53:49]   -> 10 hits (0 non-self) in 738.5s | top non-self: no non-self hits
+[2026-03-22 07:53:50] [544/902] YP_008437466.1  YP_008437466.1 psal_cds_551|hypothetical protein|pos:987306-988328(+)
+[2026-03-22 07:59:26]   -> 10 hits (6 non-self) in 378.2s | top non-self: Mollivirus kamchatka
+[2026-03-22 07:59:28] [552/902] YP_009430037.1  YP_009430037.1 psal_cds_586|hypothetical protein|pos:1036883-1038298(-
+[2026-03-22 08:01:09]   -> 10 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 08:01:11] [545/902] YP_008437468.1  YP_008437468.1 psal_cds_553|hypothetical protein|pos:990108-990590(+)
+[2026-03-22 08:05:29]   -> 4 hits (1 non-self) in 258.4s | top non-self: Noumeavirus
+[2026-03-22 08:05:31] [546/902] YP_008437472.1  YP_008437472.1 psal_cds_556|hypothetical protein|pos:994016-994672(-)
+[2026-03-22 08:05:46]   -> 10 hits (0 non-self) in 378.0s | top non-self: no non-self hits
+[2026-03-22 08:05:47] [553/902] YP_009430039.1  YP_009430039.1 psal_cds_590|hypothetical protein|pos:1042028-1043134(+
+[2026-03-22 08:09:49]   -> 10 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 08:09:51] [547/902] YP_009430033.1  YP_009430033.1 psal_cds_575|hypothetical protein|pos:1022927-1023265(+
+[2026-03-22 08:10:05]   -> 10 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 08:10:07] [554/902] YP_008437536.1  YP_008437536.1 psal_cds_597|hypothetical protein|pos:1054951-1056522(+
+[2026-03-22 08:14:09]   -> 7 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 08:14:11] [548/902] YP_008437500.1  YP_008437500.1 psal_cds_577|hypothetical protein|pos:1024219-1024596(+
+[2026-03-22 08:14:25]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 08:14:27] [555/902] YP_008437550.2  YP_008437550.2 psal_cds_606|hypothetical protein|pos:1070715-1071059(-
+[2026-03-22 08:17:29]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 08:17:31] [549/902] YP_008437502.1  YP_008437502.1 psal_cds_579|hypothetical protein|pos:1026727-1027347(-
+[2026-03-22 08:18:45]   -> 1 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 08:18:47] [556/902] YP_008437556.1  YP_008437556.1 psal_cds_609|hypothetical protein|pos:1074312-1074956(-
+[2026-03-22 08:22:49]   -> 3 hits (0 non-self) in 318.1s | top non-self: no non-self hits
+[2026-03-22 08:22:51] [550/902] YP_009430035.1  YP_009430035.1 psal_cds_580|hypothetical protein|pos:1027773-1028912(-
+[2026-03-22 08:23:05]   -> 10 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 08:23:07] [557/902] YP_008437558.1  YP_008437558.1 psal_cds_610|hypothetical protein|pos:1075241-1075534(+
+[2026-03-22 08:27:09]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 08:27:11] [551/902] YP_008437512.1  YP_008437512.1 psal_cds_584|hypothetical protein|pos:1034087-1034626(+
+[2026-03-22 08:27:25]   -> 4 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 08:27:27] [558/902] YP_008437560.1  YP_008437560.1 psal_cds_611|hypothetical protein|pos:1075994-1076623(+
+[2026-03-22 08:29:45]   ERROR: Remote end closed connection without response
+[2026-03-22 08:29:47] [559/902] YP_008437561.1  YP_008437561.1 psal_cds_612|hypothetical protein|pos:1076826-1078214(-
+[2026-03-22 08:35:29]   -> 10 hits (6 non-self) in 498.6s | top non-self: Mollivirus kamchatka
+[2026-03-22 08:35:31] [552/902] YP_009430037.1  YP_009430037.1 psal_cds_586|hypothetical protein|pos:1036883-1038298(-
+[2026-03-22 08:37:05]   -> 5 hits (0 non-self) in 438.6s | top non-self: no non-self hits
+[2026-03-22 08:37:07] [560/902] YP_008437565.1  YP_008437565.1 psal_cds_615|hypothetical protein|pos:1081728-1083035(+
+[2026-03-22 08:40:49]   -> 10 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 08:40:51] [553/902] YP_009430039.1  YP_009430039.1 psal_cds_590|hypothetical protein|pos:1042028-1043134(+
+[2026-03-22 08:45:25]   -> 10 hits (0 non-self) in 498.4s | top non-self: no non-self hits
+[2026-03-22 08:45:27] [561/902] YP_008437568.1  YP_008437568.1 psal_cds_616|hypothetical protein|pos:1083745-1084827(+
+[2026-03-22 08:46:09]   -> 10 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 08:46:11] [554/902] YP_008437536.1  YP_008437536.1 psal_cds_597|hypothetical protein|pos:1054951-1056522(+
+[2026-03-22 08:46:45]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 08:46:47] [562/902] YP_009430043.1  YP_009430043.1 psal_cds_618|hypothetical protein|pos:1087391-1088614(-
+[2026-03-22 08:48:29]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:48:31] [555/902] YP_008437550.2  YP_008437550.2 psal_cds_606|hypothetical protein|pos:1070715-1071059(-
+[2026-03-22 08:49:49]   -> 1 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 08:49:51] [556/902] YP_008437556.1  YP_008437556.1 psal_cds_609|hypothetical protein|pos:1074312-1074956(-
+[2026-03-22 08:50:05]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 08:50:07] [563/902] YP_008437574.1  YP_008437574.1 psal_cds_619|hypothetical protein|pos:1088927-1089676(+
+[2026-03-22 08:52:09]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:52:11] [557/902] YP_008437558.1  YP_008437558.1 psal_cds_610|hypothetical protein|pos:1075241-1075534(+
+[2026-03-22 08:53:25]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 08:53:27] [564/902] YP_008437579.2  YP_008437579.2 psal_cds_622|hypothetical protein|pos:1094801-1096021(+
+[2026-03-22 08:53:29]   -> 4 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 08:53:31] [558/902] YP_008437560.1  YP_008437560.1 psal_cds_611|hypothetical protein|pos:1075994-1076623(+
+[2026-03-22 08:55:46]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 08:55:47] [565/902] YP_008437580.2  YP_008437580.2 psal_cds_623|hypothetical protein|pos:1096443-1097555(+
+[2026-03-22 08:55:49]   -> 8 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 08:55:51] [559/902] YP_008437561.1  YP_008437561.1 psal_cds_612|hypothetical protein|pos:1076826-1078214(-
+[2026-03-22 08:58:05]   -> 10 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 08:58:07] [566/902] YP_008437586.2  YP_008437586.2 psal_cds_627|hypothetical protein|pos:1102171-1103103(+
+[2026-03-22 08:59:09]   -> 5 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 08:59:11] [560/902] YP_008437565.1  YP_008437565.1 psal_cds_615|hypothetical protein|pos:1081728-1083035(+
+[2026-03-22 09:00:25]   -> 10 hits (0 non-self) in 138.1s | top non-self: no non-self hits
+[2026-03-22 09:00:27] [567/902] YP_008437591.1  YP_008437591.1 psal_cds_630|hypothetical protein|pos:1107984-1108964(-
+[2026-03-22 09:01:29]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 09:01:31] [561/902] YP_008437568.1  YP_008437568.1 psal_cds_616|hypothetical protein|pos:1083745-1084827(+
+[2026-03-22 09:02:45]   -> 10 hits (0 non-self) in 138.1s | top non-self: no non-self hits
+[2026-03-22 09:02:47] [568/902] YP_008437592.2  YP_008437592.2 psal_cds_631|hypothetical protein|pos:1109272-1110093(+
+[2026-03-22 09:02:49]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 09:02:51] [562/902] YP_009430043.1  YP_009430043.1 psal_cds_618|hypothetical protein|pos:1087391-1088614(-
+[2026-03-22 09:04:09]   -> 10 hits (0 non-self) in 78.1s | top non-self: no non-self hits
+[2026-03-22 09:04:11] [563/902] YP_008437574.1  YP_008437574.1 psal_cds_619|hypothetical protein|pos:1088927-1089676(+
+[2026-03-22 09:05:06]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 09:05:08] [569/902] YP_008437593.1  YP_008437593.1 psal_cds_632|hypothetical protein|pos:1110394-1110846(-
+[2026-03-22 09:07:25]   -> 10 hits (0 non-self) in 137.9s | top non-self: no non-self hits
+[2026-03-22 09:07:27] [570/902] YP_008437594.1  YP_008437594.1 psal_cds_633|hypothetical protein|pos:1111624-1113069(+
+[2026-03-22 09:07:29]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 09:07:31] [564/902] YP_008437579.2  YP_008437579.2 psal_cds_622|hypothetical protein|pos:1094801-1096021(+
+[2026-03-22 09:11:45]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 09:11:47] [571/902] YP_008437596.1  YP_008437596.1 psal_cds_634|hypothetical protein|pos:1113756-1115000(-
+[2026-03-22 09:11:49]   -> 10 hits (0 non-self) in 258.2s | top non-self: no non-self hits
+[2026-03-22 09:11:51] [565/902] YP_008437580.2  YP_008437580.2 psal_cds_623|hypothetical protein|pos:1096443-1097555(+
+[2026-03-22 09:15:05]   -> 10 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 09:15:07] [572/902] YP_008437597.2  YP_008437597.2 psal_cds_635|hypothetical protein|pos:1115266-1115742(+
+[2026-03-22 09:20:25]   -> 5 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 09:20:27] [573/902] YP_008437599.1  YP_008437599.1 psal_cds_636|hypothetical protein|pos:1115986-1117926(+
+[2026-03-22 09:21:09]   -> 10 hits (0 non-self) in 558.4s | top non-self: no non-self hits
+[2026-03-22 09:21:11] [566/902] YP_008437586.2  YP_008437586.2 psal_cds_627|hypothetical protein|pos:1102171-1103103(+
+[2026-03-22 09:24:29]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 09:24:31] [567/902] YP_008437591.1  YP_008437591.1 psal_cds_630|hypothetical protein|pos:1107984-1108964(-
+[2026-03-22 09:24:45]   -> 10 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 09:24:47] [574/902] YP_008437606.1  YP_008437606.1 psal_cds_640|hypothetical protein|pos:1123488-1124960(+
+[2026-03-22 09:39:49]   -> 10 hits (0 non-self) in 918.3s | top non-self: no non-self hits
+[2026-03-22 09:39:51] [568/902] YP_008437592.2  YP_008437592.2 psal_cds_631|hypothetical protein|pos:1109272-1110093(+
+[2026-03-22 09:41:05]   -> 10 hits (0 non-self) in 978.2s | top non-self: no non-self hits
+[2026-03-22 09:41:07] [575/902] YP_008437609.1  YP_008437609.1 psal_cds_642|hypothetical protein|pos:1128348-1128782(-
+[2026-03-22 09:45:25]   -> 4 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 09:45:27] [576/902] YP_009430046.1  YP_009430046.1 psal_cds_643|hypothetical protein|pos:1129197-1131155(+
+[2026-03-22 09:46:09]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 09:46:11] [569/902] YP_008437593.1  YP_008437593.1 psal_cds_632|hypothetical protein|pos:1110394-1110846(-
+[2026-03-22 09:48:29]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 09:48:31] [570/902] YP_008437594.1  YP_008437594.1 psal_cds_633|hypothetical protein|pos:1111624-1113069(+
+[2026-03-22 09:48:46]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 09:48:47] [577/902] YP_008437616.1  YP_008437616.1 psal_cds_645|hypothetical protein|pos:1132748-1133488(-
+[2026-03-22 09:51:49]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 09:51:50] [571/902] YP_008437596.1  YP_008437596.1 psal_cds_634|hypothetical protein|pos:1113756-1115000(-
+[2026-03-22 09:52:06]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 09:52:07] [578/902] YP_008437617.1  YP_008437617.1 psal_cds_646|hypothetical protein|pos:1133803-1134882(+
+[2026-03-22 09:55:09]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 09:55:10] [572/902] YP_008437597.2  YP_008437597.2 psal_cds_635|hypothetical protein|pos:1115266-1115742(+
+[2026-03-22 09:55:25]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 09:55:27] [579/902] YP_008437619.1  YP_008437619.1 psal_cds_647|hypothetical protein|pos:1135482-1136525(+
+[2026-03-22 09:58:29]   -> 5 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 09:58:31] [573/902] YP_008437599.1  YP_008437599.1 psal_cds_636|hypothetical protein|pos:1115986-1117926(+
+[2026-03-22 09:58:45]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 09:58:47] [580/902] YP_008437622.1  YP_008437622.1 psal_cds_649|hypothetical protein|pos:1139155-1139505(-
+[2026-03-22 10:20:49]   -> 10 hits (0 non-self) in 1338.6s | top non-self: no non-self hits
+[2026-03-22 10:20:51] [574/902] YP_008437606.1  YP_008437606.1 psal_cds_640|hypothetical protein|pos:1123488-1124960(+
+[2026-03-22 10:21:05]   -> 10 hits (0 non-self) in 1338.6s | top non-self: no non-self hits
+[2026-03-22 10:21:07] [581/902] YP_008437624.1  YP_008437624.1 psal_cds_650|hypothetical protein|pos:1140022-1140906(+
+[2026-03-22 10:27:09]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 10:27:10] [575/902] YP_008437609.1  YP_008437609.1 psal_cds_642|hypothetical protein|pos:1128348-1128782(-
+[2026-03-22 10:27:25]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 10:27:27] [582/902] YP_008437625.1  YP_008437625.1 psal_cds_651|hypothetical protein|pos:1141217-1142512(-
+[2026-03-22 10:30:29]   -> 4 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 10:30:31] [576/902] YP_009430046.1  YP_009430046.1 psal_cds_643|hypothetical protein|pos:1129197-1131155(+
+[2026-03-22 10:30:45]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 10:30:47] [583/902] YP_008437628.1  YP_008437628.1 psal_cds_652|hypothetical protein|pos:1143199-1144614(-
+[2026-03-22 10:32:05]   -> 7 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 10:32:07] [584/902] YP_008437630.2  YP_008437630.2 psal_cds_653|hypothetical protein|pos:1145165-1146973(-
+[2026-03-22 10:33:25]   -> 10 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-22 10:33:28] [585/902] YP_008437639.1  YP_008437639.1 psal_cds_658|hypothetical protein|pos:1154769-1155230(-
+[2026-03-22 10:34:49]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 10:34:50] [577/902] YP_008437616.1  YP_008437616.1 psal_cds_645|hypothetical protein|pos:1132748-1133488(-
+[2026-03-22 10:36:45]   -> 10 hits (0 non-self) in 197.9s | top non-self: no non-self hits
+[2026-03-22 10:36:47] [586/902] YP_008437649.2  YP_008437649.2 psal_cds_663|hypothetical protein|pos:1160705-1160938(+
+[2026-03-22 10:39:05]   -> 1 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 10:39:07] [587/902] YP_009430048.1  YP_009430048.1 psal_cds_664|hypothetical protein|pos:1161371-1165245(-
+[2026-03-22 10:39:09]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 10:39:10] [578/902] YP_008437617.1  YP_008437617.1 psal_cds_646|hypothetical protein|pos:1133803-1134882(+
+[2026-03-22 10:41:25]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 10:41:27] [588/902] YP_008437668.2  YP_008437668.2 psal_cds_671|hypothetical protein|pos:1176688-1178409(+
+[2026-03-22 10:42:29]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-22 10:42:31] [579/902] YP_008437619.1  YP_008437619.1 psal_cds_647|hypothetical protein|pos:1135482-1136525(+
+[2026-03-22 10:44:45]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 10:44:47] [589/902] YP_008437670.1  YP_008437670.1 psal_cds_672|hypothetical protein|pos:1178994-1179635(-
+[2026-03-22 10:44:49]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 10:44:51] [580/902] YP_008437622.1  YP_008437622.1 psal_cds_649|hypothetical protein|pos:1139155-1139505(-
+[2026-03-22 10:47:05]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 10:47:07] [590/902] YP_008437678.1  YP_008437678.1 psal_cds_676|hypothetical protein|pos:1185844-1186434(+
+[2026-03-22 10:47:09]   -> 10 hits (0 non-self) in 138.9s | top non-self: no non-self hits
+[2026-03-22 10:47:11] [581/902] YP_008437624.1  YP_008437624.1 psal_cds_650|hypothetical protein|pos:1140022-1140906(+
+[2026-03-22 10:50:25]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 10:50:27] [591/902] YP_008437680.2  YP_008437680.2 psal_cds_677|hypothetical protein|pos:1187084-1188838(-
+[2026-03-22 10:50:29]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 10:50:30] [582/902] YP_008437625.1  YP_008437625.1 psal_cds_651|hypothetical protein|pos:1141217-1142512(-
+[2026-03-22 10:53:49]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 10:53:51] [583/902] YP_008437628.1  YP_008437628.1 psal_cds_652|hypothetical protein|pos:1143199-1144614(-
+[2026-03-22 10:54:46]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-22 10:54:48] [592/902] YP_008437684.1  YP_008437684.1 psal_cds_679|hypothetical protein|pos:1192505-1193173(+
+[2026-03-22 11:00:09]   -> 7 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 11:00:12] [584/902] YP_008437630.2  YP_008437630.2 psal_cds_653|hypothetical protein|pos:1145165-1146973(-
+[2026-03-22 11:02:05]   -> 10 hits (0 non-self) in 437.5s | top non-self: no non-self hits
+[2026-03-22 11:02:07] [593/902] YP_008437688.1  YP_008437688.1 psal_cds_681|hypothetical protein|pos:1195575-1196459(-
+[2026-03-22 11:05:29]   -> 10 hits (0 non-self) in 317.2s | top non-self: no non-self hits
+[2026-03-22 11:05:31] [585/902] YP_008437639.1  YP_008437639.1 psal_cds_658|hypothetical protein|pos:1154769-1155230(-
+[2026-03-22 11:07:26]   -> 10 hits (0 non-self) in 318.6s | top non-self: no non-self hits
+[2026-03-22 11:07:27] [594/902] YP_008437691.1  YP_008437691.1 psal_cds_682|hypothetical protein|pos:1197317-1199323(-
+[2026-03-22 11:09:49]   -> 10 hits (0 non-self) in 258.0s | top non-self: no non-self hits
+[2026-03-22 11:09:51] [586/902] YP_008437649.2  YP_008437649.2 psal_cds_663|hypothetical protein|pos:1160705-1160938(+
+[2026-03-22 11:10:45]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 11:10:47] [595/902] YP_009430050.1  YP_009430050.1 psal_cds_683|hypothetical protein|pos:1199882-1202437(+
+[2026-03-22 11:13:09]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 11:13:10] [587/902] YP_009430048.1  YP_009430048.1 psal_cds_664|hypothetical protein|pos:1161371-1165245(-
+[2026-03-22 11:14:05]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 11:14:07] [596/902] YP_008437696.1  YP_008437696.1 psal_cds_685|hypothetical protein|pos:1204261-1204806(+
+[2026-03-22 11:19:25]   -> 10 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 11:19:27] [597/902] YP_008437699.1  YP_008437699.1 psal_cds_687|hypothetical protein|pos:1206014-1207321(+
+[2026-03-22 11:19:31]   -> 10 hits (0 non-self) in 380.6s | top non-self: no non-self hits
+[2026-03-22 11:19:32] [588/902] YP_008437668.2  YP_008437668.2 psal_cds_671|hypothetical protein|pos:1176688-1178409(+
+[2026-03-22 11:23:46]   -> 10 hits (0 non-self) in 258.8s | top non-self: no non-self hits
+[2026-03-22 11:23:47] [598/902] YP_009430053.1  YP_009430053.1 psal_cds_691|hypothetical protein|pos:1218292-1220880(+
+[2026-03-22 11:24:49]   -> 10 hits (0 non-self) in 316.6s | top non-self: no non-self hits
+[2026-03-22 11:24:51] [589/902] YP_008437670.1  YP_008437670.1 psal_cds_672|hypothetical protein|pos:1178994-1179635(-
+[2026-03-22 11:30:05]   -> 10 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 11:30:07] [599/902] YP_009430055.1  YP_009430055.1 psal_cds_694|hypothetical protein|pos:1223231-1224547(-
+[2026-03-22 11:30:09]   -> 10 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 11:30:11] [590/902] YP_008437678.1  YP_008437678.1 psal_cds_676|hypothetical protein|pos:1185844-1186434(+
+[2026-03-22 11:33:25]   -> 10 hits (2 non-self) in 198.4s | top non-self: Medusavirus sp. 'euryale'
+[2026-03-22 11:33:27] [600/902] YP_009430056.1  YP_009430056.1 psal_cds_698|hypothetical protein|pos:1231304-1232338(+
+[2026-03-22 11:33:29]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 11:33:30] [591/902] YP_008437680.2  YP_008437680.2 psal_cds_677|hypothetical protein|pos:1187084-1188838(-
+[2026-03-22 11:38:46]   -> 4 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 11:38:47] [601/902] YP_008437726.1  YP_008437726.1 psal_cds_699|hypothetical protein|pos:1232861-1233196(+
+[2026-03-22 11:39:49]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-22 11:39:51] [592/902] YP_008437684.1  YP_008437684.1 psal_cds_679|hypothetical protein|pos:1192505-1193173(+
+[2026-03-22 11:43:05]   -> 3 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 11:43:07] [602/902] YP_008437730.1  YP_008437730.1 psal_cds_701|hypothetical protein|pos:1235063-1236142(-
+[2026-03-22 11:44:09]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 11:44:10] [593/902] YP_008437688.1  YP_008437688.1 psal_cds_681|hypothetical protein|pos:1195575-1196459(-
+[2026-03-22 11:53:29]   -> 10 hits (0 non-self) in 558.6s | top non-self: no non-self hits
+[2026-03-22 11:53:31] [594/902] YP_008437691.1  YP_008437691.1 psal_cds_682|hypothetical protein|pos:1197317-1199323(-
+[2026-03-22 11:54:25]   -> 10 hits (0 non-self) in 678.6s | top non-self: no non-self hits
+[2026-03-22 11:54:27] [603/902] YP_008437734.1  YP_008437734.1 psal_cds_703|hypothetical protein|pos:1238380-1239177(-
+[2026-03-22 11:55:45]   -> 10 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 11:55:47] [604/902] YP_008437736.2  YP_008437736.2 psal_cds_704|hypothetical protein|pos:1239641-1239880(-
+[2026-03-22 11:58:49]   -> 10 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 11:58:50] [595/902] YP_009430050.1  YP_009430050.1 psal_cds_683|hypothetical protein|pos:1199882-1202437(+
+[2026-03-22 12:00:05]   -> 1 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 12:00:07] [605/902] YP_009430057.1  YP_009430057.1 psal_cds_709|hypothetical protein|pos:1252048-1252782(+
+[2026-03-22 12:01:09]   -> 10 hits (0 non-self) in 138.7s | top non-self: no non-self hits
+[2026-03-22 12:01:10] [596/902] YP_008437696.1  YP_008437696.1 psal_cds_685|hypothetical protein|pos:1204261-1204806(+
+[2026-03-22 12:02:25]   -> 1 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 12:02:27] [606/902] YP_009430058.1  YP_009430058.1 psal_cds_710|hypothetical protein|pos:1253057-1253377(-
+[2026-03-22 12:02:29]   -> 10 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-22 12:02:30] [597/902] YP_008437699.1  YP_008437699.1 psal_cds_687|hypothetical protein|pos:1206014-1207321(+
+[2026-03-22 12:09:49]   -> 10 hits (0 non-self) in 438.7s | top non-self: no non-self hits
+[2026-03-22 12:09:51] [598/902] YP_009430053.1  YP_009430053.1 psal_cds_691|hypothetical protein|pos:1218292-1220880(+
+[2026-03-22 12:10:45]   -> 1 hits (0 non-self) in 498.5s | top non-self: no non-self hits
+[2026-03-22 12:10:47] [607/902] YP_008437746.1  YP_008437746.1 psal_cds_711|hypothetical protein|pos:1253575-1254093(-
+[2026-03-22 12:30:05]   -> 1 hits (0 non-self) in 1158.6s | top non-self: no non-self hits
+[2026-03-22 12:30:08] [608/902] YP_008437754.1  YP_008437754.1 psal_cds_715|hypothetical protein|pos:1259298-1259498(-
+[2026-03-22 12:30:09]   -> 10 hits (0 non-self) in 1218.4s | top non-self: no non-self hits
+[2026-03-22 12:30:11] [599/902] YP_009430055.1  YP_009430055.1 psal_cds_694|hypothetical protein|pos:1223231-1224547(-
+[2026-03-22 12:32:26]   -> 1 hits (0 non-self) in 137.8s | top non-self: no non-self hits
+[2026-03-22 12:32:27] [609/902] YP_008437763.1  YP_008437763.1 psal_cds_718|hypothetical protein|pos:1269247-1270158(-
+[2026-03-22 12:32:29]   -> 10 hits (2 non-self) in 138.2s | top non-self: Medusavirus sp. 'euryale'
+[2026-03-22 12:32:31] [600/902] YP_009430056.1  YP_009430056.1 psal_cds_698|hypothetical protein|pos:1231304-1232338(+
+[2026-03-22 12:37:45]   -> 10 hits (0 non-self) in 318.1s | top non-self: no non-self hits
+[2026-03-22 12:37:48] [610/902] YP_008437775.1  YP_008437775.1 psal_cds_725|hypothetical protein|pos:1283029-1284363(-
+[2026-03-22 12:37:49]   -> 4 hits (0 non-self) in 318.0s | top non-self: no non-self hits
+[2026-03-22 12:37:50] [601/902] YP_008437726.1  YP_008437726.1 psal_cds_699|hypothetical protein|pos:1232861-1233196(+
+[2026-03-22 12:41:05]   -> 10 hits (0 non-self) in 197.9s | top non-self: no non-self hits
+[2026-03-22 12:41:07] [611/902] YP_009430061.1  YP_009430061.1 psal_cds_730|hypothetical protein|pos:1293151-1294647(+
+[2026-03-22 12:41:09]   -> 3 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 12:41:11] [602/902] YP_008437730.1  YP_008437730.1 psal_cds_701|hypothetical protein|pos:1235063-1236142(-
+[2026-03-22 12:44:25]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 12:44:27] [612/902] YP_008437785.2  YP_008437785.2 psal_cds_731|hypothetical protein|pos:1294850-1295251(-
+[2026-03-22 12:44:29]   -> 10 hits (0 non-self) in 198.0s | top non-self: no non-self hits
+[2026-03-22 12:44:31] [603/902] YP_008437734.1  YP_008437734.1 psal_cds_703|hypothetical protein|pos:1238380-1239177(-
+[2026-03-22 12:51:46]   -> 10 hits (0 non-self) in 438.7s | top non-self: no non-self hits
+[2026-03-22 12:51:47] [613/902] YP_008437793.2  YP_008437793.2 psal_cds_737|hypothetical protein|pos:1304665-1304940(+
+[2026-03-22 12:51:49]   -> 10 hits (0 non-self) in 438.4s | top non-self: no non-self hits
+[2026-03-22 12:51:51] [604/902] YP_008437736.2  YP_008437736.2 psal_cds_704|hypothetical protein|pos:1239641-1239880(-
+[2026-03-22 12:55:05]   -> 1 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 12:55:07] [614/902] YP_008437794.1  YP_008437794.1 psal_cds_738|hypothetical protein|pos:1304968-1305495(-
+[2026-03-22 12:57:09]   -> 1 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 12:57:11] [605/902] YP_009430057.1  YP_009430057.1 psal_cds_709|hypothetical protein|pos:1252048-1252782(+
+[2026-03-22 13:04:25]   -> 10 hits (0 non-self) in 558.4s | top non-self: no non-self hits
+[2026-03-22 13:04:27] [615/902] YP_008437796.1  YP_008437796.1 psal_cds_740|hypothetical protein|pos:1306903-1308150(-
+[2026-03-22 13:04:29]   -> 1 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 13:04:31] [606/902] YP_009430058.1  YP_009430058.1 psal_cds_710|hypothetical protein|pos:1253057-1253377(-
+[2026-03-22 13:10:45]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 13:10:47] [616/902] YP_008437805.1  YP_008437805.1 psal_cds_747|hypothetical protein|pos:1321715-1322323(-
+[2026-03-22 13:10:49]   -> 1 hits (0 non-self) in 378.3s | top non-self: no non-self hits
+[2026-03-22 13:10:51] [607/902] YP_008437746.1  YP_008437746.1 psal_cds_711|hypothetical protein|pos:1253575-1254093(-
+[2026-03-22 13:13:05]   -> 10 hits (2 non-self) in 138.5s | top non-self: Acanthamoeba castellanii str. Neff
+[2026-03-22 13:13:08] [617/902] YP_008437807.2  YP_008437807.2 psal_cds_748|hypothetical protein|pos:1322769-1323242(-
+[2026-03-22 13:18:09]   -> 1 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 13:18:10] [608/902] YP_008437754.1  YP_008437754.1 psal_cds_715|hypothetical protein|pos:1259298-1259498(-
+[2026-03-22 13:22:26]   -> 10 hits (0 non-self) in 558.3s | top non-self: no non-self hits
+[2026-03-22 13:22:28] [618/902] YP_008437810.1  YP_008437810.1 psal_cds_751|hypothetical protein|pos:1324886-1325233(-
+[2026-03-22 13:23:29]   -> 1 hits (0 non-self) in 318.6s | top non-self: no non-self hits
+[2026-03-22 13:23:31] [609/902] YP_008437763.1  YP_008437763.1 psal_cds_718|hypothetical protein|pos:1269247-1270158(-
+[2026-03-22 13:26:49]   -> 10 hits (0 non-self) in 198.0s | top non-self: no non-self hits
+[2026-03-22 13:26:51] [610/902] YP_008437775.1  YP_008437775.1 psal_cds_725|hypothetical protein|pos:1283029-1284363(-
+[2026-03-22 13:27:45]   -> 10 hits (0 non-self) in 317.7s | top non-self: no non-self hits
+[2026-03-22 13:27:47] [619/902] YP_008437812.1  YP_008437812.1 psal_cds_752|hypothetical protein|pos:1326287-1326613(-
+[2026-03-22 13:36:05]   -> 10 hits (1 non-self) in 498.2s | top non-self: Marseillevirus sp. 'xiwanvirus'
+[2026-03-22 13:36:07] [620/902] YP_008437823.1  YP_008437823.1 psal_cds_758|hypothetical protein|pos:1338253-1338966(+
+[2026-03-22 13:36:09]   -> 10 hits (0 non-self) in 558.2s | top non-self: no non-self hits
+[2026-03-22 13:36:11] [611/902] YP_009430061.1  YP_009430061.1 psal_cds_730|hypothetical protein|pos:1293151-1294647(+
+[2026-03-22 13:42:25]   -> 10 hits (0 non-self) in 378.4s | top non-self: no non-self hits
+[2026-03-22 13:42:27] [621/902] YP_008437824.1  YP_008437824.1 psal_cds_759|hypothetical protein|pos:1339012-1339293(+
+[2026-03-22 13:44:29]   -> 10 hits (0 non-self) in 498.2s | top non-self: no non-self hits
+[2026-03-22 13:44:31] [612/902] YP_008437785.2  YP_008437785.2 psal_cds_731|hypothetical protein|pos:1294850-1295251(-
+[2026-03-22 13:44:45]   -> 3 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 13:44:47] [622/902] YP_008437825.1  YP_008437825.1 psal_cds_760|hypothetical protein|pos:1339336-1339548(+
+[2026-03-22 13:50:05]   -> 6 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 13:50:07] [623/902] YP_008437827.2  YP_008437827.2 psal_cds_761|hypothetical protein|pos:1339816-1340304(-
+[2026-03-22 13:52:49]   -> 10 hits (0 non-self) in 498.2s | top non-self: no non-self hits
+[2026-03-22 13:52:50] [613/902] YP_008437793.2  YP_008437793.2 psal_cds_737|hypothetical protein|pos:1304665-1304940(+
+[2026-03-22 13:53:25]   -> 8 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 13:53:27] [624/902] YP_008437830.1  YP_008437830.1 psal_cds_762|hypothetical protein|pos:1341101-1341553(-
+[2026-03-22 13:56:09]   -> 1 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 13:56:11] [614/902] YP_008437794.1  YP_008437794.1 psal_cds_738|hypothetical protein|pos:1304968-1305495(-
+[2026-03-22 13:57:45]   -> 9 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 13:57:47] [625/902] YP_008437832.1  YP_008437832.1 psal_cds_763|hypothetical protein|pos:1342207-1342617(-
+[2026-03-22 14:01:29]   -> 10 hits (0 non-self) in 318.2s | top non-self: no non-self hits
+[2026-03-22 14:01:31] [615/902] YP_008437796.1  YP_008437796.1 psal_cds_740|hypothetical protein|pos:1306903-1308150(-
+[2026-03-22 14:10:05]   -> 4 hits (0 non-self) in 738.5s | top non-self: no non-self hits
+[2026-03-22 14:10:07] [626/902] YP_008437841.1  YP_008437841.1 psal_cds_769|hypothetical protein|pos:1349578-1350222(-
+[2026-03-22 14:10:49]   -> 10 hits (0 non-self) in 557.8s | top non-self: no non-self hits
+[2026-03-22 14:10:51] [616/902] YP_008437805.1  YP_008437805.1 psal_cds_747|hypothetical protein|pos:1321715-1322323(-
+[2026-03-22 14:52:09]   -> 10 hits (2 non-self) in 2478.4s | top non-self: Acanthamoeba castellanii str. Neff
+[2026-03-22 14:52:11] [617/902] YP_008437807.2  YP_008437807.2 psal_cds_748|hypothetical protein|pos:1322769-1323242(-
+[2026-03-22 14:52:25]   -> 1 hits (0 non-self) in 2538.1s | top non-self: no non-self hits
+[2026-03-22 14:52:27] [627/902] YP_008437843.1  YP_008437843.1 psal_cds_771|hypothetical protein|pos:1352836-1353777(+
+[2026-03-22 15:08:29]   -> 10 hits (0 non-self) in 978.4s | top non-self: no non-self hits
+[2026-03-22 15:08:31] [618/902] YP_008437810.1  YP_008437810.1 psal_cds_751|hypothetical protein|pos:1324886-1325233(-
+[2026-03-22 15:08:46]   -> 10 hits (0 non-self) in 978.7s | top non-self: no non-self hits
+[2026-03-22 15:08:47] [628/902] YP_008437845.1  YP_008437845.1 psal_cds_772|hypothetical protein|pos:1354322-1355269(+
+[2026-03-22 15:09:50]   -> 10 hits (0 non-self) in 79.0s | top non-self: no non-self hits
+[2026-03-22 15:09:51] [619/902] YP_008437812.1  YP_008437812.1 psal_cds_752|hypothetical protein|pos:1326287-1326613(-
+[2026-03-22 15:31:05]   -> 8 hits (0 non-self) in 1337.9s | top non-self: no non-self hits
+[2026-03-22 15:31:07] [629/902] YP_008437851.1  YP_008437851.1 psal_cds_776|hypothetical protein|pos:1362514-1363584(+
+[2026-03-22 15:32:25]   -> 3 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 15:32:27] [630/902] YP_009430067.1  YP_009430067.1 psal_cds_777|hypothetical protein|pos:1363719-1364126(+
+[2026-03-22 15:33:45]   -> 10 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 15:33:47] [631/902] YP_009430068.1  YP_009430068.1 psal_cds_778|hypothetical protein|pos:1364424-1365542(+
+[2026-03-22 15:35:06]   -> 9 hits (0 non-self) in 78.7s | top non-self: no non-self hits
+[2026-03-22 15:35:07] [632/902] YP_008437857.2  YP_008437857.2 psal_cds_781|hypothetical protein|pos:1368160-1370055(+
+[2026-03-22 15:37:25]   -> 10 hits (0 non-self) in 138.2s | top non-self: no non-self hits
+[2026-03-22 15:37:27] [633/902] YP_008437873.1  YP_008437873.1 psal_cds_788|hypothetical protein|pos:1381967-1383349(-
+[2026-03-22 15:39:45]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 15:39:47] [634/902] YP_008437875.1  YP_008437875.1 psal_cds_789|hypothetical protein|pos:1383677-1383961(-
+[2026-03-22 15:42:09]   -> 10 hits (1 non-self) in 1937.9s | top non-self: Marseillevirus sp. 'xiwanvirus'
+[2026-03-22 15:42:11] [620/902] YP_008437823.1  YP_008437823.1 psal_cds_758|hypothetical protein|pos:1338253-1338966(+
+[2026-03-22 15:45:06]   -> 10 hits (0 non-self) in 318.8s | top non-self: no non-self hits
+[2026-03-22 15:45:07] [635/902] YP_008437877.1  YP_008437877.1 psal_cds_790|hypothetical protein|pos:1384312-1384908(+
+[2026-03-22 15:50:29]   -> 10 hits (0 non-self) in 497.9s | top non-self: no non-self hits
+[2026-03-22 15:50:31] [621/902] YP_008437824.1  YP_008437824.1 psal_cds_759|hypothetical protein|pos:1339012-1339293(+
+[2026-03-22 15:59:25]   -> 10 hits (2 non-self) in 858.2s | top non-self: Balamuthia mandrillaris
+[2026-03-22 15:59:27] [636/902] YP_009430071.1  YP_009430071.1 psal_cds_792|hypothetical protein|pos:1387985-1388602(+
+[2026-03-22 16:00:49]   -> 3 hits (0 non-self) in 618.3s | top non-self: no non-self hits
+[2026-03-22 16:00:51] [622/902] YP_008437825.1  YP_008437825.1 psal_cds_760|hypothetical protein|pos:1339336-1339548(+
+[2026-03-22 16:02:46]   -> 8 hits (4 non-self) in 198.2s | top non-self: Mollivirus kamchatka
+[2026-03-22 16:02:47] [637/902] YP_008437885.1  YP_008437885.1 psal_cds_794|hypothetical protein|pos:1390562-1390894(+
+[2026-03-22 16:09:09]   -> 6 hits (0 non-self) in 498.3s | top non-self: no non-self hits
+[2026-03-22 16:09:11] [623/902] YP_008437827.2  YP_008437827.2 psal_cds_761|hypothetical protein|pos:1339816-1340304(-
+[2026-03-22 16:13:05]   -> 5 hits (0 non-self) in 618.4s | top non-self: no non-self hits
+[2026-03-22 16:13:07] [638/902] YP_008437890.2  YP_008437890.2 psal_cds_796|hypothetical protein|pos:1394962-1396200(-
+[2026-03-22 16:17:25]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 16:17:27] [639/902] YP_009430072.1  YP_009430072.1 psal_cds_799|hypothetical protein|pos:1399702-1400127(-
+[2026-03-22 16:23:46]   -> 10 hits (0 non-self) in 378.8s | top non-self: no non-self hits
+[2026-03-22 16:23:48] [640/902] YP_008437899.1  YP_008437899.1 psal_cds_802|hypothetical protein|pos:1403278-1404150(+
+[2026-03-22 16:24:29]   -> 8 hits (0 non-self) in 918.1s | top non-self: no non-self hits
+[2026-03-22 16:24:31] [624/902] YP_008437830.1  YP_008437830.1 psal_cds_762|hypothetical protein|pos:1341101-1341553(-
+[2026-03-22 16:28:49]   -> 9 hits (0 non-self) in 257.6s | top non-self: no non-self hits
+[2026-03-22 16:28:51] [625/902] YP_008437832.1  YP_008437832.1 psal_cds_763|hypothetical protein|pos:1342207-1342617(-
+[2026-03-22 16:29:06]   -> 7 hits (0 non-self) in 318.1s | top non-self: no non-self hits
+[2026-03-22 16:29:08] [641/902] YP_008437900.1  YP_008437900.1 psal_cds_803|hypothetical protein|pos:1404288-1404650(-
+[2026-03-22 16:33:25]   -> 5 hits (0 non-self) in 257.5s | top non-self: no non-self hits
+[2026-03-22 16:33:27] [642/902] YP_009430073.1  YP_009430073.1 psal_cds_806|hypothetical protein|pos:1408607-1409749(-
+[2026-03-22 16:35:45]   -> 6 hits (0 non-self) in 138.1s | top non-self: no non-self hits
+[2026-03-22 16:35:47] [643/902] YP_008437913.1  YP_008437913.1 psal_cds_810|hypothetical protein|pos:1415804-1416688(-
+[2026-03-22 16:40:06]   -> 6 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 16:40:07] [644/902] YP_008437914.2  YP_008437914.2 psal_cds_811|hypothetical protein|pos:1417035-1417295(+
+[2026-03-22 16:42:25]   -> 1 hits (0 non-self) in 138.1s | top non-self: no non-self hits
+[2026-03-22 16:42:27] [645/902] YP_008437916.1  YP_008437916.1 psal_cds_813|hypothetical protein|pos:1419235-1419645(-
+[2026-03-22 16:46:46]   -> 3 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 16:46:47] [646/902] YP_008437917.1  YP_008437917.1 psal_cds_814|hypothetical protein|pos:1419976-1420653(+
+[2026-03-22 16:50:05]   -> 5 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 16:50:08] [647/902] YP_008437921.1  YP_008437921.1 psal_cds_816|hypothetical protein|pos:1422055-1422966(+
+[2026-03-22 16:56:25]   -> 5 hits (0 non-self) in 377.5s | top non-self: no non-self hits
+[2026-03-22 16:56:27] [648/902] YP_008437927.1  YP_008437927.1 psal_cds_820|hypothetical protein|pos:1428358-1430343(-
+[2026-03-22 16:59:48]   -> 10 hits (0 non-self) in 200.6s | top non-self: no non-self hits
+[2026-03-22 16:59:49] [649/902] YP_008437933.1  YP_008437933.1 psal_cds_824|hypothetical protein|pos:1437201-1439183(-
+[2026-03-22 17:02:05]   -> 10 hits (0 non-self) in 136.0s | top non-self: no non-self hits
+[2026-03-22 17:02:07] [650/902] YP_008437935.1  YP_008437935.1 psal_cds_825|hypothetical protein|pos:1439751-1442111(+
+[2026-03-22 17:06:25]   -> 10 hits (0 non-self) in 258.7s | top non-self: no non-self hits
+[2026-03-22 17:06:27] [651/902] YP_009430075.1  YP_009430075.1 psal_cds_832|hypothetical protein|pos:1454714-1457371(+
+[2026-03-22 17:11:09]   -> 4 hits (0 non-self) in 2538.1s | top non-self: no non-self hits
+[2026-03-22 17:11:10] [626/902] YP_008437841.1  YP_008437841.1 psal_cds_769|hypothetical protein|pos:1349578-1350222(-
+[2026-03-22 17:12:45]   -> 8 hits (0 non-self) in 378.2s | top non-self: no non-self hits
+[2026-03-22 17:12:47] [652/902] YP_008437959.2  YP_008437959.2 psal_cds_840|hypothetical protein|pos:1469140-1470162(-
+[2026-03-22 17:13:29]   -> 1 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 17:13:30] [627/902] YP_008437843.1  YP_008437843.1 psal_cds_771|hypothetical protein|pos:1352836-1353777(+
+[2026-03-22 17:18:05]   -> 10 hits (0 non-self) in 318.5s | top non-self: no non-self hits
+[2026-03-22 17:18:07] [653/902] YP_008437960.1  YP_008437960.1 psal_cds_841|hypothetical protein|pos:1470789-1471667(-
+[2026-03-22 17:19:49]   -> 10 hits (0 non-self) in 378.7s | top non-self: no non-self hits
+[2026-03-22 17:19:51] [628/902] YP_008437845.1  YP_008437845.1 psal_cds_772|hypothetical protein|pos:1354322-1355269(+
+[2026-03-22 17:21:25]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 17:21:27] [654/902] YP_008437973.1  YP_008437973.1 psal_cds_847|hypothetical protein|pos:1481073-1481318(+
+[2026-03-22 17:25:09]   -> 8 hits (0 non-self) in 318.3s | top non-self: no non-self hits
+[2026-03-22 17:25:11] [629/902] YP_008437851.1  YP_008437851.1 psal_cds_776|hypothetical protein|pos:1362514-1363584(+
+[2026-03-22 17:25:45]   -> 1 hits (0 non-self) in 258.5s | top non-self: no non-self hits
+[2026-03-22 17:25:47] [655/902] YP_009430077.1  YP_009430077.1 psal_cds_848|hypothetical protein|pos:1481576-1483414(+
+[2026-03-22 17:29:29]   -> 3 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 17:29:31] [630/902] YP_009430067.1  YP_009430067.1 psal_cds_777|hypothetical protein|pos:1363719-1364126(+
+[2026-03-22 17:30:05]   -> 10 hits (0 non-self) in 258.3s | top non-self: no non-self hits
+[2026-03-22 17:30:07] [656/902] YP_009430078.1  YP_009430078.1 psal_cds_849|hypothetical protein|pos:1483982-1484365(+
+[2026-03-22 17:46:49]   -> 10 hits (0 non-self) in 1038.9s | top non-self: no non-self hits
+[2026-03-22 17:46:51] [631/902] YP_009430068.1  YP_009430068.1 psal_cds_778|hypothetical protein|pos:1364424-1365542(+
+[2026-03-22 17:47:25]   -> 4 hits (0 non-self) in 1038.6s | top non-self: no non-self hits
+[2026-03-22 17:47:27] [657/902] YP_008437978.2  YP_008437978.2 psal_cds_850|hypothetical protein|pos:1484503-1484905(-
+[2026-03-22 17:50:09]   -> 9 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 17:50:10] [632/902] YP_008437857.2  YP_008437857.2 psal_cds_781|hypothetical protein|pos:1368160-1370055(+
+[2026-03-22 17:50:45]   -> 1 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 17:50:47] [658/902] YP_008437983.2  YP_008437983.2 psal_cds_852|hypothetical protein|pos:1486715-1488418(-
+[2026-03-22 17:56:30]   -> 10 hits (0 non-self) in 379.5s | top non-self: no non-self hits
+[2026-03-22 17:56:32] [633/902] YP_008437873.1  YP_008437873.1 psal_cds_788|hypothetical protein|pos:1381967-1383349(-
+[2026-03-22 17:58:05]   -> 10 hits (0 non-self) in 438.5s | top non-self: no non-self hits
+[2026-03-22 17:58:07] [659/902] YP_008437984.1  YP_008437984.1 psal_cds_853|hypothetical protein|pos:1488921-1489625(-
+[2026-03-22 18:11:49]   -> 10 hits (0 non-self) in 917.7s | top non-self: no non-self hits
+[2026-03-22 18:11:51] [634/902] YP_008437875.1  YP_008437875.1 psal_cds_789|hypothetical protein|pos:1383677-1383961(-
+[2026-03-22 18:13:25]   -> 10 hits (0 non-self) in 918.7s | top non-self: no non-self hits
+[2026-03-22 18:13:28] [660/902] YP_009430079.1  YP_009430079.1 psal_cds_854|hypothetical protein|pos:1490450-1492347(+
+[2026-03-22 18:16:09]   -> 10 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 18:16:11] [635/902] YP_008437877.1  YP_008437877.1 psal_cds_790|hypothetical protein|pos:1384312-1384908(+
+[2026-03-22 18:19:29]   -> 10 hits (2 non-self) in 198.1s | top non-self: Balamuthia mandrillaris
+[2026-03-22 18:19:30] [636/902] YP_009430071.1  YP_009430071.1 psal_cds_792|hypothetical protein|pos:1387985-1388602(+
+[2026-03-22 18:22:49]   -> 8 hits (4 non-self) in 198.8s | top non-self: Mollivirus kamchatka
+[2026-03-22 18:22:51] [637/902] YP_008437885.1  YP_008437885.1 psal_cds_794|hypothetical protein|pos:1390562-1390894(+
+[2026-03-22 18:26:09]   -> 5 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 18:26:11] [638/902] YP_008437890.2  YP_008437890.2 psal_cds_796|hypothetical protein|pos:1394962-1396200(-
+[2026-03-22 18:27:46]   -> 10 hits (0 non-self) in 858.0s | top non-self: no non-self hits
+[2026-03-22 18:27:48] [661/902] YP_009430080.1  YP_009430080.1 psal_cds_855|hypothetical protein|pos:1493039-1495074(+
+[2026-03-22 18:32:06]   -> 10 hits (0 non-self) in 258.1s | top non-self: no non-self hits
+[2026-03-22 18:32:08] [662/902] YP_008437991.2  YP_008437991.2 psal_cds_856|hypothetical protein|pos:1495893-1496654(+
+[2026-03-22 18:33:30]   -> 10 hits (0 non-self) in 439.3s | top non-self: no non-self hits
+[2026-03-22 18:33:32] [639/902] YP_009430072.1  YP_009430072.1 psal_cds_799|hypothetical protein|pos:1399702-1400127(-
+[2026-03-22 18:36:26]   -> 10 hits (3 non-self) in 257.9s | top non-self: Mollivirus sibericum
+[2026-03-22 18:36:27] [663/902] YP_008437992.2  YP_008437992.2 psal_cds_857|hypothetical protein|pos:1497580-1498584(-
+[2026-03-22 18:38:49]   -> 10 hits (0 non-self) in 317.0s | top non-self: no non-self hits
+[2026-03-22 18:38:51] [640/902] YP_008437899.1  YP_008437899.1 psal_cds_802|hypothetical protein|pos:1403278-1404150(+
+[2026-03-22 18:39:45]   -> 10 hits (0 non-self) in 198.4s | top non-self: no non-self hits
+[2026-03-22 18:39:47] [664/902] YP_009430081.1  YP_009430081.1 psal_cds_859|hypothetical protein|pos:1499887-1500294(+
+[2026-03-22 18:42:10]   -> 7 hits (0 non-self) in 198.8s | top non-self: no non-self hits
+[2026-03-22 18:42:11] [641/902] YP_008437900.1  YP_008437900.1 psal_cds_803|hypothetical protein|pos:1404288-1404650(-
+[2026-03-22 18:43:05]   -> 10 hits (0 non-self) in 198.3s | top non-self: no non-self hits
+[2026-03-22 18:43:07] [665/902] YP_009430082.1  YP_009430082.1 psal_cds_860|hypothetical protein|pos:1500631-1501179(+
+[2026-03-22 18:48:25]   -> 10 hits (0 non-self) in 318.4s | top non-self: no non-self hits
+[2026-03-22 18:48:27] [666/902] YP_009430083.1  YP_009430083.1 psal_cds_861|hypothetical protein|pos:1501295-1501486(-
+[2026-03-22 18:49:29]   -> 5 hits (0 non-self) in 437.6s | top non-self: no non-self hits
+[2026-03-22 18:49:31] [642/902] YP_009430073.1  YP_009430073.1 psal_cds_806|hypothetical protein|pos:1408607-1409749(-
+[2026-03-22 19:02:45]   -> 1 hits (0 non-self) in 858.2s | top non-self: no non-self hits
+[2026-03-22 19:02:47] [667/902] YP_009430084.1  YP_009430084.1 psal_cds_862|hypothetical protein|pos:1502170-1502790(+
+[2026-03-22 19:02:49]   -> 6 hits (0 non-self) in 798.5s | top non-self: no non-self hits
+[2026-03-22 19:02:50] [643/902] YP_008437913.1  YP_008437913.1 psal_cds_810|hypothetical protein|pos:1415804-1416688(-
+[2026-03-22 19:20:07]   -> 10 hits (0 non-self) in 1039.4s | top non-self: no non-self hits
+[2026-03-22 19:20:08] [668/902] YP_008438000.1  YP_008438000.1 psal_cds_863|hypothetical protein|pos:1503106-1505364(-
+[2026-03-22 19:20:09]   -> 6 hits (0 non-self) in 1038.5s | top non-self: no non-self hits
+[2026-03-22 19:20:11] [644/902] YP_008437914.2  YP_008437914.2 psal_cds_811|hypothetical protein|pos:1417035-1417295(+
+[2026-03-22 19:22:25]   -> 10 hits (0 non-self) in 137.4s | top non-self: no non-self hits
+[2026-03-22 19:22:27] [669/902] YP_008438006.1  YP_008438006.1 psal_cds_867|hypothetical protein|pos:1512091-1512474(-
+[2026-03-22 19:22:29]   -> 1 hits (0 non-self) in 138.4s | top non-self: no non-self hits
+[2026-03-22 19:22:31] [645/902] YP_008437916.1  YP_008437916.1 psal_cds_813|hypothetical protein|pos:1419235-1419645(-
+[2026-03-22 19:23:49]   -> 3 hits (0 non-self) in 78.3s | top non-self: no non-self hits
+[2026-03-22 19:23:51] [646/902] YP_008437917.1  YP_008437917.1 psal_cds_814|hypothetical protein|pos:1419976-1420653(+
+[2026-03-22 19:25:09]   -> 5 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 19:25:10] [647/902] YP_008437921.1  YP_008437921.1 psal_cds_816|hypothetical protein|pos:1422055-1422966(+
+[2026-03-22 19:27:29]   -> 5 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 19:27:31] [648/902] YP_008437927.1  YP_008437927.1 psal_cds_820|hypothetical protein|pos:1428358-1430343(-
+[2026-03-22 19:28:49]   -> 10 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 19:28:50] [649/902] YP_008437933.1  YP_008437933.1 psal_cds_824|hypothetical protein|pos:1437201-1439183(-
+[2026-03-22 19:31:09]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 19:31:10] [650/902] YP_008437935.1  YP_008437935.1 psal_cds_825|hypothetical protein|pos:1439751-1442111(+
+[2026-03-22 19:42:45]   -> 10 hits (0 non-self) in 1218.5s | top non-self: no non-self hits
+[2026-03-22 19:42:47] [670/902] YP_009430086.1  YP_009430086.1 psal_cds_871|hypothetical protein|pos:1523074-1523721(+
+[2026-03-22 19:54:06]   -> 10 hits (0 non-self) in 678.8s | top non-self: no non-self hits
+[2026-03-22 19:54:09] [671/902] YP_008438024.1  YP_008438024.1 psal_cds_876|hypothetical protein|pos:1531453-1532397(-
+[2026-03-22 19:56:25]   -> 10 hits (0 non-self) in 136.9s | top non-self: no non-self hits
+[2026-03-22 19:56:27] [672/902] YP_008438025.1  YP_008438025.1 psal_cds_877|hypothetical protein|pos:1532827-1533543(-
+[2026-03-22 19:59:45]   -> 10 hits (0 non-self) in 198.6s | top non-self: no non-self hits
+[2026-03-22 19:59:47] [673/902] YP_008438026.2  YP_008438026.2 psal_cds_878|hypothetical protein|pos:1533980-1535788(+
+[2026-03-22 20:04:05]   -> 10 hits (0 non-self) in 258.6s | top non-self: no non-self hits
+[2026-03-22 20:04:07] [674/902] YP_008438035.1  YP_008438035.1 psal_cds_882|hypothetical protein|pos:1545443-1545790(+
+[2026-03-22 20:12:33]   -> 10 hits (0 non-self) in 2482.6s | top non-self: no non-self hits
+[2026-03-22 20:12:34] [651/902] YP_009430075.1  YP_009430075.1 psal_cds_832|hypothetical protein|pos:1454714-1457371(+
+[2026-03-22 20:14:25]   -> 8 hits (0 non-self) in 618.5s | top non-self: no non-self hits
+[2026-03-22 20:14:27] [675/902] YP_008438036.2  YP_008438036.2 psal_cds_883|hypothetical protein|pos:1545977-1548178(-
+[2026-03-22 20:14:49]   -> 8 hits (0 non-self) in 135.0s | top non-self: no non-self hits
+[2026-03-22 20:14:51] [652/902] YP_008437959.2  YP_008437959.2 psal_cds_840|hypothetical protein|pos:1469140-1470162(-
+[2026-03-22 20:16:09]   -> 10 hits (0 non-self) in 78.2s | top non-self: no non-self hits
+[2026-03-22 20:16:11] [653/902] YP_008437960.1  YP_008437960.1 psal_cds_841|hypothetical protein|pos:1470789-1471667(-
+[2026-03-22 20:16:46]   -> 10 hits (0 non-self) in 139.0s | top non-self: no non-self hits
+[2026-03-22 20:16:47] [676/902] YP_008438037.1  YP_008438037.1 psal_cds_884|hypothetical protein|pos:1548417-1548788(-
+[2026-03-22 20:18:29]   -> 10 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 20:18:30] [654/902] YP_008437973.1  YP_008437973.1 psal_cds_847|hypothetical protein|pos:1481073-1481318(+
+[2026-03-22 20:19:05]   -> 9 hits (0 non-self) in 138.0s | top non-self: no non-self hits
+[2026-03-22 20:19:07] [677/902] YP_009430088.1  YP_009430088.1 psal_cds_886|hypothetical protein|pos:1557848-1558459(+
+[2026-03-22 20:19:49]   -> 1 hits (0 non-self) in 78.5s | top non-self: no non-self hits
+[2026-03-22 20:19:51] [655/902] YP_009430077.1  YP_009430077.1 psal_cds_848|hypothetical protein|pos:1481576-1483414(+
+[2026-03-22 20:20:25]   -> 9 hits (0 non-self) in 78.4s | top non-self: no non-self hits
+[2026-03-22 20:20:27] [678/902] YP_008438047.2  YP_008438047.2 psal_cds_887|hypothetical protein|pos:1559282-1561147(-
+[2026-03-22 20:23:45]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:23:47] [679/902] YP_008438050.1  YP_008438050.1 psal_cds_889|hypothetical protein|pos:1562828-1563334(+
+[2026-03-22 20:24:11]   -> 10 hits (0 non-self) in 260.6s | top non-self: no non-self hits
+[2026-03-22 20:24:13] [656/902] YP_009430078.1  YP_009430078.1 psal_cds_849|hypothetical protein|pos:1483982-1484365(+
+[2026-03-22 20:25:05]   -> 4 hits (0 non-self) in 78.6s | top non-self: no non-self hits
+[2026-03-22 20:25:07] [680/902] YP_008438052.1  YP_008438052.1 psal_cds_890|hypothetical protein|pos:1563651-1564547(-
+[2026-03-22 20:27:25]   -> 8 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 20:27:27] [681/902] YP_008438054.1  YP_008438054.1 psal_cds_891|hypothetical protein|pos:1564948-1566231(+
+[2026-03-22 20:28:29]   -> 4 hits (0 non-self) in 256.6s | top non-self: no non-self hits
+[2026-03-22 20:28:31] [657/902] YP_008437978.2  YP_008437978.2 psal_cds_850|hypothetical protein|pos:1484503-1484905(-
+[2026-03-22 20:31:49]   -> 1 hits (0 non-self) in 198.1s | top non-self: no non-self hits
+[2026-03-22 20:31:51] [658/902] YP_008437983.2  YP_008437983.2 psal_cds_852|hypothetical protein|pos:1486715-1488418(-
+[2026-03-22 20:35:09]   -> 10 hits (0 non-self) in 198.2s | top non-self: no non-self hits
+[2026-03-22 20:35:10] [659/902] YP_008437984.1  YP_008437984.1 psal_cds_853|hypothetical protein|pos:1488921-1489625(-
+[2026-03-22 20:44:45]   -> 10 hits (0 non-self) in 1038.6s | top non-self: no non-self hits
+[2026-03-22 20:44:47] [682/902] YP_008438055.2  YP_008438055.2 psal_cds_892|hypothetical protein|pos:1566642-1566935(+
+[2026-03-22 20:47:29]   -> 10 hits (0 non-self) in 738.7s | top non-self: no non-self hits
+[2026-03-22 20:47:31] [660/902] YP_009430079.1  YP_009430079.1 psal_cds_854|hypothetical protein|pos:1490450-1492347(+
+[2026-03-22 20:49:05]   -> 1 hits (0 non-self) in 258.4s | top non-self: no non-self hits
+[2026-03-22 20:49:07] [683/902] YP_008438057.1  YP_008438057.1 psal_cds_893|hypothetical protein|pos:1567820-1568416(+
+[2026-03-22 20:50:49]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:50:50] [661/902] YP_009430080.1  YP_009430080.1 psal_cds_855|hypothetical protein|pos:1493039-1495074(+
+[2026-03-22 20:54:09]   -> 10 hits (0 non-self) in 198.5s | top non-self: no non-self hits
+[2026-03-22 20:54:10] [662/902] YP_008437991.2  YP_008437991.2 psal_cds_856|hypothetical protein|pos:1495893-1496654(+
+[2026-03-22 20:55:25]   -> 10 hits (0 non-self) in 378.5s | top non-self: no non-self hits
+[2026-03-22 20:55:27] [684/902] YP_009430089.1  YP_009430089.1 psal_cds_894|hypothetical protein|pos:1568651-1570421(+
+[2026-03-22 20:56:29]   -> 10 hits (3 non-self) in 138.5s | top non-self: Mollivirus sibericum
+[2026-03-22 20:56:30] [663/902] YP_008437992.2  YP_008437992.2 psal_cds_857|hypothetical protein|pos:1497580-1498584(-
+[2026-03-22 20:57:45]   -> 10 hits (0 non-self) in 138.6s | top non-self: no non-self hits
+[2026-03-22 20:57:47] [685/902] YP_008438084.1  YP_008438084.1 psal_cds_904|hypothetical protein|pos:1589314-1590498(+
+[2026-03-22 21:01:49]   -> 10 hits (0 non-self) in 318.9s | top non-self: no non-self hits
+[2026-03-22 21:01:51] [664/902] YP_009430081.1  YP_009430081.1 psal_cds_859|hypothetical protein|pos:1499887-1500294(+
+[2026-03-22 21:04:09]   -> 10 hits (0 non-self) in 138.3s | top non-self: no non-self hits
+[2026-03-22 21:04:10] [665/902] YP_009430082.1  YP_009430082.1 psal_cds_860|hypothetical protein|pos:1500631-1501179(+
+[2026-03-22 21:07:29]   -> 10 hits (0 non-self) in 198.7s | top non-self: no non-self hits
+[2026-03-22 21:07:30] [666/902] YP_009430083.1  YP_009430083.1 psal_cds_861|hypothetical protein|pos:1501295-1501486(-
+[2026-03-22 21:09:49]   -> 1 hits (0 non-self) in 138.5s | top non-self: no non-self hits
+[2026-03-22 21:09:50] [667/902] YP_009430084.1  YP_009430084.1 psal_cds_862|hypothetical protein|pos:1502170-1502790(+
+[2026-03-22 21:20:05]   -> 10 hits (0 non-self) in 1338.7s | top non-self: no non-self hits
+[2026-03-22 21:20:07] [686/902] YP_008438086.1  YP_008438086.1 psal_cds_905|hypothetical protein|pos:1591359-1592198(+
+[2026-03-22 21:23:26]   -> 10 hits (0 non-self) in 198.9s | top non-self: no non-self hits
+[2026-03-22 21:23:27] [687/902] YP_008438090.2  YP_008438090.2 psal_cds_907|hypothetical protein|pos:1595310-1595774(+
+[2026-03-22 22:02:45]   -> 10 hits (0 non-self) in 2358.3s | top non-self: no non-self hits
+[2026-03-22 22:02:47] [688/902] YP_008438091.2  YP_008438091.2 psal_cds_908|hypothetical protein|pos:1595992-1598229(-
+[2026-03-22 22:09:05]   -> 10 hits (0 non-self) in 378.6s | top non-self: no non-self hits
+[2026-03-22 22:09:07] [689/902] YP_008438108.1  YP_008438108.1 psal_cds_916|hypothetical protein|pos:1614195-1614965(+
+[2026-03-22 22:09:09]   -> 10 hits (0 non-self) in 3558.6s | top non-self: no non-self hits
+[2026-03-22 22:09:10] [668/902] YP_008438000.1  YP_008438000.1 psal_cds_863|hypothetical protein|pos:1503106-1505364(-
+[2026-03-22 22:20:29]   -> 10 hits (0 non-self) in 678.6s | top non-self: no non-self hits
+[2026-03-22 22:20:30] [669/902] YP_008438006.1  YP_008438006.1 psal_cds_867|hypothetical protein|pos:1512091-1512474(-
+[2026-03-22 22:21:29]   -> 9 hits (0 non-self) in 742.0s | top non-self: no non-self hits
+[2026-03-22 22:21:30] [690/902] YP_008438116.1  YP_008438116.1 psal_cds_919|hypothetical protein|pos:1619161-1620012(+
+[2026-03-22 22:28:45]   -> 10 hits (0 non-self) in 435.2s | top non-self: no non-self hits
+[2026-03-22 22:28:47] [691/902] YP_008438131.1  YP_008438131.1 psal_cds_927|hypothetical protein|pos:1633367-1635052(-
+[2026-03-22 22:28:50]   -> 10 hits (0 non-self) in 499.6s | top non-self: no non-self hits
+[2026-03-22 22:28:51] [670/902] YP_009430086.1  YP_009430086.1 psal_cds_871|hypothetical protein|pos:1523074-1523721(+
+[2026-03-22 22:32:05]   ERROR: <urlopen error [Errno 11001] getaddrinfo failed>

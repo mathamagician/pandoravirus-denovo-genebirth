@@ -1,6 +1,5 @@
 {
   "_description": "Maps every statistic cited in the manuscript to its source computation. Each entry includes the manuscript location, the cited value, the source file, and the exact key or computation that produced it.",
-
   "abstract": {
     "genome_size_mb": {
       "cited": "2.47 Mb",
@@ -126,7 +125,6 @@
       "source": "Pipeline Module 8, proto-gene NN similarity test"
     }
   },
-
   "results_section_0_compositional_landscape": {
     "coding_density": {
       "cited": "67.5%",
@@ -149,8 +147,14 @@
       "computation": "64.6% - 53.9% = 10.7pp",
       "source": "Pipeline Module 2"
     },
-    "lambda_gc_gap": {"cited": "7.0 pp", "source": "Pipeline Module 2"},
-    "mimivirus_gc_gap": {"cited": "4.1 pp", "source": "Pipeline Module 2"},
+    "lambda_gc_gap": {
+      "cited": "7.0 pp",
+      "source": "Pipeline Module 2"
+    },
+    "mimivirus_gc_gap": {
+      "cited": "4.1 pp",
+      "source": "Pipeline Module 2"
+    },
     "poly_at_enrichment_fold": {
       "cited": "15-fold enriched",
       "source": "Pipeline Module 3, AAAAAA/TTTTTT vs Markov-1 null"
@@ -179,54 +183,173 @@
       "cited": "88.6% lack meaningful effect sizes",
       "source": "Pipeline Module 3"
     },
-    "cai_pandoravirus": {"cited": "0.787", "source": "Pipeline Module 4"},
-    "cai_mimivirus": {"cited": "0.657", "source": "Pipeline Module 4"},
-    "neutrality_r2": {"cited": "R^2 < 0.05", "source": "Pipeline Module 4, neutrality plot regression"},
-    "orfan_gc3_diff": {"cited": "+0.015", "source": "Pipeline Module 4"},
-    "orfan_enc_diff": {"cited": "-1.03", "source": "Pipeline Module 4"},
-    "orfan_cai_diff": {"cited": "+0.008", "source": "Pipeline Module 4"},
-    "orfan_upstream_cosine": {"cited": "0.9824", "source": "Pipeline Module 9"},
-    "prodigal_cds": {"cited": "1,685", "source": "Pipeline Module 5"},
-    "prodigal_confirmation_rate": {"cited": "93.4%", "source": "Pipeline Module 5"},
-    "prodigal_novel_genes": {"cited": "347", "source": "Pipeline Module 5"},
-    "prodigal_novel_mean_length": {"cited": "380 bp", "source": "Pipeline Module 5"},
-    "prodigal_novel_mean_gc": {"cited": "57.0%", "source": "Pipeline Module 5"},
-    "true_intergenic_after_prodigal": {"cited": "~23.8%", "source": "Pipeline Module 5"},
-    "native_zone_confirmation_rate": {"cited": "96.0% vs 92.4%", "source": "Pipeline Module 5"},
-    "native_zone_hypothetical_fraction": {"cited": "55.2% vs 66.2%", "source": "Pipeline Module 5"},
-    "gmm_cluster_native_n": {"cited": "53.8%", "source": "Pipeline Module 6"},
-    "gmm_cluster_highgc_n": {"cited": "29.4%", "source": "Pipeline Module 6"},
-    "gmm_cluster_variant_n": {"cited": "16.8%", "source": "Pipeline Module 6"},
-    "low_confidence_assignments": {"cited": "10 (0.7%)", "source": "Pipeline Module 6"},
-    "extreme_low_gc_outliers": {"cited": "51", "source": "Pipeline Module 6"},
-    "native_zone_chi_squared": {"cited": "19.26", "source": "Pipeline Module 6"},
-    "native_zone_chi_p": {"cited": "p = 6.6 x 10^-5", "source": "Pipeline Module 6"},
-    "gc_cv_pandoravirus": {"cited": "6.1%", "source": "Pipeline Module 6"},
-    "gc_cv_lambda": {"cited": "14.2%", "source": "Pipeline Module 6"},
-    "gc_cv_mimivirus": {"cited": "15.1%", "source": "Pipeline Module 6"},
-    "gc3_cv_pandoravirus": {"cited": "9.6%", "source": "Pipeline Module 6"},
-    "cai_cv_pandoravirus": {"cited": "4.0%", "source": "Pipeline Module 6"},
-    "esm2_structural_families": {"cited": "9", "source": "Pipeline Module 8"},
-    "esm2_within_family_sim": {"cited": "0.533", "source": "Pipeline Module 8b null calibration"},
-    "esm2_null_sim": {"cited": "0.368", "source": "Pipeline Module 8b null calibration"},
-    "esm2_cohens_d": {"cited": "1.45", "source": "Pipeline Module 8b null calibration"},
-    "esm2_gc_confound_pct": {"cited": "41%", "source": "Pipeline Module 8, PC1 GC correlation"},
-    "esm2_phase7_validated": {"cited": "10 of 14", "source": "Pipeline Module 8"},
-    "esm2_orfan_structural_matches": {"cited": "23", "source": "Pipeline Module 8"},
-    "esm2_cross_tier_families": {"cited": "8 of 9", "source": "Pipeline Module 8"}
+    "cai_pandoravirus": {
+      "cited": "0.787",
+      "source": "Pipeline Module 4"
+    },
+    "cai_mimivirus": {
+      "cited": "0.657",
+      "source": "Pipeline Module 4"
+    },
+    "neutrality_r2": {
+      "cited": "R^2 < 0.05",
+      "source": "Pipeline Module 4, neutrality plot regression"
+    },
+    "orfan_gc3_diff": {
+      "cited": "+0.015",
+      "source": "Pipeline Module 4"
+    },
+    "orfan_enc_diff": {
+      "cited": "-1.03",
+      "source": "Pipeline Module 4"
+    },
+    "orfan_cai_diff": {
+      "cited": "+0.008",
+      "source": "Pipeline Module 4"
+    },
+    "orfan_upstream_cosine": {
+      "cited": "0.9824",
+      "source": "Pipeline Module 9"
+    },
+    "prodigal_cds": {
+      "cited": "1,685",
+      "source": "Pipeline Module 5"
+    },
+    "prodigal_confirmation_rate": {
+      "cited": "93.4%",
+      "source": "Pipeline Module 5"
+    },
+    "prodigal_novel_genes": {
+      "cited": "347",
+      "source": "Pipeline Module 5"
+    },
+    "prodigal_novel_mean_length": {
+      "cited": "380 bp",
+      "source": "Pipeline Module 5"
+    },
+    "prodigal_novel_mean_gc": {
+      "cited": "57.0%",
+      "source": "Pipeline Module 5"
+    },
+    "true_intergenic_after_prodigal": {
+      "cited": "~23.8%",
+      "source": "Pipeline Module 5"
+    },
+    "native_zone_confirmation_rate": {
+      "cited": "96.0% vs 92.4%",
+      "source": "Pipeline Module 5"
+    },
+    "native_zone_hypothetical_fraction": {
+      "cited": "55.2% vs 66.2%",
+      "source": "Pipeline Module 5"
+    },
+    "gmm_cluster_native_n": {
+      "cited": "53.8%",
+      "source": "Pipeline Module 6"
+    },
+    "gmm_cluster_highgc_n": {
+      "cited": "29.4%",
+      "source": "Pipeline Module 6"
+    },
+    "gmm_cluster_variant_n": {
+      "cited": "16.8%",
+      "source": "Pipeline Module 6"
+    },
+    "low_confidence_assignments": {
+      "cited": "10 (0.7%)",
+      "source": "Pipeline Module 6"
+    },
+    "extreme_low_gc_outliers": {
+      "cited": "51",
+      "source": "Pipeline Module 6"
+    },
+    "native_zone_chi_squared": {
+      "cited": "19.26",
+      "source": "Pipeline Module 6"
+    },
+    "native_zone_chi_p": {
+      "cited": "p = 6.6 x 10^-5",
+      "source": "Pipeline Module 6"
+    },
+    "gc_cv_pandoravirus": {
+      "cited": "6.1%",
+      "source": "Pipeline Module 6"
+    },
+    "gc_cv_lambda": {
+      "cited": "14.2%",
+      "source": "Pipeline Module 6"
+    },
+    "gc_cv_mimivirus": {
+      "cited": "15.1%",
+      "source": "Pipeline Module 6"
+    },
+    "gc3_cv_pandoravirus": {
+      "cited": "9.6%",
+      "source": "Pipeline Module 6"
+    },
+    "cai_cv_pandoravirus": {
+      "cited": "4.0%",
+      "source": "Pipeline Module 6"
+    },
+    "esm2_structural_families": {
+      "cited": "9",
+      "source": "Pipeline Module 8"
+    },
+    "esm2_within_family_sim": {
+      "cited": "0.533",
+      "source": "Pipeline Module 8b null calibration"
+    },
+    "esm2_null_sim": {
+      "cited": "0.368",
+      "source": "Pipeline Module 8b null calibration"
+    },
+    "esm2_cohens_d": {
+      "cited": "1.45",
+      "source": "Pipeline Module 8b null calibration"
+    },
+    "esm2_gc_confound_pct": {
+      "cited": "41%",
+      "source": "Pipeline Module 8, PC1 GC correlation"
+    },
+    "esm2_phase7_validated": {
+      "cited": "10 of 14",
+      "source": "Pipeline Module 8"
+    },
+    "esm2_orfan_structural_matches": {
+      "cited": "23",
+      "source": "Pipeline Module 8"
+    },
+    "esm2_cross_tier_families": {
+      "cited": "8 of 9",
+      "source": "Pipeline Module 8"
+    }
   },
-
   "results_section_1_continuum": {
     "total_orfs": {
       "cited": "2,292",
       "computation": "1,430 GenBank + 862 Prodigal-only",
       "source": "Pipeline Modules 5 + 7c"
     },
-    "T1_n": {"cited": 516, "source": "Pipeline Module 7c"},
-    "T2_n": {"cited": 784, "source": "Pipeline Module 7c"},
-    "T3_n": {"cited": 130, "source": "Pipeline Module 7c"},
-    "T4_n": {"cited": 335, "source": "Pipeline Module 7c"},
-    "T5_n": {"cited": 527, "source": "Pipeline Module 7c"},
+    "T1_n": {
+      "cited": 516,
+      "source": "Pipeline Module 7c"
+    },
+    "T2_n": {
+      "cited": 784,
+      "source": "Pipeline Module 7c"
+    },
+    "T3_n": {
+      "cited": 130,
+      "source": "Pipeline Module 7c"
+    },
+    "T4_n": {
+      "cited": 335,
+      "source": "Pipeline Module 7c"
+    },
+    "T5_n": {
+      "cited": 527,
+      "source": "Pipeline Module 7c"
+    },
     "intergenic_gc_avg": {
       "cited": "0.539",
       "source": "Pipeline Module 2"
@@ -239,17 +362,31 @@
       "cited": "p = 0.0005",
       "source": "Pipeline Module 7c, T5 vs random ORF codon usage test"
     },
-    "T4_spatial_p": {"cited": "p = 0.99", "source": "Pipeline Module 7c spatial clustering test"},
-    "T5_spatial_p": {"cited": "p = 1.0", "source": "Pipeline Module 7c spatial clustering test"},
+    "T4_spatial_p": {
+      "cited": "p = 0.99",
+      "source": "Pipeline Module 7c spatial clustering test"
+    },
+    "T5_spatial_p": {
+      "cited": "p = 1.0",
+      "source": "Pipeline Module 7c spatial clustering test"
+    },
     "gc_cv": {
       "cited": "6.1%",
       "source": "Pipeline Module 2, P. salinus GC coefficient of variation"
     },
-    "gc3_difference": {"cited": "+0.015", "source": "Pipeline Module 4, ORFan vs annotated GC3 difference"},
-    "cai_difference": {"cited": "+0.008", "source": "Pipeline Module 4, ORFan vs annotated CAI difference"},
-    "upstream_6mer_cosine": {"cited": "0.9824", "source": "Pipeline Module 9, upstream 6-mer cosine similarity"}
+    "gc3_difference": {
+      "cited": "+0.015",
+      "source": "Pipeline Module 4, ORFan vs annotated GC3 difference"
+    },
+    "cai_difference": {
+      "cited": "+0.008",
+      "source": "Pipeline Module 4, ORFan vs annotated CAI difference"
+    },
+    "upstream_6mer_cosine": {
+      "cited": "0.9824",
+      "source": "Pipeline Module 9, upstream 6-mer cosine similarity"
+    }
   },
-
   "results_section_2_regulatory": {
     "boundary_at_start_unfiltered": {
       "cited": "+7.0 pp",
@@ -259,23 +396,67 @@
       "cited": "+9.5 pp",
       "source": "Pipeline Module 9, unfiltered meta-gene profile"
     },
-    "poly_a_count": {"cited": 6955, "source": "Pipeline Module 9"},
-    "poly_t_count": {"cited": 7010, "source": "Pipeline Module 9"},
-    "intergenic_fraction": {"cited": "82.8-83.9%", "source": "Pipeline Module 9"},
-    "poly_a_upstream_start_pct": {"cited": "41.5%", "source": "Pipeline Module 9"},
-    "poly_t_downstream_end_pct": {"cited": "40.8%", "source": "Pipeline Module 9"},
-    "divergent_length": {"cited": "582 bp", "source": "Pipeline Module 9"},
-    "convergent_length": {"cited": "498 bp", "source": "Pipeline Module 9"},
-    "divergent_convergent_p": {"cited": "p < 0.0001", "source": "Pipeline Module 9"},
-    "divergent_density": {"cited": "6.67 runs/kb", "source": "Pipeline Module 9"},
-    "convergent_density": {"cited": "7.69 runs/kb", "source": "Pipeline Module 9"},
-    "T4_upstream_at": {"cited": "45.0%", "source": "Pipeline Module 9"},
-    "T4_upstream_p": {"cited": "p = 0.14", "source": "Pipeline Module 9"},
-    "T5_upstream_at": {"cited": "46.7%", "source": "Pipeline Module 9"},
-    "T5_upstream_p": {"cited": "p = 0.25", "source": "Pipeline Module 9"},
-    "annotated_upstream_at": {"cited": "45.9%", "source": "Pipeline Module 9"}
+    "poly_a_count": {
+      "cited": 6955,
+      "source": "Pipeline Module 9"
+    },
+    "poly_t_count": {
+      "cited": 7010,
+      "source": "Pipeline Module 9"
+    },
+    "intergenic_fraction": {
+      "cited": "82.8-83.9%",
+      "source": "Pipeline Module 9"
+    },
+    "poly_a_upstream_start_pct": {
+      "cited": "41.5%",
+      "source": "Pipeline Module 9"
+    },
+    "poly_t_downstream_end_pct": {
+      "cited": "40.8%",
+      "source": "Pipeline Module 9"
+    },
+    "divergent_length": {
+      "cited": "582 bp",
+      "source": "Pipeline Module 9"
+    },
+    "convergent_length": {
+      "cited": "498 bp",
+      "source": "Pipeline Module 9"
+    },
+    "divergent_convergent_p": {
+      "cited": "p < 0.0001",
+      "source": "Pipeline Module 9"
+    },
+    "divergent_density": {
+      "cited": "6.67 runs/kb",
+      "source": "Pipeline Module 9"
+    },
+    "convergent_density": {
+      "cited": "7.69 runs/kb",
+      "source": "Pipeline Module 9"
+    },
+    "T4_upstream_at": {
+      "cited": "45.0%",
+      "source": "Pipeline Module 9"
+    },
+    "T4_upstream_p": {
+      "cited": "p = 0.14",
+      "source": "Pipeline Module 9"
+    },
+    "T5_upstream_at": {
+      "cited": "46.7%",
+      "source": "Pipeline Module 9"
+    },
+    "T5_upstream_p": {
+      "cited": "p = 0.25",
+      "source": "Pipeline Module 9"
+    },
+    "annotated_upstream_at": {
+      "cited": "45.9%",
+      "source": "Pipeline Module 9"
+    }
   },
-
   "results_section_3_validation": {
     "intergenic_runs_after_filter": {
       "cited": 11640,
@@ -370,7 +551,6 @@
       "key": "two_population.length_p"
     }
   },
-
   "results_section_4_homology": {
     "total_attempted": {
       "cited": 528,
@@ -502,7 +682,7 @@
     },
     "hypothetical_hit_rate": {
       "cited": "3.0%",
-      "exact": 3.010,
+      "exact": 3.01,
       "source": "results/phase2_results.json",
       "key": "comparison.hypothetical_hit_rate"
     },
@@ -541,11 +721,19 @@
       "source": "results/phase2_results.json",
       "key": "sensitivity"
     },
-    "hyp_taxonomy_giant_virus": {"cited": "6 (66.7%)", "source": "results/blastp_hypothetical.json analysis"},
-    "hyp_taxonomy_amoebozoa": {"cited": "2 (22.2%)", "source": "results/blastp_hypothetical.json analysis"},
-    "hyp_taxonomy_bacteria": {"cited": "1 (11.1%)", "source": "results/blastp_hypothetical.json analysis"}
+    "hyp_taxonomy_giant_virus": {
+      "cited": "6 (66.7%)",
+      "source": "results/blastp_hypothetical.json analysis"
+    },
+    "hyp_taxonomy_amoebozoa": {
+      "cited": "2 (22.2%)",
+      "source": "results/blastp_hypothetical.json analysis"
+    },
+    "hyp_taxonomy_bacteria": {
+      "cited": "1 (11.1%)",
+      "source": "results/blastp_hypothetical.json analysis"
+    }
   },
-
   "discussion": {
     "agct_depletion_fold": {
       "cited": "1,500-fold depletion",
@@ -588,7 +776,6 @@
       "source": "Pipeline Module 8, proto-gene vs established gene centroid distance in PCA space"
     }
   },
-
   "methods": {
     "genome_accession": "NC_022098.1",
     "genome_length": 2473870,
@@ -599,7 +786,7 @@
       "Mimivirus": "NC_014649.1 (1,181,549 bp)"
     },
     "database_tables": 22,
-    "blast_evalue_threshold": 1e-5,
+    "blast_evalue_threshold": 1e-05,
     "blast_max_hits": 10,
     "hypothetical_sample_seeds": "42 (first 100), 43 (additional 200)",
     "hypothetical_attempted": 300,
@@ -607,7 +794,6 @@
     "taxonomy_organisms_in_lookup": 50,
     "taxonomy_misclassification_corrected": "12 prasinophyte green algae initially misclassified as bacteria"
   },
-
   "_pre_submission_audit_fixes": {
     "_note": "Added 2026-03-21 in response to statistical audit. Computed via scripts/compute_missing_statistics.py. Full results in results/missing_statistics.json.",
     "orphan_rate_derived": {
@@ -662,7 +848,6 @@
       "source": "results/missing_statistics.json > spearman_tier_pvalue"
     }
   },
-
   "_pdulcis_blastp_final": {
     "_note": "Added 2026-03-30. Exhaustive BLASTp of all P. dulcis proteins via m11_blastp_pdulcis.py (remote NCBI qblast). Results in ncldv_pipeline/results/blastp_pdulcis_annotated.json and blastp_pdulcis_hypothetical.json.",
     "annotated": {
@@ -700,6 +885,64 @@
       "p_value": "2.86e-08",
       "interpretation": "P. dulcis annotated genes significantly more lineage-specific than P. salinus annotated genes",
       "cited_in": "Cross-NCLDV results section and cover letter"
+    }
+  },
+  "_revision_2026_04_25": {
+    "_note": "Added 2026-04-25 in response to senior reviewer feedback. Documents new tests/analyses incorporated in this draft.",
+    "binomial_strand_aware_p_salinus_exact": {
+      "k": 3559,
+      "n": 4810,
+      "phat": 0.74,
+      "z_score": 33.28,
+      "two_sided_p": "8.41e-253",
+      "wilson_95_ci": "[72.7%, 75.2%]",
+      "_note": "Replaces the loose 'p < 1e-6' previously reported in abstract and figure caption."
+    },
+    "binomial_strand_aware_p_dulcis_formal": {
+      "k": 3956,
+      "n": 6403,
+      "phat": 0.6178,
+      "z_score": 18.86,
+      "two_sided_p": "5.96e-80",
+      "wilson_95_ci": "[60.6%, 63.0%]",
+      "_note": "Formal binomial test on P. dulcis strand-aware regulatory positioning (previously reported as '61.8%' without explicit binomial p-value).",
+      "source_data": "ncldv_pipeline/results/m09_p_dulcis_regulatory.json"
+    },
+    "blast_478_family_validation": {
+      "_note": "All-vs-all BLASTp on 478-gene compositional family using Camacho et al. 2009 BLAST+. Connected-components clustering at three stringency levels.",
+      "input_family_size": 478,
+      "all_vs_all_total_hits": 9129,
+      "non_self_hits": 8651,
+      "loose_threshold": {
+        "filter": "E<=1e-3, %id>=20, qcov>=50",
+        "n_clusters": 266,
+        "largest_cluster": 106,
+        "n_singletons": 224,
+        "pct_in_multi_member": 53.1
+      },
+      "medium_threshold": {
+        "filter": "E<=1e-5, %id>=30, qcov>=50",
+        "n_clusters": 311,
+        "largest_cluster": 81,
+        "n_singletons": 266,
+        "pct_in_multi_member": 44.4
+      },
+      "strict_threshold": {
+        "filter": "E<=1e-10, %id>=30, qcov>=80",
+        "n_clusters": 349,
+        "largest_cluster": 46,
+        "n_singletons": 306,
+        "pct_in_multi_member": 36.0
+      },
+      "interpretation": "478-gene compositional family decomposes into 1 major homology cluster + ~40 smaller clusters + 47-64% singletons depending on stringency. Supports mixed-origin interpretation: largest cluster is consistent with MITE-mediated paralogous expansion; majority share base/codon constraints rather than uniform sequence-level paralogy.",
+      "source_data": "ncldv_pipeline/results/m07_blast_478_clusters.json"
+    },
+    "new_references_added": {
+      "Schloetterer_2015": "Trends Genet 31:215-219. De novo gene birth review.",
+      "Van_Oss_Carvunis_2019": "PLoS Genet 15:e1008160. De novo gene birth canonical review.",
+      "Vakirlis_2020": "Nat Commun 11:781. Thymine-rich precedent for AT-rich regulatory infrastructure.",
+      "Wilson_2017": "Nat Ecol Evol 1:0146. Young genes structurally distinct from random ORFs.",
+      "Camacho_2009": "BMC Bioinformatics 10:421. BLAST+ methods citation."
     }
   }
 }

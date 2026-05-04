@@ -11,14 +11,15 @@ This repository contains the complete analytical pipeline and data for:
 
 ## Summary
 
-*Pandoravirus salinus* has the largest known viral genome (2.47 Mb), with 92.5% of its genes having no detectable homologs outside the Pandoraviridae. This study presents a 12-module computational framework that characterizes *how* new genes emerge from non-coding sequence in this extraordinary genome.
+*Pandoravirus salinus* has the largest known viral genome (2.47 Mb), with 92.5% of its genes reported to have no detectable homologs outside the Pandoraviridae (Philippe et al. 2013). Our independent BLASTp analysis yields a consistent estimate of 91.4% (95% CI: 89.6–93.0%; from a 820-gene subsample). This study presents a 12-module computational framework that characterizes *how* new genes emerge from non-coding sequence in this extraordinary genome, with cross-NCLDV validation across four additional giant viruses.
 
 **Key findings:**
 
-- A **five-tier proto-gene continuum** with monotonic gradients in GC content, gene length, and codon usage — from mature genes through evolutionary intermediates to proto-gene candidates
-- A **distributed AT-based regulatory system** that pre-loads intergenic regions with promoter and terminator signals (+10.3 / +9.8 percentage points AT enrichment at gene boundaries), resolving how proto-genes can be transcribed regardless of genomic position
-- **81.8% of annotated genes** and **97.0% of hypothetical genes** are Pandoravirus-specific orphans, with a 7.2-fold enrichment in external homology for annotated vs. hypothetical genes (OR = 7.19, 95% CI: 3.5–13.6, p = 7.79 × 10⁻¹²)
-- A **four-stage maturation ordering**: regulatory signals (pre-existing) → protein structure → codon optimization → GC composition
+- A **distributed AT-based regulatory system** that pre-loads intergenic regions with promoter and terminator signals (+10.3 / +9.8 percentage points AT enrichment at gene boundaries), resolving how proto-genes can be transcribed regardless of genomic position. Strand-aware analysis confirms 74% of boundary-associated runs are correctly oriented in *P. salinus* (p ≈ 8 × 10⁻²⁵³) with same-genus replication in *P. dulcis* (61.8%; p ≈ 6 × 10⁻⁸⁰).
+- A **five-tier proto-gene continuum** with monotonic gradients in GC content, gene length, and codon usage — from mature genes through evolutionary intermediates to proto-gene candidates.
+- **81.8% of annotated genes** and **97.0% of hypothetical genes** are Pandoravirus-specific orphans (Fisher's exact OR = 7.19, 95% CI: 3.5–13.6, p = 7.79 × 10⁻¹²). Exhaustive *P. dulcis* BLASTp confirms genus-level patterns with annotated orphan rate 94.7% and hypothetical 98.4%.
+- **64.1% of *P. salinus* genes are compositional singletons** under an adaptive GC-normalized k-mer threshold; the cross-NCLDV singleton rate ranges from 64% to 91% under adaptive thresholds, indicating de novo gene origination as the dominant growth mechanism across the lineage sample.
+- A **four-stage maturation ordering**: regulatory signals (pre-existing) → protein structure → codon optimization → GC composition.
 
 These findings provide independent computational support for the de novo gene birth hypothesis proposed by the Claverie group (Legendre et al. 2018; Jeudy et al. 2019), arrived at through single-genome compositional analysis rather than multi-strain comparative genomics.
 
@@ -84,8 +85,8 @@ pandoravirus-2.0/
 
 ```bash
 # Clone the repository
-git clone https://github.com/mathamagician/pandoravirus-2.0.git
-cd pandoravirus-2.0
+git clone https://github.com/mathamagician/pandoravirus-denovo-genebirth.git
+cd pandoravirus-denovo-genebirth
 
 # Create environment
 conda env create -f environment.yml
@@ -128,7 +129,7 @@ Module 11 (BLASTp) queries NCBI remotely and is fully resumable — it saves res
 
 | Module | Description | Key Output |
 |--------|-------------|------------|
-| 1 | Data acquisition & database setup | PostgreSQL database with 4 genomes |
+| 1 | Data acquisition & database setup | PostgreSQL database with 5 NCLDV + reference genomes |
 | 2 | Genome architecture analysis | GC profiles, coding density, intergenic regions |
 | 3 | Null model calibration | Markov-1 k-mer expectations, effect-size filtering |
 | 4 | Codon usage analysis | Per-gene RSCU, GC3, ENC, CAI |

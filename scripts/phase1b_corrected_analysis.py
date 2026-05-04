@@ -33,11 +33,11 @@ for d in [FIGURES_DIR, RESULTS_DIR]:
     d.mkdir(exist_ok=True)
 
 DB_CONFIG = {
-    "dbname": "pandoravirus",
-    "user": "postgres",
-    "password": "***REMOVED***",
-    "host": "localhost",
-    "port": 5432,
+    "dbname": os.environ.get("DB_NAME", "pandoravirus"),
+    "user": os.environ.get("DB_USER", "postgres"),
+    "password": os.environ["DB_PASSWORD"],
+    "host": os.environ.get("DB_HOST", "localhost"),
+    "port": int(os.environ.get("DB_PORT", 5432)),
 }
 
 COMPLEMENT = {'A': 'T', 'T': 'A', 'G': 'C', 'C': 'G', 'N': 'N'}

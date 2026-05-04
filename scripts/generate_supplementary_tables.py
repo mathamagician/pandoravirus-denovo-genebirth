@@ -11,7 +11,13 @@ import psycopg2
 import psycopg2.extras
 
 # Config
-DB_PARAMS = dict(host='localhost', port=5432, dbname='pandoravirus', user='postgres', password='***REMOVED***')
+DB_PARAMS = dict(
+    host=os.environ.get('DB_HOST', 'localhost'),
+    port=int(os.environ.get('DB_PORT', 5432)),
+    dbname=os.environ.get('DB_NAME', 'pandoravirus'),
+    user=os.environ.get('DB_USER', 'postgres'),
+    password=os.environ['DB_PASSWORD'],
+)
 RESULTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'results')
 OUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'supplementary')
 os.makedirs(OUT_DIR, exist_ok=True)

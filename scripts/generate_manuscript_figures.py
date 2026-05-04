@@ -385,8 +385,13 @@ def _get_gene_positions():
     """Fetch gene start positions from PostgreSQL for spatial scatter plot."""
     try:
         import psycopg2
-        conn = psycopg2.connect(dbname="pandoravirus", host="localhost",
-                                port=5432, user="postgres", password="***REMOVED***")
+        conn = psycopg2.connect(
+            dbname=os.environ.get("DB_NAME", "pandoravirus"),
+            host=os.environ.get("DB_HOST", "localhost"),
+            port=int(os.environ.get("DB_PORT", 5432)),
+            user=os.environ.get("DB_USER", "postgres"),
+            password=os.environ["DB_PASSWORD"],
+        )
         cur = conn.cursor()
         cur.execute("""
             SELECT protein_id, start_pos FROM gene
