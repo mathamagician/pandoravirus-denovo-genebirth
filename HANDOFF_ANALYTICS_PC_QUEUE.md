@@ -1,8 +1,31 @@
 # Pandoravirus 2.0 — Handoff from analytics-pc-queue compute work
 
-**Last updated:** 2026-05-10
+**Last updated:** 2026-05-11 (post-sprint)
 **Purpose:** Onboard a new agent picking up Pandoravirus 2.0 work after
 the recent compute push on the analytics-pc-queue workstation.
+
+## 2026-05-11 OVERNIGHT SPRINT — READ THIS FIRST
+
+A data-integrity sprint resolved major bugs and added missing data.
+See `analytics-pc-queue/docs/FINAL_SUMMARY_2026-05-11.md` for the complete
+post-sprint state. Headline corrections:
+
+1. **5 of the 14 "NCLDV genomes" were wrong organisms** (Paracoccus plasmid,
+   3 fish mitochondria, Staph phage). All replaced with correct accessions.
+2. **NC_037666 was mis-labeled** as P. macleodensis; it is P. neocaledonia.
+   The real P. macleodensis (NC_037665) was missing entirely and has been added.
+3. **P. quercus Foldseek aggregation bug fixed** (303 hits were missing from
+   the master parquet).
+4. **Codon usage now covers all 15 genomes** with full statistics; GC3 direction
+   reversal confirmed in 13/15 genomes (largest effect d = −3.01 for P. dulcis).
+5. **Strict de novo regulatory support tested**: 37 P. salinus strict de novo
+   show boundary AT indistinguishable from annotated genes (p = 0.40).
+6. Two-tier evaluation: **HIGH** (9 genomes, full 8-axis: 323/8184 = 3.95%
+   strict de novo) and **PROVISIONAL** (6 new genomes, sequence-only upper
+   bounds — pending GPU for ESMFold/ESM-2/Foldseek).
+
+The pan-NCLDV story is now publication-grade. Use the HIGH-tier 9-genome
+table from `PAN_NCLDV_DE_NOVO_FINAL.md` for the paper.
 
 ## TL;DR for the new agent
 
@@ -12,12 +35,16 @@ NOT in this Pandoravirus 2.0 folder. That project provides the workhorse pipelin
 paper need to be merged back into this folder. This document points you at every
 relevant artifact so nothing gets missed.
 
-If you only read one thing: the **headline correction** is that the original
-"38 ultra-orphans" / "10.6% de novo rate" claim has been refined. After running
-a proper 8-axis filter across all 14 NCLDV genomes AND substituting a clean
-RefSeq viral DIAMOND DB for the corrupted nr_virus.dmnd, the corrected count
-is **311 of 349 (89%) strict de novo proteins surviving** across the full
-NCLDV cohort, with **37 of 1,430 (2.59%) for *P. salinus* specifically**.
+If you only read one thing: the **headline corrections** (after 2026-05-11
+sprint) are:
+
+- **HIGH-tier 9-genome pan-NCLDV strict de novo: 323 / 8,184 = 3.95%**
+- **P. salinus specifically: 37 / 1,430 = 2.59%**
+- **Pandoraviridae genus (3 species): 1.77–2.59% strict de novo**
+- The original "311 of 349 across 14 NCLDV genomes" was based on data that
+  included 5 wrong organisms — superseded by the HIGH-tier table.
+- PROVISIONAL tier (6 new correct accessions): sequence-only upper bounds
+  pending GPU completion.
 
 ---
 
